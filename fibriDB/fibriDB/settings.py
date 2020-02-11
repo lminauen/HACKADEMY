@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'fibriDB',
-        'USER': 'fibridb',
+        'USER': 'fibriDB',
         'PASSWORD': 'GtEU9eFkbs.D',
         'HOST': 'fibridb.cvbbriwa5ch3.eu-central-1.rds.amazonaws.com',
         'PORT': '3306',

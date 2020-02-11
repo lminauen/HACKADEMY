@@ -1,4 +1,4 @@
-#!/Users/patrickbuess/Projects/2020/Hackademy/hackademy/bin/python3
+#!/Users/patrickbuess/Projects/2020/Hackademy/HACKADEMY/hackademyenv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys

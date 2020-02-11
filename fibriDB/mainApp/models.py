@@ -8,19 +8,19 @@ class community(models.Model):
     name = models.CharField(max_length=100)
 
 
-class items(models.Model):
-    # user = models.ForeignKey(user, related_name="users", on_delete=models.CASCADE)
-    type = models.ForeignKey(type, related_narelated_name="type", on_delete=models.CASCADE)
-    community = models.ForeignKey(community, related_narelated_name="community", on_delete=models.CASCADE)
-    longitude = models.DecimalField(decimal_places=10, max_digits=12)
-    latitude = models.DecimalField(decimal_places=10, max_digits=12)
-
-
 class type(models.Model):
     name = models.CharField(choices=(('defib', 'Defibrillator'),
                                      ('sos', 'SOS Telephone')),
                             default='defib',
                             max_length=100)
+
+
+class items(models.Model):
+    # user = models.ForeignKey(user, related_name="users", on_delete=models.CASCADE)
+    type = models.ForeignKey(type, related_name="type", on_delete=models.CASCADE)
+    community = models.ForeignKey(community, related_name="community", on_delete=models.CASCADE)
+    longitude = models.DecimalField(decimal_places=10, max_digits=12)
+    latitude = models.DecimalField(decimal_places=10, max_digits=12)
 
 
 class defibModels(models.Model):
