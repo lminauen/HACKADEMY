@@ -15,6 +15,14 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# ADD TEMPLATE DIRECTORY
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
+
+# ADD STATIC DIRECTORY
+STATIC_DIR = os.path.join(BASE_DIR, 'static')
+
+# ADD MEDIA DIRECTORY
+MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
@@ -37,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'mainApp',
 ]
 
 MIDDLEWARE = [
@@ -54,7 +63,7 @@ ROOT_URLCONF = 'fibriDB.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [TEMPLATE_DIR, ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -75,9 +84,13 @@ WSGI_APPLICATION = 'fibriDB.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'fibriDB',
+        'USER': 'fibridb',
+        'PASSWORD': 'GtEU9eFkbs.D',
+        'HOST': 'fibridb.cvbbriwa5ch3.eu-central-1.rds.amazonaws.com',
+        'PORT': '3306',
+        }
 }
 
 
@@ -117,4 +130,10 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
+
 STATIC_URL = '/static/'
+STATICFILES_DIRS = [STATIC_DIR, ]
+
+# MEDIA FILES
+MEDIA_ROOT = MEDIA_DIR
+MEDIA_URL = '/media/'
