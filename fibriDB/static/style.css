@@ -1,0 +1,17 @@
+body {
+  background-color:rgb(245, 245, 245);
+}
+
+.main-container {
+  max-width:1200px;
+  width:100%;
+  padding:calc(40px + 2vw);
+  margin:0 auto;
+}
+
+.inner-container {
+  border-radius:3px;
+  border:1px solid #cdcdcd;
+  box-shadow:2px 2px 30px rgba(0,0,0,0.1);
+  padding:calc(40px + 2vw);
+}

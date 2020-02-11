@@ -7,5 +7,5 @@ app_name = 'mainApp'
 
 # URL PATTERNS
 urlpatterns = [
-    url('', views.items.as_view(), name='main'),
+    url('', views.mainView.as_view(), name='main'),
 ]
