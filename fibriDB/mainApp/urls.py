@@ -1,11 +1,18 @@
 from django.conf.urls import url
+from django.conf.urls import include
 from django.urls import path
+from rest_framework import routers
+from mainApp import views
+
 from mainApp import views
 
 # TEMPLATE TAGGING
 app_name = 'mainApp'
 
+
 # URL PATTERNS
 urlpatterns = [
     url('', views.mainView.as_view(), name='main'),
+    path('/items', views.item_list),
+    path('/items/<int:pk>', views.item_detail),
 ]

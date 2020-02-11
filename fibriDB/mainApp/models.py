@@ -1,24 +1,6 @@
 from django.db import models
-from django.contrib.auth.models import User
 
-
-class UserProfileInfo(models.Model):
-    # Create relationship (don't inherit from User!)
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
-
-    # Add any additional attributes you want
-    postalCode = models.IntegerField()
-    street = models.CharField(max_length=150)
-    language = models.CharField(choices=(('de', 'German'),
-                                         ('fr', 'French'),
-                                         ('it', 'Italian'),
-                                         ('en', 'English')),
-                                default='de',
-                                max_length=50)
-
-    def __str__(self):
-        # Built-in attribute of django.contrib.auth.models.User !
-        return self.user.username
+# Create your models here.
 
 
 class community(models.Model):
@@ -34,12 +16,11 @@ class type(models.Model):
 
 
 class items(models.Model):
-    user = models.ForeignKey(UserProfileInfo, related_name="users", on_delete=models.CASCADE, null=True, blank=True)
+    # user = models.ForeignKey(user, related_name="users", on_delete=models.CASCADE)
     type = models.ForeignKey(type, related_name="type", on_delete=models.CASCADE)
     community = models.ForeignKey(community, related_name="community", on_delete=models.CASCADE)
     longitude = models.DecimalField(decimal_places=10, max_digits=12)
     latitude = models.DecimalField(decimal_places=10, max_digits=12)
-    availability = models.CharField(max_length=300, null=True, blank=True)
 
 
 class defibModels(models.Model):
