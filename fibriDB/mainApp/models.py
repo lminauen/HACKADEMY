@@ -28,7 +28,7 @@ class community_id(models.Model):
 
 class community(models.Model):
     postalCode = models.IntegerField()
-    community = models.ForeignKey(community_id, related_name="community ID", on_delete=models.CASCADE, null=True, blank=True)
+    commune = models.ForeignKey(community_id, related_name="community_identification", on_delete=models.CASCADE, null=True, blank=True)
 
 
 class type(models.Model):

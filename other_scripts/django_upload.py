@@ -61,4 +61,4 @@ def populate():
         print("Added category "+str(i)+"/"+str(len(communityIDData)))
         name = communityIDData.Ort[i]
         canton = communityIDData.Kanton[i]
-        community_id.objects.get_or_create(name=name, canton=canton)
+        commune.objects.get_or_create(name=name, canton=canton)
