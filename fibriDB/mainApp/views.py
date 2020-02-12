@@ -1,15 +1,16 @@
 from django.shortcuts import render
 from django.views.generic import View, TemplateView
-from rest_framework import viewsets, status
+from rest_framework import viewsets, status, generics
 from django.http import HttpResponse, JsonResponse, Http404
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.decorators import api_view
 from rest_framework.parsers import JSONParser
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from django.contrib.auth.models import User
 
 from mainApp.models import items
-from mainApp.serializers import ItemsSerializer
+from mainApp.serializers import ItemsSerializer, UserSerializer
 from mainApp import forms
 
 
@@ -61,6 +62,16 @@ class ItemDetail(APIView):
         item = self.get_object(pk)
         item.delete()  # Delete the item from the DB
         return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+class UserList(generics.ListAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+class UserDetail(generics.RetrieveAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
 
 
 class userAccount(View):
