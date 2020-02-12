@@ -1,0 +1,371 @@
+ID,type,community_ID,latitude,longitude,PLZ,Ort,Adresse,Nr,Kanton,Ort_Beschreibung,Bemerkung,Zuständigkeit
+1,1,1871,47.48487540000001,7.732293999999999,4410,Liestal,Bahnhofstrasse,5,Basel-Landschaft,Eingang Volkswirtschafts- und Gesundheitsdirektion,Nur während den Bürozeiten,VGD
+2,1,1871,47.4850246,7.733957800000001,4410,Liestal,Rathausstrasse,2,Basel-Landschaft,Haupteingang rechts nach Windfang an Wand, ,LKA
+3,1,1918,47.4697871,7.871876599999999,4466,Ormalingen,Hauptstrasse,165,Basel-Landschaft,Aussen beim Haupteingang Zentrum Ergolz unterhalb Briefkasten, ,Einwohnergemeinde Ormalingen
+4,1,1825,47.4928388,7.5896756,4153,Reinach,Hauptstrasse,29,Basel-Landschaft,"Gasthof Schlüssel, WC-Treppe",Während den Öffnungszeiten,Monika und Arthur Wälti-Herzog
+5,1,1871,47.48647980000001,7.7311264,4410,Liestal,Rheinstrasse,25,Basel-Landschaft,Beim Empfang melden,"während der Oeffnungszeiten des Polizeipostens. Noch zu überprüfen
+",Polizei BL
+6,1,1904,47.4679923,7.7984691,4450,Sissach,Netzenstrasse,1,Basel-Landschaft,"Eingangsbereich zwischen NSNW und Verkehrsabteilung Polizei, vom Hof aus.", ,NSNW Sissach 061 975 45 45
+7,1,1889,47.4506427,7.763363,4433,Ramlinsburg,Gassenbrunnen,10,Basel-Landschaft,Öffentlich zugänglich an Gebäude-Aussenseite,Keine,Gemeinde Ramlinsburg
+8,1,1839,47.3626529,7.588187500000001,4229,Beinwil,Klosterkirche, ,Solothurn,"Zugang: 24h / 365 Tage im Jahr
+Schilder AED zum Hauseingang neben Kirche.
+AED frei zugänglich, links hinter Haustür",keine,"Kloster Beinwil, Oekumenische Gemeinschaft"
+9,1,1794,47.5384197,7.618926900000001,4052,Basel,Mittlere Allee,18,Basel-Stadt, ,"Mo - Fr 08.00 - 18.00 Uhr
+","Departement für Sport, Bewegung und Gesundheit
+"
+10,1,1800,47.5073142,7.523096,4105,Biel-Benken,"Primarschulhaus, Kilchbühlstrasse",7,Basel-Landschaft,An der Aussenwand beim Schulhauseingang,keine,Gemeinde Biel-Benken
+11,1,1871,47.4816375,7.731434999999999,4410,Liestal,Oristalstrasse,25,Basel-Landschaft,"Treppe/ Lift 1. Stock, Praxis Dr. Ritz",Nur während Praxiszeiten,"Dr. med. M. Ritz, Gastroenterologie FMH"
+12,1,1890,47.4250258,7.7705426,4434,Hölstein,Bündtenweg,40,Basel-Landschaft,Beim Eingang der Gemeindeverwaltung Hölstein,keine,Einwohnergemeinde Hölstein
+13,1,1879,47.3977357,7.691820600000001,4418,Reigoldswil,Dorfplatz,17,Basel-Landschaft,Wartehäuschen Bushaltestelle, , 
+14,1,1825,47.4937184,7.591071500000001,4153,Reinach BL,Hauptstrasse,10,Basel-Landschaft,"Parterre Gemeindeverwaltung
+links neben den Liften",nur während den Öffnungszeiten derGemeindeverwaltung,Gemeinde Reinach
+15,1,1799,47.51219150000001,7.555239299999999,4104,Oberwil,Mühlegasse,10,Basel-Landschaft,"Fa. Böhringen, 1. EG beim Empfang",Mo - Fr. 07.30-12.00 / 13.30-17.00,"Böhringer AG
+Ingenieure und Planer"
+16,1,1879,47.3986926,7.655404700000001,4418,Reigoldswil,Turnhalle Sekundarschule Reigoldswil, ,Basel-Landschaft,Im Eingang zur Turnhalle der Sekundarschule,Nur während Schulbetrieb,Samariterverein Reigoldswil
+17,1,1894,47.3902778,7.6963889,4437,Waldenburg,Bergstation Lufteilbahn Reigoldswil-Wasserfallen, ,Basel-Landschaft,Vor der Türe zum Restaurant Heidi-Stübli (rechts)., ,Stiftung Luftseilbahn Reigoldswil-Wasserfallen
+18,1,1886,47.3887399,7.6763299,4426,Lauwil,Lammetstr.,3,Basel-Landschaft,vor der Eingangstüre Gemeindeverwaltung, ,Gemeinde Lauwil
+19,1,1843,47.4251952,7.5040515,4242,Laufen,Lochbruggstrasse,39,Basel-Landschaft,"Kantonsspital Baselland Standort Laufen, Erdgeschoss, kann im Notfall auch von Passanten geholt werden", ,Kantonsspital Baselland Standort Laufen
+20,1,1820,47.4920844,7.620366700000001,4144,Arlesheim,Domplatz,12,Basel-Landschaft,im Eingangsbereich links,nachts geschlossen,Röm.-kath. Kirchgemeinde
+21,1,1894,47.3809742,7.746973100000001,4437,Waldenburg,Hauptstrasse,85,Basel-Landschaft,Beim Empfang melden,Während den Betriebszeiten,Revue Thommen AG
+22,1,1878,47.4320593,7.7077779,4417,Ziefen,Primarschulhaus Eienstrasse 21, ,Basel-Landschaft,im Eingangsbereich auf der rechten Seite,während dem Schulbetrieb,Samariterverein Ziefen
+23,1,1823,47.4735592,7.5869681,4147,Aesch,Landskronstrasse,41,Basel-Landschaft,Im Eingangsbereich beim Sanitätsraum,Bei geöffneter Anlage,Mehrzweckhalle Löhrenacker
+24,1,1823,47.4772,7.601769999999999,4147,Aesch,Dornacherstrasse,85,Basel-Landschaft,Neben Kasse,0900-1900 Mai - September,Schwimmbad Schützenmatte Aesch
+25,1,1823,47.4657451,7.5992283,4147,Aesch,Hauptstrasse,23,Basel-Landschaft,Empfang,"Mo, Di, Fr. 0800-1200 Uhr & 1330-1630 Uhr
+Mi 0730-1200 Uhr & 1330-1800 Uhr
+Do 0800-1400 Uhr",Gemeindezentrum Aesch
+26,1,1794,47.54758899999999,7.589662,4000,Basel,Bahnhof SBB, ,Basel-Stadt,"Passerelle, neben Zugang zu Gleis 11", ,SBB
+27,1,1889,47.4478922,7.765931699999999,4433,Ramlinsburg,Brünnliweg,9,Basel-Landschaft,Eingang MZH (aussen),keine,Gemeinde Ramlinsburg
+28,1,1871,47.486388,7.7423644,4410,Liestal,Arisdörferstrasse,21,Basel-Landschaft,"APH Brunnmatt, im Restaurant im EG",08:30 bis 17:30,APH Brunnmatt
+29,1,1823,47.4741156,7.594822799999999,4147,Aesch,Herrenweg,14,Basel-Landschaft,"Direkt auf der linken Seite im Eingangsbereich des Steinackerhauses
+","Montag, Dienstag, Donnerstag, Freitag in der Regel von 8 - 11.45 h und von 13.30 - 17 h.
+An den anderen Tagen nur, wenn ein Anlass stattfindet und das Steinackerhaus geöffnet ist.",Evang. - Ref. Kirchgemeinde Aesch-Pfeffingen
+30,1,1797,47.5436896,7.575606499999999,4102,Binningen,Hauptstrasse,1,Basel-Landschaft,Zahnarztpraxis zur Waage,Während Oeffnungszeiten, 
+31,1,1904,47.4697628,7.8002616,4450,Sissach,Grienmattweg,47,Basel-Landschaft,"Tenniscenter, Eingangsbereich",Während den Öffnungszeiten, 
+32,1,1871,47.4966338,7.720899499999999,4410,Liestal,Frenkendörferstrasse,17,Basel-Landschaft,Im Eingangsbereich EG,Nur während den Bürozeiten,TBA/ZID
+33,1,1923,47.4396277,7.9094674,4493,Wenslingen,Hauptstrasse,165,Basel-Landschaft,"AED steht rechtsseitig an der Wand im Feuerwehrmagazin, Zugangshilfe beachten",Keine,Gemeinde Wenslingen
+34,1,1924,47.4323369,7.934055499999999,4494,Oltingen,Hauptstrassse,44,Basel-Landschaft,"Ehemalige Käserei, im Vorraum zu den Tiefkühlfächern.", ,Gemeinde Oltingen
+35,1,1875,47.5056508,7.730985,4414,Füllinsdorf,Mitteldorfstrasse,4,Basel-Landschaft,Im Eingang Gemeindeverwaltung,Während der Öffnungszeiten,Gemeinde Füllinsdorf; Sidler Kurt
+36,1,1921,47.3935352,7.885769599999999,4469,Anwil,"Schulweg 79, Schulhaus und Mehrzweckhalle",79,Basel-Landschaft,Zugang über Schulhausplatz zu Fuss oder mit Zweirad möglich,Frei zugänglich,Gemeinde Anwil
+37,1,1921,47.4497875,7.939410299999999,4469,Anwil,"Hauptstrasse 13, Restaurant Jägerstübli",13,Basel-Landschaft,frei zugänglich, ,Gemeinde Anwil
+38,1,1811,47.5526962,7.546185500000001,4123,Allschwil,Baslerstrasse,111,Basel-Landschaft,An der Porte melden,"Während der Öffnungszeiten der Gemeindeverwaltung: 
+Mo, Mi + Fr 08:00 - 11:45 und 14:00 bis 17:00 Uhr
+Di + Do 08:00 - 11:45 Uhr",Gemeindeverwaltung Allschwil
+39,1,1908,47.44910729999999,7.807182099999999,4455,Zunzgen,Alte Landstrasse,5,Basel-Landschaft,Im Eingangsbereich Treppenhaus, , 
+40,1,1800,47.5052101,7.5140161,4105,Schlössli Biel-Benken,Mühlegasse,25,Basel-Landschaft,"Wand, Eingangsbereich",Zugang zum Schlössli nur während Spielgruppenbetrieb oder wenn dieses vermietet ist.,Gemeindeverwaltung Biel-Benken
+41,1,1880,47.447436,7.6973411,4419,Lupsingen,Liestalerstrasse,36,Basel-Landschaft,im Zwischeneingang der MZH,nur während dem Schulbetrieb oder bei Veranstaltungen,Einwohnergemeinde Lupsingen
+42,1,1801,47.4995923,7.550635899999999,4106,Therwil,Schulgasse,1C,Basel-Landschaft,"99er-Sporthalle, nach der Eingangstür im Foyer rechts","öffentliches Gebäude, über Nacht nicht zugänglich","Gemeinde Therwil
+Bahnhofstrasse 33
+4106 Therwil
+061 725 21 21"
+43,1,1801,47.4983077,7.558198,4106,Therwil,Bahnhofstrasse,36A,Basel-Landschaft,"Mehrzweckhalle beim Bahnhofschulhaus, nach Eingangstür im Foyer rechts",über Nacht geschlossen,"Gemeinde Therwil
+Bahnhofstrasse 33
+4106 Therwil
+061 725 21 21"
+44,1,1876,47.47371159999999,7.75938,4415,Lausen,Grammontstrasse,1,Basel-Landschaft,"Gemeindehaus, aussen am Gebäude, im Parterre, neben dem Bancomat der Basellandschaftlichen Kantonalbank",Keine,Einwohnergemeinde Lausen
+45,1,1910,47.4129908,7.811855100000001,4457,Diegten,Känerkinderstrasse,4,Basel-Landschaft,"Mehrzweckhalle Diegten, ausserhalb der Küche, beim Eingang, oberhalb der Treppe.", ,Gemeindeverwaltung Diegten
+46,1,1870,47.5009867,7.7203943,4402,Frenkendorf,Parkstrasse,3,Basel-Landschaft,"Erdgeschoss, rechts neben Lift",Mo - Fr 8-17 Uhr,"Amt für Migration, SID"
+47,1,1818,47.5193694,7.612452899999999,4142,Münchenstein,Schulackerstrasse,4,Basel-Landschaft,"Haupteingang Verwaltung
+neben dem Empfang an der Wand","während Bürozeiten öffentlich zugänglich
+",Gemeinde Münchenstein
+48,1,1818,47.52046,7.616585,4142,Münchenstein,"Loogstrasse, Kuspo",2,Basel-Landschaft,"Eingang Foyer, links an der Wand",nur bei Anlässen zugänglich,Gemeinde Münchenstein
+49,1,1816,47.5227628,7.646000900000001,4132,Muttenz,Kirchplatz,3,Basel-Landschaft,Eingangshalle links hinter der Treppe 2. Tür oder an einem Schalter  melden.,"Öffnungszeiten Gemeinde Mo - Fr 9 - 11 und 14 - 16* Uhr, Mittwoch bis 18.30 Uhr",Gemeinde Muttenz
+50,1,1816,47.5229633,7.645553199999998,4132,Muttenz,Hauptstrasse,2,Basel-Landschaft,"Geschäftshaus, 1.OG im Gang/Treppenhaus
+oder wenden Sie sich an eine/n Schalter/Abteiung.","Öffnungszeiten Gemeinde Mo - Fr  9 - 11 und 14 - 16, Mittwoch bis 18.30 Uhr",Gemeinde Muttenz
+51,1,1826,47.4514165,7.6070558,4202,Duggingen,Oberdorf,11,Basel-Landschaft,Büro Einwohnerkontrolle,Öffnungszeiten Gemeinde,Gemeinde Duggingen
+52,1,1826,47.4498811,7.6077201,4202,Duggingen,Gillmattenweg,1,Basel-Landschaft,Haupteinang Gang rechts,Öffnungszeiten,Gemeinde Duggingen
+53,1,1826,47.4531004,7.6050115,4202,Duggingen,Aeschstrasse,3,Basel-Landschaft,Lehrerzimmer,Öffnungszeiten Schulhaus,Gemeinde Duggingen
+54,1,1894,47.3842515,7.748723,4437,Waldenburg,Hauptstrasse,30,Basel-Landschaft,Vor der Tür zum Eingang zur Turnhalle (rechts), ,"Einwohnergemeinde Waldenburg
+Bruno Flück, Abwart"
+55,1,1894,47.3741037,7.746735200000001,4437,Waldenburg,Alte Hauensteinstrasse,26,Basel-Landschaft,Im Sommer während Schwimmbadsaison vor dem Büro Badmeister,Defibrilator nur im Sommer (Mitte Mai - Mitte September) zugänglich. Im Winter im Büro Badmeister,Einwohnergemeinde Waldenburg
+56,1,1799,47.5154819,7.553324300000001,4104,Oberwil,Im Thomasgarten,7,Basel-Landschaft,"Nur während Schulbetrieb geöffnet, 08.00 - 12.00 Uhr garantiert offen","Wochentags von 8.00 - 12.00 Uhr während Schulbetrieb geöffnet, ansonsten geschlossen","Gemeinde Oberwil
+Hauptstrasse 24
+4104 Oberwil"
+57,1,1799,47.51473,7.5560731,4104,Oberwil,Schulstrasse,6,Basel-Landschaft,Während Schulbetrieb von 08.00 - 12.00 Uhr geöffnet,Nur während Schulbetrieb geöffnet,"Gemeinde Oberwil
+Hauptstrasse 24
+4104 Oberwil"
+58,1,1799,47.5107651,7.5573098,4104,Oberwil,Sägestrasse,8d,Basel-Landschaft,Öffnungszeiten Hallenbad,"Montag - Freitag 08.00 - 21.30 h
+Samstag 08.00 - 18.00 Uhr 
+Sonntag 09.00 - 17.00 Uhr (Oktober bis März)
+10.00 - 16.00 Uhr (April bis September) 
+","Gemeinde Oberwil
+Hauptstrasse 24
+4104 Oberwil"
+59,1,1811,47.5535418,7.5532524,4123,Allschwil,Baslerstrasse,226,Basel-Landschaft,Bitte im Sekretariat melden (Eingang links Richtung Basel vom Haupteingang),"Während den Öffnungszeiten des Sekretariats:
+Montag, 9 - 12, 14 - 17 Uhr
+Dienstag, Donnerstag und Freitag, 9 - 12 Uhr
+",Evangelisch-reformierte Kirchgemeinde Allschwil-Schönenbuch
+60,1,1898,47.4238558,7.8416253,4443,Wittinsburg,Unterdorfstrasse,25,Basel-Landschaft,"Im Eingang zum Geburtshaus, unten an der Treppe. Für zusätzliche medizinische Hilfe beim Geburtshaus klingeln. Wir stellen auch einen Beatmungsbeutel zur Verfügung.",keine,"Geburtshaus ambra, Franziska Zumbrunn"
+61,1,1894,47.3868197,7.7491533,4437,Waldenburg,Hauptstrasse,12,Basel-Landschaft, , ,Waldenburgerbahn AG
+62,1,1817,47.5194367,7.695619399999999,4133,Pratteln,Oberemattstrasse,13,Basel-Landschaft,"Aussen am KSZ Pratteln, rechts vom Eingang Sporthallen",Keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+63,1,1817,47.5190794,7.6819692999999996,4133,Pratteln,Wartenbergstrasse,58,Basel-Landschaft,"Aussen am Schulhaus Aegelmatt, von Muttenzerstrasse her, Pfosten rechts",Keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+64,1,1817,47.5212249,7.704351099999999,4133,Pratteln,Gehrenackerstrasse,7,Basel-Landschaft,"Aussen beim MIGROS Partner Gehrenacker, links um die Ecke bei der Sammelstelle",keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln
+"
+65,1,1893,47.3938765,7.7516531,4436,Oberdorf,Dorfmattstrasse,6,Basel-Landschaft,Beim Eingang der Gemeindeverwaltung,keine,Gemeinde Oberdorf
+65,1,1892,47.3938765,7.7516531,4436,Oberdorf,Dorfmattstrasse,6,Basel-Landschaft,Beim Eingang der Gemeindeverwaltung,keine,Gemeinde Oberdorf
+66,1,1904,47.4574436,7.8086785,4450,Sissach,Renggenweg,12,Basel-Landschaft,Das Gerät ist im Eingangsbereich zum Restaurant.,Das Gerät ist während den wechselnden Öffnungszeiten der Kunsteisbahn zugänglich., 
+67,1,1811,47.5450996,7.552258699999999,4123,Allschwil,Binningerstrasse,116,Basel-Landschaft,Beim Empfang der Firma SKAN,Zu Bürozeiten,Firma SKAN AG
+68,1,1831,47.3938437,7.619251599999999,4208,Nunningen,Kleine Seite,6,Solothurn,In der Raiffeisen Filiale beim Bancomat, ,Andre Gasser oder Tom Betz
+69,1,1146,47.43425190000001,7.339486399999999,2814,Roggenburg,Hauptstrasse,7,Basel-Landschaft,An der Hauswand,keine,"Einwohnergemeinde Roggenburg
+Gemeindeverwaltung
+Höhenackerweg 2
+2814 Roggenburg"
+70,1,1830,47.3992324,7.655314199999999,4207,Bretzwil,Schulgasse,1,Basel-Landschaft,Eingangsbereich Gemeindezentrum,keine,Einwohnergemeinde Bretzwil
+71,1,1817,47.525576,7.705182799999999,4133,Pratteln,Giebenacherstrasse,10,Basel-Landschaft,"Schwimmbad Sandgrube, bei Sportbecken am 3m-Sprungturm",nur während Badi-Öffnungszeiten,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+72,1,1817,47.5226363,7.6904546,4133,Pratteln,Güterstrasse,10,Basel-Landschaft,"Aussen am Bahnhof Pratteln, Peron 1, rechts neben Kiosk",keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+73,1,1817,47.53373879999999,7.710352899999999,4133,Pratteln,Längistrasse,14,Basel-Landschaft,"Aussen beim SPAR Supermarkt, rechts, bei Sammelstelle",keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+74,1,1825,47.4877554,7.597327099999999,4153,Reinach,Kägenstrasse,10,Basel-Landschaft,Ecolab Nalco  2. Stock im Treppenhaus,Nur während Bürozeiten,Ecolab (Schweiz) GmbH
+75,1,1811,47.5466325,7.549773099999999,4123,Allschwil,Binningerstrasse,106,Basel-Landschaft,Gleich nach Eingangstür rechts im EG,Zu Bürozeiten,Firma SKAN AG
+76,1,1871,47.4865009,7.729921,4410,Liestal,Rheinstrasse,29,Basel-Landschaft,"4. OG, Mittelgang oberhalb Druckgerät",7.30 – 12.00 und 13.30 – 17.00 Uhr,Tiefbauamt Basel-Landschaft
+77,1,1825,47.4873075,7.602968499999999,4153,Reinach,Fluhstrasse,4a,Basel-Landschaft,Eingang Treppenhaus links,Während Arbeitszeit,TBA BL
+78,1,1904,47.46810079999999,7.799653500000001,4450,Sissach,Netzenstrasse,3F,Basel-Landschaft,Haupteingang Tiefbauamt Innenbereich,Nur während den Bürozeiten,"Kanton Basel-Landschaft
+Bau- und Umweldschutzdirektion
+Infrastruktur und Mobilität
+Tiefbauamt"
+79,1,1817,47.5198711,7.6944266,4133,Pratteln,Schlossstrasse,34,Basel-Landschaft,"In der Verwaltung, beim Empfang melden",nur während Öffnungszeiten,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+80,1,1875,47.5044824,7.7240221,4414,Füllinsdorf,Ergolzstrasse,31,Basel-Landschaft,"Arztpraxis im EG, Eingang seitlich","Während Praxisöffnungszeiten, i.d.R. werktags von 07.30 h bis 14.00 h",Dr. B. Biedermann
+81,1,1825,47.4857916,7.594975700000001,4153,Reinach,Pfeffingerstrasse,45,Basel-Landschaft,"2. OG, Stao Kantine","Montag bis Freitag 08.00 Uhr bis 16.45 Uhr, während Büroöffnungszeiten","Allpack Group AG, 4153 Reinach"
+82,1,1802,47.4824499,7.550613399999999,4107,Ettingen,Gempenweg,19,Basel-Landschaft,"Schulhaus Trakt 2
+Aussenfassade Haupteingang",24/7 zugänglich,Einwohnergemeinde Ettingen
+83,1,1912,47.4641504,7.8564588,4460,Gelterkinden,Marktgasse,8,Basel-Landschaft,Im Eingangsbereich der Gemeindeverwaltung,"Während den Öffnungszeiten der Gemeindeverwaltung:
+Mo: 09.30 - 11.30 Uhr / 14.00 - 18.30 Uhr
+Di, Mi, Fr: 09.30 - 11.30 Uhr / 14.00 - 16.30 Uhr
+Do: 09.30 - 11.30 Uhr / geschlossen
+",Einwohnergemeinde Gelterkinden
+84,1,1802,47.4836526,7.545925400000001,4107,Ettingen,Bahnweg,1,Basel-Landschaft,"Tramhaltestelle Bahnhof
+Gleich neben dem Billette-Automaten",24/7 zugänglich,Einwohnergemeinde Ettingen
+85,1,1870,47.5028154,7.7138825,4402,Frenkendorf,Kirchgasse,2,Basel-Landschaft,"in der Kirche, im Sakristei-Raum",während kirchlichen Anlässen,Ev. ref. Kirchgemeinde Frenkendorf-Füllinsdorf / Stiftung Kirchengut Liestal
+86,1,1871,47.48806159999999,7.731280099999999,4410,Liestal,Mühlemattstrasse,26,Basel-Landschaft,Limitierter Gebäudezugang - nur mit Personalausweis KSBL,Während der bedienten Zeiten des Empfangs,Direktionsempfang
+87,1,1875,47.507542,7.728535699999999,4414,Füllinsdorf,Friedhofweg,26,Basel-Landschaft,"in der Kirche, im Sakristei-Raum",während kirchlichen Anlässen,Ev. ref. Kirchgemeinde Frenkendorf-Füllinsdorf
+88,1,1875,47.4887482,7.618609999999999,4414,Arlesheim,Bromhübelweg,15,Basel-Landschaft,"im Haupteingangsbereich des Pflegeheims,  Benutzung beim Empfang oder Restaurant zwingend melden.",Zugang eingeschränkt: 7 - 19 Uhr,Stiftung Obesunne
+89,1,1894,47.3833512,7.7490753,4437,Waldenburg,Hauptstrasse,35,Basel-Landschaft,2. Stock rechte Türe,zu Bürozeiten,Tschudin + Heid AG
+90,1,1852,47.5340531,7.7195173,4302,Augst,Schulstr,1,Basel-Landschaft,Türen teilweise geschlossen,Schulzeiten offen,Gemeinde Augst
+91,1,1818,47.5162513,7.614288899999999,4142,Münchenstein,Pumpwerkstrasse,11,Basel-Landschaft, ,Haupteingangstüre offen i.d.R. Mo-Fr 06:00-18:00,bc medien ag
+92,1,1917,47.48695660000001,7.888849599999999,4465,Hemmiken,Hauptstrasse,50,Basel-Landschaft,Im Eingangsbereich der Mehrzweckhalle, ,"Einwohnergemeinde Hemmiken
+Buusnerstrasse 3
+4465 Hemmiken
+"
+93,1,1811,47.5457295,7.5535153,4123,Allschwil,Stockbrunnenrain,8,Basel-Landschaft,Die Mitarbeiter der Zentrale werden umgehend die weiteren Vorkehrungen einleiten und das interne Interventionsteam alarmieren.,"Mo. - Do., 07:30 - 12:00 / 13:00 - 17:00 Uhr
+Fr. 07:30 - 13:00 Uhr","Stäubli Electrical Connectors AG
+Stockbrunnenrain 8
+4123 Allschwil"
+94,1,1811,47.53922559999999,7.5310042,4123,Allschwil,Markstallstrasse,6,Basel-Landschaft,Gerät befindet sich beim Empfang,Zu den Bürozeiten (08.00 - 12.00 / 14.00 - 17.00),Stiftung Schweizerische Schule für Blindenführhunde
+95,1,1871,47.4757721,7.722206099999999,4410,Liestal,Oristalstrasse,100a,Basel-Landschaft,"Hauptgebäude, Haupteingang",währende Bürozeiten,Amt für Militär und Bevölkerungsschutz
+96,1,1871,47.4757721,7.722206099999999,4410,Liestal,Oristalstrasse,100a,Basel-Landschaft,"Hauptgebäude, Eingang Rampe",während Bürozeiten,Amt für Militär und Bevölkerungsschutz
+97,1,1871,47.4833386,7.7371737,4410,Liestal,Kantinenweg,30,Basel-Landschaft,"Dreifachsporthalle, Haupteingang",während Bürozeiten,Amt für Militär und Bevölkerungsschutz
+98,1,1876,47.4741989,7.763594899999999,4415,Lausen,Schelligackerweg,11,Basel-Landschaft,"Mehrzweckhalle Stutz, Parterre, im Korridor rechts","zu den Öffnungszeiten (unregelmässig, hängt vom Trainingsbetrieb ab)",Einwohnergemeinde Lausen
+99,1,1818,47.519742,7.613623299999999,4142,Münchenstein,Loogstrasse,17,Basel-Landschaft,Je 1 AED auf Einsatzleiterfahrzeug sowie Tanklöschfahrzeug.,keine,"Feuerwehr Münchenstein, Hptm Fabian Waldvogel"
+100,1,1817,47.5296954,7.697102999999999,4133,Pratteln,Netzibodenstrasse,16,Basel-Landschaft,Im Eingang A80 (Empfang),während den Geschäftszeiten,ARA Rhein AG
+101,1,1894,47.3868197,7.7491533,4437,Waldenburg,Hauptstrasse,12,Basel-Landschaft,Bei  Postauto Haltestelle unter Perrondach, ,"Baselland Transport AG
+Standort Waldenburg"
+102,1,1801,47.4995696,7.556908900000001,4106,Therwil,Bahnhofstrasse,21,Basel-Landschaft,an der Hauswand neben dem Ortsplan,keine,"Gemeinde Therwil
+Bahnhofstrasse 33
+4106 Therwil
+061 725 21 21"
+103,1,1801,47.4939536,7.556113,4106,Therwil,Känelrain,10,Basel-Landschaft,Sportanlage Känelboden / an der Aussenwand des Clubhauses,keine,"Gemeinde Therwil
+Bahnhofstrasse 33
+4106 Therwil
+061 725 21 21"
+104,1,1801,47.4961158,7.5556052,4106,Therwil,Känelmattweg,9,Basel-Landschaft,Eingangsbereich der Musikschule,während den Öffnungszeiten der Musikschule,Jugendmusikschule Leimental
+105,1,1815,47.5480836,7.625042199999999,4127,Birsfelden,Muttenzerstrasse,61,Basel-Landschaft,Bei der Garageneinfahrt innen links an der Wand. Die Garageneinfahrt ist von der Strasse aus leicht nach hinten versetzt.,durchgehend zugänglich,Lüthi Haustechnik AG
+106,1,1817,47.52399700000001,7.7125306,4133,Pratteln,Wannenweg,6,Basel-Landschaft,"Beim Tor 5, seitlich am Gebäude (im Wannenboden)",Werktags 07.00 - 12.00 und 13.00 - 16.00,"Systemtech Schneider AG
+Rolf Hohler
+Sicherheitsbeauftragter"
+107,1,1817,47.52399700000001,7.7125306,4133,Pratteln,Wannenweg,6,Basel-Landschaft,"Beim Haupteingang, Büro (Wannenweg)","Werktags 07.00 - 12.00 und 13.00 - 16.00
+","Schreinerei Schneider AG
+Rolf Hohler
+Sicherheitsbeauftragter
+"
+108,1,1871,47.487082,7.7290234,4410,Liestal,Rheinstrasse,33b,Basel-Landschaft,Eingang Finanz- und Kirchendirektion,Nur während Bürozeiten,Zentrale Informatik
+109,1,1823,47.4792095,7.592592,4147,Aesch,Therwilerstrasse,7,Basel-Landschaft,"impulstrain-in ag
+physiotherapie/medical training
+4 Stock bei Anmeldung/Reception
+","an Werktagen 0700-1900Uhr
+Samstag 0900-1300Uhr
+Allg Feiertage und Sonntage geschlossen
+Öffnungszeiten können vor Feiertagen variieren",impulstrain-in ag
+110,1,1825,47.4862355,7.6004778,4153,Reinach,Seewenweg,6,Basel-Landschaft,"Defibrillator befindet sich in unseren Büroräumlichkeiten: Vom Büroeingang her muss maximal eine Tür geöffnet werden zur Küche. Der Küchenschrank, in welchem sich der Defibrillator befindet, ist mit einem grossen Aufkleber gekennzeichnet.","Zugang während Büro-Öffnungszeiten:
+Mo. – Fr.  08:00 bis 12:00 h
+Mo. – Do. 13:30 bis 17:00 h / Fr. bis 16:00 h
+",Ridoma AG
+111,1,1823,47.4807035,7.577879,4147,Aesch,Schlatthofweg,42,Basel-Landschaft,Im Eingangsbereich,täglich von 07:00 bis 22:00,"Verein für Sozialpsychiatrie Baselland
+"
+112,1,1825,47.4998067,7.5955205,4153,Reinach,Schönenbachstrasse,9,Basel-Landschaft,Im Eingangsbereich rechts,Von 7.00-22.00 Uhr,Verein für Sozialpsychiatrie BL
+113,1,1825,47.4898349,7.599967299999999,4153,Reinach,Bruggstrasse,91,Basel-Landschaft,"im Erdgeschoss, durch den Haupteingang geradeaus bis vor die Küche laufen, hängt links an der Wand","MO-FR  07.00 - 22.00h
+SA-SO  08.00 - 22.00h",Verein für Sozialpsychiatrie BL
+114,1,1794,47.5384197,7.618926900000001,4052,Basel,Mittlere Allee,18,Basel-Stadt,"=2.Gerät an derselben Adresse, im Gang auf der Südseite des Gebäudes.","Mo - Fr 08.00 - 18.00 Uhr
+","Departement für Sport, Bewegung und Gesundheit
+"
+115,1,1925,47.4171869,7.907841299999999,4495,Zeglingen,Wisenstrase,3,Basel-Landschaft, , ,Einwohnergemeinde Zeglingen
+116,1,1884,47.39788120000001,7.692387399999999,4424,Arboldswil,Tittertenstrasse,6,Basel-Landschaft,Rechts neben dem Haupteingang der Schule.,Keine,Einwohnergemeinde Arboldswil
+117,1,1871,47.4840956,7.734739599999999,4410,Liestal,Rathausstrasse,36,Basel-Landschaft,"Zugang von Salzgasse
+AED links im Windfang Eingang Rathaus","Mo, Di, Do, Fr 08.00-12.00 / 13.30-16.30
+Mi 10.30-18.30",Stadt Liestal
+118,1,1877,47.449794,7.736352399999999,4416,Bubendorf,Hintergasse,20,Basel-Landschaft,"frei zugänglich an Aussenwand Gemeindeverwaltung, 15 Meter rechts von Eingang.",---,Einwohnergemeinde Bubendorf
+119,1,1877,47.45281689999999,7.7391165,4416,Bubendorf,Sonneckstrasse,17,Basel-Landschaft,"frei zugänglich, rechts von Windfang Haupteingang Sporthalle",---,Einwohnergemeinde Bubendorf
+120,1,1895,47.3500635,7.7684162,4438,Langenbruck,Kräheggweg,1,Basel-Landschaft,die Defigruppe der Feuerwehr muss über den Notruf aufgeboten werden, ,Feuerwehr Langenbruck
+121,1,1872,47.4634271,7.720655099999999,4411,Seltisberg,Liestalerstrasse,5,Basel-Landschaft,"Rechte Gebäudeseite, beim Hintereingang",Keine,"Gemeinde Seltisberg, Liestalerstrasse 4, 4411 Seltisberg"
+122,1,1798,47.522706,7.567991299999999,4103,Bottmingen,Burggartenstrasse,15,Basel-Landschaft,Sanitätsraum,nur während Öffnungszeiten zugänglich,Gartenbad beim Schloss Bottmingen
+123,1,1798,47.5239232,7.568831199999999,4103,Bottmingen,Burggartenstrasse,1,Basel-Landschaft,"Hallenbad, Sanitätsraum",nur während Öffnungszeiten zugänglich,Gemeinde Bottmingen
+124,1,1815,47.5526087,7.6248977,4127,Birsfelden,Hardstrasse,21,Basel-Landschaft,"Im Eingangsbereich des Haupteinganges (Hochparterre), vis-à-vis Schalter Stadtbüro; Standort ausgeschildert",Nur während Öffnungszeiten der Gemeindeverwaltung,"Gemeinde Birsfelden
+Arbeitssicherheit und Gesundheitsschutz
+Hardstrasse 21
+4127 Birsfelden"
+125,1,1903,47.39791,7.85718,4448,Läufelfingen,Eichhaldenweg,4,Basel-Landschaft,Neben Eingang MZH,07:30 Uhr - 22:00 Uhr,Einwohnergemeinde Läufelfingen
+126,1,1811,47.5526962,7.546185500000001,4123,Allschwil,Baslerstrasse,111,Basel-Landschaft,Eingangshalle links beim Lift,"Mo: 7.00 - 19.00 Uhr / Di: 8.00 -11.45 Uhr / Mi: 8.00 - 11.45, 14.00 - 17.00Uhr / Do: 8.00 - 11.45 Uhr / Fr: 8.00 - 11.45, 14.00 - 17.00 Uhr",Einwohnergemeinde Allschwil
+127,1,1811,47.5554573,7.5553098,4123,Allschwil,Muesmattweg,6,Basel-Landschaft,Hallenbad beim Bademeister,nur während Öffnungszeiten Hallenbad zugänglich,Einwohnergemeinde Allschwil
+128,1,1811,47.5504864,7.5449795,4123,Allschwil,Lettenweg,32,Basel-Landschaft,Eingangshalle beim Saal,nur während Öffnungszeiten Schulhauses zugänglich,Einwohnergemeinde Allschwil
+129,1,1800,47.50526010000001,7.5160883,4105,Biel-Benken,Mühlegasse, ,Basel-Landschaft,Im Eingangsbereich des Schlössli,so lange die Türe geöffnet ist,Gemeinde Biel-Benken
+130,1,1870,47.5027885,7.7191242,4402,Frenkendorf,Bahnweg,4,Basel-Landschaft,Zurückversetzter Neubau. Beim Empfang am Eingang melden.,"Montag-Freitag 06:00-23:30
+Wochenende und Feiertage 07:00-23:30",Verein für Sozialpsychiatrie
+131,1,1818,47.5140979,7.622645299999999,4142,Münchenstein,Pfarrgasse,7,Basel-Landschaft,"EG , Mitarbeiterbüro", ,"Verein für Sozialpsychiatrie , Wohnhaus Vulpun"
+132,1,1800,47.51078400000001,7.525663399999999,4105,Biel-Benken,In den Kleematten,13,Basel-Landschaft,Privathaus,je nach Anwesenheit,Edwin Lüönd
+133,1,1800,47.50830699999999,7.521766400000001,4105,Biel-Benken,Friedrich-Oser Strasse, ,Basel-Landschaft,Feuerwehrmagazin - FW-Auto Saturn,Alarmierung über 118,Gemeinde - Feuerwehr Biel-Benken
+134,1,1826,47.4523291,7.606294500000001,4202,Duggingen,Kirchstrasse,17,Basel-Landschaft, , ,Gemeinde Duggingen
+135,1,1816,47.5231712,7.648703500000001,4132,Muttenz,Breitestrasse,15,Basel-Landschaft,Besammlungsplatz Friedhof, ,Gemeinde Muttenz
+136,1,1816,47.5304802,7.651651099999999,4132,Muttenz,Bizenenstrasse,29,Basel-Landschaft,Fahrzeughalle Werkhof Gemeinde Muttenz,Nur während der Arbeitszeit,Gemeinde Muttenz
+137,1,1816,47.5306307,7.632409699999999,4132,Gemeinde Muttenz,Sandgrubenweg,10,Basel-Landschaft,Eingangsbereich Garderoben Sportplatz Margelacker,Nur bei Aktivitäten auf dem Sportplatz,Gemeinde Muttenz
+138,1,1816,47.5306307,7.632409699999999,4132,Muttenz,Sandgrubenweg,10,Basel-Landschaft,Eingangsbereich Garderoben Sportplatz Margelacker,Nur bei Aktivitäten auf dem Sportplatz,Gemeinde Muttenz
+139,1,1880,47.4462047,7.695169699999999,4419,Lupsingen,Liestalerstrasse,14,Basel-Landschaft,Rechts neben dem Eingang der Gemeindeverwaltung an der nordöstlichen Fassadenecke.,frei zugänglich,Einwohnergemeinde Lupsingen
+140,1,1833,47.4504879,7.5187716,4223,Blauen,Dorfstrasse,15,Basel-Landschaft,An der Aussenwand vom Gemeindehaus (beim ehemaligen FW-Magazin),keine,Einwohnergemeinde Blauen
+141,1,1871,47.4773637,7.740190399999999,4410,Liestal,Gitterlistrasse,5b,Basel-Landschaft,"Foyer (Eingangsbereich) Sporthalle Frenke, vor Treppenabgang rechts in 1.Untergeschoss.","Montag-Freitag 05.00 Uhr - 22.00 Uhr
+(Ausgenommen Schulferien und Feiertage)
+Am Wochenende nur während Veranstaltungen geöffnet","Stadt Liestal
+Abteilung Sicherheit 
+Rathausstrasse 36
+4410 Liestal"
+142,1,1910,47.4129908,7.811855100000001,4457,Diegten,Känerkinderstrasse,4,Basel-Landschaft,"Haupteingang Turnhalle, in den ersten OG. gehen, Wand rechts",keine bekannte,Gemeinde Diegten
+143,1,1870,47.4987448,7.7181882,4402,Frenkendorf,Bächliackerweg,4,Basel-Landschaft,"1 im Büro
+1 in Logistik",07.00 - 17.00,"Debrunner Acifer AG
+Bächliackerweg 4
+4402 Frenkendorf"
+144,1,1812,47.5364769,7.501414199999999,4124,Schönenbuch,Zollstrasse,5,Basel-Landschaft,Mehrzweckhalle,Keine,"Gemeinde Schönenbuch, Marcel Friederich"
+145,1,1847,47.4013784,7.5159352,4246,Wahlen,Laufenstrasse,2,Basel-Landschaft, , ,Einwohnergemeinde Wahlen
+146,1,1847,47.394982,7.506457999999999,4246,Wahlen,Turnplatzweg,2,Basel-Landschaft,In der Turnhalle,Nur zugänglich während dem Turnbetrieb!,Einwohnergemeinde Wahlen
+147,1,1871,47.482039,7.744250099999999,4410,Liestal,Militärstrasse,14,Basel-Landschaft,"Zwei AED's sind im Sanitätsraum des Hallen- und Gartenbad stationiert. 
+Haupteingang des Hallenbades benutzen und Kassafrau kontaktieren.
+","nur bei Öffnung des Hallenbades 
+Mo-Fr von 06.00-21.00h
+Sa+So von 08.00-17.00h",Sport- und Volksbad Gitterli AG
+148,1,1871,47.482039,7.744250099999999,4410,Liestal,Militärstrasse,14,Basel-Landschaft,Eingang Hallenbad. Zwei AED's sind im Sanitätsraum des Hallen- und Gartenbades stationiert. Kontaktieren Sie direkt die Kassafrau.,"Öffnungszeiten Hallenbad:
+Mo-Fr: 06.00-21.00h
+Sa+So: 08.00-17.00h",Sport- und Volksbad Gitterli AG
+149,1,1896,47.4549205,7.831283899999999,4441,Thürnen,Rebgasse,9,Basel-Landschaft,"APH Jakobushaus 
+Haupteingang, im Heimcafé links","21.00 - 07.00h Haupteingang geschlossen, Glocke betätigen.",APH Jakobushaus
+150,1,1811,47.5596971,7.551572199999999,4123,Allschwil,Hegenheimermattweg,150,Basel-Landschaft,"Sportanlage Bachgraben, Garderobengebäude",Ganzjährig verfügbar wenn Betrieb geöffnet. Zugänglich bei Anwesenheit Platzwart,Sportanlage Bachgraben
+151,1,1797,47.5422015,7.5841153,4102,Binningen,Margarethenpark,10,Basel-Landschaft,"KEB Margarethen, Kunsteisbahn St. Margarethen Sanität
+",Saisonal verfügbar wenn Betrieb geöffnet.Betriebspersonal alarmieren. Gerät befindet sich im internen Rettungsrucksack.,"KEB Margarethen, Kunsteisbahn St. Margarethen Sanität"
+152,1,1818,47.53511659999999,7.609671800000001,4142,Münchenstein,Wien-Strasse,1,Basel-Landschaft,"Erdgeschoss beim Empfang Magazin
+","06:00 - 16:30 (Mo-Fr)
+","ETAVIS Kriegel+Schaffner AG
+"
+153,1,1818,47.5388161,7.619422999999999,4142,Münchenstein,Grosse Allee,1H,Basel-Landschaft,"Gartenbad St.Jakob, Gartenbad St. Jakob / Tribüne
+Betriebspersonal alarmieren. Gerät befindet sich im internen Rettungsrucksack.
+","Saisonal verfügbar wenn Betrieb geöffnet
+","Gartenbad St.Jakob, Gartenbad St. Jakob"
+154,1,1818,47.5388161,7.619422999999999,4142,Münchenstein,Grosse Allee,1A,Basel-Landschaft,"Gartenbad St.Jakob, Gartenbad St. Jakob / Fundbüro.
+Betriebspersonal alarmieren. Gerät befindet sich im internen Rettungsrucksack.
+","Saisonal verfügbar wenn Betrieb geöffnet
+","Gartenbad St.Jakob, Gartenbad St. Jakob"
+155,1,1818,47.5388161,7.619422999999999,4142,Münchenstein,Grosse Allee,1A,Basel-Landschaft,"Gartenbad St.Jakob, Gartenbad St. Jakob Schiebetorraum / Kästli-Gebäude.
+Betriebspersonal alarmieren. Gerät befindet sich im internen Rettungsrucksack.
+","Saisonal verfügbar wenn Betrieb geöffnet
+","Gartenbad St.Jakob, Gartenbad St. Jakob"
+156,1,1818,47.5301898,7.6096073,4142,Münchenstein,Genuastrasse,6,Basel-Landschaft,"Atelier 6 (Einlass über Klingel)
+","08:00 - 17:00 (Mo-Fr)
+","Historisches Museum Basel
+"
+157,1,1794,47.5484185,7.610165400000001,4052,Basel,Kleine Allee,6,Basel-Stadt,"Sportanlage St.Jakob, Betriebsgebäude
+","Ganzjährig verfügbar wenn Betrieb geöffnet. Zugänglich bei Anwesenheit Platzwart
+
+",Sportanlage St.Jakob
+158,1,1818,47.5368325,7.6198384,4142,Münchenstein,Grosse Allee,20,Basel-Landschaft,"Sportanlage St.Jakob, Garderobengebäude A+B","Ganzjährig verfügbar wenn Betrieb geöffnet. Zugänglich bei Anwesenheit Platzwart
+
+",Sportanlage St.Jakob
+159,1,1818,47.51813110000001,7.620042300000001,4142,Münchenstein,Kleine Allee,20,Basel-Landschaft,"Sportanlage St.Jakob, Tribünengebäude im Leichtathletikstadion EG
+","Ganzjährig verfügbar wenn Betrieb geöffnet. Zugänglich bei Anwesenheit Platzwart
+
+",Sportanlage St.Jakob
+160,1,1818,47.51813110000001,7.620042300000001,4142,Münchenstein,Kleine Allee,20,Basel-Landschaft,"Sportanlage St.Jakob, Tribünengebäude im Leichtathletikstadion UG","Ganzjährig verfügbar wenn Betrieb geöffnet. Zugänglich bei Anwesenheit Platzwart
+
+",Sportanlage St.Jakob
+161,1,1817,47.5304886,7.6821125,4133,Pratteln,Niderfeldstrasse,5,Basel-Landschaft,"2. Etage gegenüber Caféteria
+","07:00-18.00 (Mo.-Fr.)
+","DHL Freight Terminal Pratteln
+"
+162,1,1825,47.4897257,7.5960999,4153,Reinach,Sternenhofstrasse,15,Basel-Landschaft, , ,"AMETEK CTS GmbH
+"
+163,1,1797,47.5422015,7.5841153,4102,Binningen,Margarethenpark,10,Basel-Landschaft,"KEB Margarethen, Kunsteisbahn St. Margarethen, Speakerhäuschen",Saisonal verfügbar wenn Betrieb geöffnet.Betriebspersonal alarmieren. Gerät befindet sich im internen Rettungsrucksack.,"KEB Margarethen, Kunsteisbahn St. Margarethen Sanität"
+164,1,1794,47.5384197,7.618926900000001,4052,Basel,Mittlere Allee,18,Basel-Stadt,Eishalle St. Jakob-Arena. Einfahrt Eismaschine zwischen Garage und Eisfeld,Ganzjährig verfügbar wenn Betrieb geöffnet,Roger Soland
+165,1,1916,47.52526169999999,7.8472587,4464,Maisprach,Zeiningerstrasse,3,Basel-Landschaft,Im Eingangsbereich des Gemeindezentrums an der linken Wand, ,Gemeindeverwaltung Maisprach
+166,1,1818,47.522261,7.6131403,4142,Münchenstein,Lärchenstrasse,7,Basel-Landschaft,Mo -Fr 8.00 Uhr - 17.00 Uhr,Mo -Fr 8.00 Uhr - 17.00 Uhr,HPZ Münchenstein
+167,1,1870,47.5017611,7.7152065,4402,Frenkendorf,Liesdtalerstrase,2,Basel-Landschaft,Teambüro, ,"Verein für Sozialpsychiatrie, Rütihus"
+168,1,1871,47.498007,7.7251645,4410,Liestal,Hammerstrasse,45,Basel-Landschaft,Besprechungszimmer 1.OG,Bürozeiten,"Verein für Sozialpsychiatrie BL, Kunstwerkstatt"
+169,1,1871,47.4871592,7.7327888,4410,Liestal,Mühlemattstrasse,3,Basel-Landschaft, ,Bürozeiten,"Verein für Sozialpsychiatrie BL, Geschäftsstelle"
+170,1,1871,47.4903528,7.7289317,4410,Liestal,Eichenweg,4,Basel-Landschaft, ,Bürozeiten,"Verein für Sozialpsychiatrie, Werkplatz"
+171,1,1904,47.463158,7.815376199999999,4450,Sissach,Hauptstrasse,40,Basel-Landschaft,"3. Stock, Praxis Bischofstein",Während der Praxisöffnungszeiten,Dr. med. P. Meier
+172,1,1871,47.4822691,7.731726999999999,4410,Liestal,Oristalstrasse,17,Basel-Landschaft,Im Eingangsbereich Schrank,während Praxisöffnungszeiten,Hausarztpraxis Dr. med. F. Friedli und M Richert
+173,1,1843,47.4199253,7.499052499999999,4242,Laufen,Hinterfeldstrasse,21,Basel-Landschaft, ,jeweils von Montag - Freitag von 07.30-11.30 und 13.00-16.30 Uhr (Praxisöffnungszeiten),Corinne Küng
+174,1,1894,47.3855604,7.751970099999999,4437,Waldenburg,Talweg,6,Basel-Landschaft,"In der Arztpraxis Waldenburg (im Schrank des EKG-Zimmers, im Notfallrucksack)",Nur während Öffnungszeiten der Praxis,Praxis Waldenburg Dr. A. Früh
+175,1,1818,47.5082842,7.616179499999999,4142,Münchenstein,Tramstrasse,66,Basel-Landschaft,"Im Walzwerkareal Gebäude C,  Eingang Empfang / Sekretariat des VSP benutzen.",nur während den Bürozeiten,VSP Verein für Sozialpsychiatrie
+176,1,1818,47.5140979,7.622645299999999,4142,Münchenstein,Pfarrgasse,7,Basel-Landschaft,"Im Teambüro EG, bei Betreuung melden.", ,VSP Verein für Sozialpsychiatrie BL
+177,1,1825,47.4898349,7.599967299999999,4153,Reinach,Bruggstrasse,91,Basel-Landschaft,"Durch Haupteingang 2 Türen, vor Eingang Speiseraum links.",ab 20.00Uhr via Pikettdienst vor Ort,VSP Verein für Sozialpsychiatrie BL
+178,1,1825,47.4998067,7.5955205,4153,Reinach,Schönenbachstrasse,9,Basel-Landschaft,"Haupteingang 2 Türen, rechts an der Wand",ab 20.00 Uhr via Pikettdienst ist vor Ort,VSP Verein für Sozialpsychiatrie BL
+179,1,1919,47.4611373,7.9147497,4467,Rothenfluh,Hirschengasse,84,Basel-Landschaft,"Gemeindeverwaltung
+Ehemalige Telefonkabine
+beim Haupteingang links", ,Einwohergemeinde Rothenfluh
+180,1,1927,47.4333567,7.8836958,4497,Rünenberg,Schulstrasse,50,Basel-Landschaft,An der Hauptstrassen Seite, ,Gemeinde Rünenberg
+181,1,1871,47.4871764,7.7259289,4410,Liestal,Wiedenhubstrasse,41,Basel-Landschaft,in der Praxis positioniert.,AED ist nur während den Praxisöffnungszeiten zugänglich (Mo-Fr 8-12 und 14-18h).,Dr.med. Renate Fischer
+182,1,1871,47.4800131,7.7416647,4410,Liestal,Kasernenstrasse,57,Basel-Landschaft,"Sportanlage/Stadion Gitterli
+Neben Eingang Garderobengebäude Seite Militärstrasse", ,Stadt Liestal
+183,1,1871,47.4913588,7.7270673,4410,Liestal,Eichenweg,1,Basel-Landschaft,"Haupteingang Gebäude 1a 08-00-17:00 besetzt
+",06:00 -22:00 Mo-Fr  Gebäude 1,"Cordenpharma, Betriebssanität"
+184,1,1871,47.4913588,7.7270673,4410,Liestal,Eichenweg,1,Basel-Landschaft,"Haupteingang Gebäude 1a 08-00-17:00 besetzt
+",06:00 -22:00 Mo-Fr  Gebäude 1,"Cordenpharma, Betriebssanität"
+185,1,1816,47.5317132,7.635257699999999,4132,Muttenz,St. Jakob-Strasse,90,Basel-Landschaft,"Bei Empfang Autohaus Wederich, Donà AG melden, Defi in Direktannahme-Raum hinter Empfang",Nur während Öffnungszeiten,"Autohaus Wederich, Donà AG"
+186,1,1825,47.4867075,7.5972922,4153,Reinach,Kägenstrasse,14,Basel-Landschaft,"Hinter Haupteingangstüre
+von aussen Sichtbar
+
+
+","Gewerbliche Betriebszeiten
+","Bacher AG
+Christoph Janz"
+187,1,1893,47.3942199,7.748773499999999,4436,Oberdorf,Ueli Schadweg,3,Basel-Landschaft, ,während Öffnungszeiten,Movimento Physio-und Trainingstherapie GmbH
+187,1,1892,47.3942199,7.748773499999999,4436,Oberdorf,Ueli Schadweg,3,Basel-Landschaft, ,während Öffnungszeiten,Movimento Physio-und Trainingstherapie GmbH
+188,1,1818,47.5278111,7.6186951,4142,Münchenstein,Teichweg,5,Basel-Landschaft,"Haupteingang, im Windfang links an der Wand","Freier Zugang zwischen 07:30Uhr bis 17:00Uhr. Ausserhalb dieser Zeiten hat das anwesende Personal einen Schlüssel.
+",Beschäftiguns und Wohnheim Dychrain
+189,1,1906,47.4663867,7.786670099999999,4452,Itingen,Schulstrasse,7b,Basel-Landschaft,beim Haupteingang zur Mehrzweckhalle,keine,Gemeinde Itingen
+190,1,1906,47.467986,7.776474700000001,4452,Itingen,Dellenbodenweg,8,Basel-Landschaft,Aussen beim Haupteingang,keine,Schaer Pharma
+191,1,1835,47.4181671,7.5434693,4225,Brislach,Breitenbachstrasse,7,Basel-Landschaft,"Am Gebäude der Gemeindeverwaltung, von Aussen erreichbar (ebenso Rollstuhlgängig)",keine,Gemeindeverwaltung Brislach
+192,1,1817,47.5262197,7.703811000000001,4133,Pratteln,Giebenacherstrasse,12,Basel-Landschaft,"Sportanlage Stadion Sandgruben, aussen am Garderobengebäude SO-Ecke, nach Tor im Stadion",keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+193,1,1817,47.515977,7.7023602,4133,Pratteln,Erliweg,12,Basel-Landschaft,"Schulhaus Erlimatt I, Aussentreppe eine Ebene hoch (Niveau 3), links, am ersten Pfosten gedeckter Pausenplatz",keine,"Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln"
+194,1,1825,47.4881598,7.5947203,4153,Reinach,Pfeffingerstrasse,21,Basel-Landschaft,Über die Rampe rechts neben dem Bürogebäude,"07.00 - 16.30 Uhr
+Montag - Freitag",Neoperl AG
+195,1,1820,47.4949555,7.6200499,4144,Arlesheim,Ermitagestrasse,1,Basel-Landschaft,"Neben dem Eingang zum Laden des Werkstar 
+24h Zugänglicher Kasten", ,"Almas Industries
+0216370230"
+196,1,1816,47.5257997,7.6369218,4132,Muttenz,Baselstrasse,89,Basel-Landschaft,Im Hallenbad Muttenz beim Bademesieter,Nur während der Öffnungszeiten,Hallenbad Muttenz
+197,1,1899,47.424998,7.849127799999999,4444,Rümlingen,hohrainweg 93,Lang,Basel-Landschaft, , ,"Gemeinde
+Turnhalle  AED  vor eingangstüre"
+198,1,1925,47.4100421,7.901342100000001,4495,Zeglingrn,Wisenstrasse, ,Basel-Landschaft,Bei der Mehrzweckhalle, , 
+199,1,1912,47.4627744,7.853216399999999,4460,Gelterkinden,Turnhallenstrasse,18,Basel-Landschaft,Im Aussenbereich vor dem Haupteingang zur oberen Mehrzweckhalle,Keine,Einwohnergemeinde Gelterkinden
+200,1,1912,47.4590147,7.866325100000001,4460,Gelterkinden,Lachmattstrasse,22,Basel-Landschaft,"Hallenbad, bei der Badmeisteraufsicht","Zu den Öffnungszeiten HFG:
+https://gelterkinden.ch/de/kultur-und-freizeit/hallen-freibad-gelterkinden/oeffnungszeiten-preise.php",Einwohnergemeinde Gelterkinden
+201,1,1912,47.4599679,7.8595619,4460,Gelterkinden,Kippweg,1,Basel-Landschaft,"Fussballplatz Wolfstiege
+EG, im Gang zwischen Clubbeiz und WC-Anlagen",Während dem Spiel- und Trainingsbetrieb des Fc Gelterkinden,Fussballclub Gelterkinden
+202,1,1904,47.4641169,7.8108446,4450,Sissach,Bahnhofstrasse,1,Basel-Landschaft,"An der rechten Wand beim Hintereingang, Zugang vom Gemeindeparkplatz her.", ,Gemeindeverwaltung Sissach
+203,1,1851,47.4039216,7.430001700000001,4254,Liesberg Dorf,Dorfstrasse,11,Basel-Landschaft,"Standort: Neben dem Schulhaus
+frei zugänglich, in beheiztem Aussenkasten",Keine,Einwohnergemeinde Liesberg
+204,1,1851,47.40241839999999,7.425377200000001,4254,Liesberg Dorf,Seemättliweg,19,Basel-Landschaft,"Beim Haupteingang zur Seemättlihalle
+frei zugänglich, in beheiztem Aussenkasten",Keine,Einwohnergemeinde Liesberg
+205,1,1850,47.3954403,7.421515599999999,4253,Liesberg,Riederwaldstrasse,2,Basel-Landschaft,"Nord-Fassade am Feuerwehrmagazin
+frei zugänglich, in beheiztem Aussenkasten",Keine,Einwohnergemeinde Liesberg
+206,1,1913,47.4634087,7.834706899999999,4461,Böckten,Weiermattstrasse,2,Basel-Landschaft,"Sichtbar von Weiermattstrasse, links von Nebeneingang an Fassade montiert",keine,Gemeinde Böckten
+207,1,1912,47.4614196,7.850495899999999,4460,Gelterkinden,Balkenweg,20,Basel-Landschaft,"Das Gerät befindet sich im Parterre, nach Treppe Haupteingang 1. Türe, links, Pausenzimmer. Hinweis am Schrank.",Öffnungszeiten während Bürostunden. Feuerwehr Gelterkinden hat mit Schlüssel jederzeit Zugang.,"Evelyne Bauer Richter
+Institutionsleiterin"
+208,1,1823,47.4735592,7.5869681,4147,Aesch,Landskronstrasse,41,Basel-Landschaft,Eingang Küche,Bei geöffneter Anlage,Einwohnergemeinde Aesch
+209,1,1823,47.4742892,7.6004604,4147,Aesch,Dornacherstrasse,43D,Basel-Landschaft,"Schulhaus Schützenmatt, 
+Sockelgeschoss,Trakt D
+Zugang Hallenbad/Technik",Mo - Fr 07:00 - 21:45 Uhr,Einwohnergemeinde Aesch
+210,1,1823,47.4707652,7.5937616000000014,4147,Aesch,Ettingerstrasse,11,Basel-Landschaft,Haupteingang aussen,Täglich 24 h,Einwohnergemeinde Aesch
+211,1,1825,47.4901286,7.594594600000001,4153,Reinach BL,Pfeffingerstrasse,1,Basel-Landschaft,In der Fahrzeughalle an der hinteren Wand,meistens ohne Einschränkung,Gemeinde Reinach Feuerwehr
+212,1,1825,47.4946718,7.602012299999998,4153,Reinach BL,Mühlemattweg,24,Basel-Landschaft,Im Eingangsbereich der Schwimmbades (Kasse),Während den Öffnungszeiten des Schwimmbades,Gemeinde Reinach Schwimmbad

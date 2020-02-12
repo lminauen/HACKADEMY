@@ -1,20 +1,31 @@
 import os
 import django
 import pandas as pd
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pbFinance.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fibriDB.settings')
 django.setup()
 
-from mainApp.models import user, UserProfileInfo, items, community_id
+from mainApp.models import User, UserProfileInfo, items, community_id, community, type
 
 def populate():
-    itemsData = pd.read_csv("/HACKADEMY_Proj dummyDefib.csv")
-    userData = pd.read_csv("/HACKADEMY_Proj userData.csv")
-    communityIDData = pd.read_csv("/HACKADEMY_Proj community_ids.csv")
+    itemsData = pd.read_csv("dummyDefib.csv")
+    userData = pd.read_csv("userData.csv")
+    communityIDData = pd.read_csv("community_ids.csv")
+    communityData = pd.read_csv("municipalities.csv")
+
+    #for i in range(len(communityIDData)):
+        #print("Added category "+str(i)+"/"+str(len(communityIDData)))
+        #name = communityIDData.Ort[i]
+        #canton = communityIDData.Kanton[i]
+        #community_id.objects.get_or_create(name=name, canton=canton)
+
+    name = "default"
+    type.objects.get_or_create(name=name)
+    print("Added type")
 
     for i in range(len(itemsData)):
         print("Added category "+str(i)+"/"+str(len(itemsData)))
         id = itemsData.ID[i]
-        type = itemsData.type[i]
+        type_name = itemsData.type[i]
         community = itemsData.community_ID[i]
         latitude = itemsData.latitude[i]
         longitude = itemsData.longitude[i]
@@ -37,8 +48,9 @@ def populate():
             responsible = None
         else:
             responsible = itemsData.Zuständigkeit[i]
-        items.objects.get_or_create(type_id=type, community_id=community, latitude=latitude, longitude=longitude, pc=pc, location=location, address=address, canton=canton,
+        items.objects.get_or_create(type=type.objects.get(id=1), community=community_id.objects.get(id=community), latitude=latitude, longitude=longitude, pc=pc, location=location, address=address, canton=canton,
         location_descr=location_descr, notes=notes, responsible=responsible)
+
 
     for i in range(len(userData)):
         print("Added category "+str(i)+"/"+str(len(userData)))
@@ -57,8 +69,7 @@ def populate():
         user.objects.get_or_create(username=username, email = mail)
         UserProfileInfo.objects.get_or_create(user=id, postalCode=pc, street=address, language=language)
 
-    for i in range(len(communityIDData)):
-        print("Added category "+str(i)+"/"+str(len(communityIDData)))
-        name = communityIDData.Ort[i]
-        canton = communityIDData.Kanton[i]
-        commune.objects.get_or_create(name=name, canton=canton)
+
+print("Populating")
+populate()
+print('Finished Populating')
