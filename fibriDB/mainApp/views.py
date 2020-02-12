@@ -1,16 +1,16 @@
+from django.contrib.auth.models import User
+from django.http import Http404
 from django.shortcuts import render
-from django.views.generic import View, TemplateView
-from rest_framework import viewsets, status
-from django.http import HttpResponse, JsonResponse, Http404
-from django.views.decorators.csrf import csrf_exempt
-from rest_framework.decorators import api_view
-from rest_framework.parsers import JSONParser
+from django.views.generic import View
+from rest_framework import permissions
+from rest_framework import status, generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
-from mainApp.models import items
-from mainApp.serializers import ItemsSerializer
 from mainApp import forms
+from mainApp.models import items
+from mainApp.permissions import IsCreatorOrReadOnly
+from mainApp.serializers import ItemsSerializer, UserSerializer
 
 # Extra Imports for the Login and Logout Capabilities
 from django.contrib.auth import authenticate, login, logout
@@ -28,6 +28,8 @@ class mainView(View):
 
 # Handling multiple items
 class ItemList(APIView):
+    permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+
     def get(self, request, format=None):
         item = items.objects.all()  # Get all items
         serializer = ItemsSerializer(item, many=True)  # Serialize the items with the defined attributes
@@ -40,9 +42,14 @@ class ItemList(APIView):
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
+    def perform_create(self, serializer):
+        serializer.save(user=self.request.user)
+
 
 # Handling a single item
 class ItemDetail(APIView):
+    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsCreatorOrReadOnly]
+
     def get_object(self, pk):
         try:
             return items.objects.get(pk=pk)  # Get the item corresponding to the received primary key
@@ -66,6 +73,16 @@ class ItemDetail(APIView):
         item = self.get_object(pk)
         item.delete()  # Delete the item from the DB
         return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+class UserList(generics.ListAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+class UserDetail(generics.RetrieveAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
 
 
 class userAccount(View):
