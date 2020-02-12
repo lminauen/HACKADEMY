@@ -6,4 +6,4 @@ from mainApp.models import items
 class ItemsSerializer(serializers.ModelSerializer):
     class Meta:
         model = items
-        fields = ['type', 'community', 'longitude', 'latitude']
+        fields = ['id', 'type', 'community', 'longitude', 'latitude']

@@ -12,7 +12,7 @@ app_name = 'mainApp'
 
 # URL PATTERNS
 urlpatterns = [
+    path('items', views.item_list),
+    path('items/<int:pk>', views.item_detail),
     url('', views.mainView.as_view(), name='main'),
-    path('/items', views.item_list),
-    path('/items/<int:pk>', views.item_detail),
 ]
