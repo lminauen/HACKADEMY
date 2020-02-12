@@ -18,6 +18,10 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
 
+# Create your views here.
+def index(request):
+    return render(request,'mainApp/index.html')
+
 class mainView(View):
     output = {}
 
@@ -87,8 +91,9 @@ class UserDetail(generics.RetrieveAPIView):
 
 class userAccount(View):
     def get(self, request):
+        user = forms.UserForm
         form = forms.UserProfileInfoForm
-        return render(request, 'mainApp/useraccount.html', {'form': form})
+        return render(request, 'mainApp/useraccount.html', {'user_form': user, 'profile_form': form})
 
 
 def user_login(request):
@@ -106,7 +111,7 @@ def user_login(request):
             #Check it the account is active
             if user.is_active:
                 # Log the user in.
-                login(request,user)
+                login(request, user)
                 # Send the user back to some page.
                 # In this case their homepage.
                 return HttpResponseRedirect(reverse('index'))
@@ -115,9 +120,9 @@ def user_login(request):
                 return HttpResponse("Your account is not active.")
         else:
             print("Someone tried to login and failed.")
-            print("They used username: {} and password: {}".format(username,password))
+            print("They used username: {} and password: {}".format(username, password))
             return HttpResponse("Invalid login details supplied.")
 
     else:
         #Nothing has been provided for username or password.
-        return render(request, 'mainApp/login.html', {})
+        return render(request, 'fibriDB/login.html', {})

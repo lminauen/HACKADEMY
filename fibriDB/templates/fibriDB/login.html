@@ -4,14 +4,13 @@
   {% block body_block %}
 
       <h1>Please login!</h1>
-      <form method="post" action="{% url 'basic_app:user_login' %}">
-        {% csrf_token %}
+      <form method="post" action="{% url 'mainApp:login' %}">
         <label for="username">Username:</label>
         <input type="text" name="username" placeholder="Username">
 
         <label for="password"></label>
         <input type="password" name="password">
-
+        {% csrf_token %}
         <input type="submit" name="" value="Login">
 
       </form>

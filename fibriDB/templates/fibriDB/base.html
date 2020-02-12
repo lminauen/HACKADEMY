@@ -13,7 +13,20 @@
 </head>
 
 <body>
+
   <div class="main-container">
+    <div class="menu">
+      {# Django Home Link / Admin Link / Register Link #}
+      <li><a href="{% url 'mainApp:main' %}">Home</a></li>
+
+      {# Some logic on what to display for last item#}
+      {% if user.is_authenticated %}
+      {% else %}
+        <li><a href="{% url 'mainApp:user' %}">User</a></li>
+        <li><a href="{% url 'mainApp:api' %}">API</a></li>
+        <li><a href="{% url 'mainApp:login' %}">Login</a></li>
+      {% endif %}
+    </div>
     <div class="inner-container">
       {% block body_block %}
       <!-- Anything outside of this will be inherited of you extend! -->

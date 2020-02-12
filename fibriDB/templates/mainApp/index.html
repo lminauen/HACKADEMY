@@ -3,8 +3,13 @@
 {% load static %}
   {% block body_block %}
 
-      <h1>WELCOME!</h1>
+      <h1>Home</h1>
       <h2>Under development</h2>
+      {% if user.is_authenticated %}
+          <h2>Welcome {{ user.username }}!</h2>
+      {% else %}
+          <h2>Welcome to the site!</h2>
+      {% endif %}
 
   {% endblock body_block %}
 
