@@ -21,10 +21,14 @@ class UserProfileInfo(models.Model):
         # Built-in attribute of django.contrib.auth.models.User !
         return self.user.username
 
+class community_id(models.Model):
+    name = models.CharField(max_length=100)
+    canton = models.CharField(max_length=100)
+
 
 class community(models.Model):
     postalCode = models.IntegerField()
-    name = models.CharField(max_length=100)
+    community = models.ForeignKey(community_id, related_name="community ID", on_delete=models.CASCADE, null=True, blank=True)
 
 
 class type(models.Model):
@@ -41,6 +45,14 @@ class items(models.Model):
     longitude = models.DecimalField(decimal_places=10, max_digits=12)
     latitude = models.DecimalField(decimal_places=10, max_digits=12)
     availability = models.CharField(max_length=300, null=True, blank=True)
+    pc = models.IntegerField()
+    location = models.CharField(max_length=100)
+    address = models.CharField(max_length=100)
+    canton = models.CharField(max_length=100)
+    location_descr = models.CharField(max_length=300)
+    notes = models.CharField(max_length=300)
+    responsible = models.CharField(max_length=100)
+
 
 
 class defibModels(models.Model):
