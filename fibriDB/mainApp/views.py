@@ -3,8 +3,11 @@ from django.http import Http404
 from django.shortcuts import render
 from django.views.generic import View
 from rest_framework import permissions
+from rest_framework import renderers
 from rest_framework import status, generics
+from rest_framework.decorators import api_view
 from rest_framework.response import Response
+from rest_framework.reverse import reverse
 from rest_framework.views import APIView
 
 from mainApp import forms
@@ -78,6 +81,23 @@ class UserList(generics.ListAPIView):
 class UserDetail(generics.RetrieveAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
+
+
+@api_view(['GET'])
+def api_root(request, format=None):
+    return Response({
+        'users': reverse('user-list', request=request, format=format),
+        'items': reverse('item-list', request=request, format=format)
+    })
+
+
+class ItemHighlight(generics.GenericAPIView):
+    queryset = items.objects.all()
+    renderer_classes = [renderers.StaticHTMLRenderer]
+
+    def get(self, request, *args, **kwargs):
+        item = self.get_object()
+        return Response(item.type)
 
 
 class userAccount(View):

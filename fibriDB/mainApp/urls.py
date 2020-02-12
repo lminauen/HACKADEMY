@@ -15,7 +15,8 @@ app_name = 'mainApp'
 # URL PATTERNS
 urlpatterns = [
     path('items/', views.ItemList.as_view()),
-    path('items/<int:pk>', views.ItemDetail.as_view()),
+    path('items/<int:pk>/', views.ItemDetail.as_view()),
+    path('items/<int:pk>/highlight/', views.ItemHighlight.as_view()),
     path('users/', views.UserList.as_view()),
     path('users/<int:pk>/', views.UserDetail.as_view()),
     url('user/', views.userAccount.as_view(), name='user'),
