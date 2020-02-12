@@ -21,6 +21,7 @@ class UserProfileInfo(models.Model):
         # Built-in attribute of django.contrib.auth.models.User !
         return self.user.username
 
+
 class community_id(models.Model):
     name = models.CharField(max_length=100)
     canton = models.CharField(max_length=100)
@@ -52,7 +53,6 @@ class items(models.Model):
     location_descr = models.CharField(max_length=300)
     notes = models.CharField(max_length=300)
     responsible = models.CharField(max_length=100)
-
 
 
 class defibModels(models.Model):
