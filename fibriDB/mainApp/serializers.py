@@ -9,7 +9,7 @@ class ItemsSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = items
-        fields = ['id', 'user', 'type', 'community', 'longitude', 'latitude']
+        fields = ['id', 'user', 'type', 'community', 'pc', 'longitude', 'latitude']
 
 
 class UserSerializer(serializers.ModelSerializer):
