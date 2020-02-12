@@ -9,7 +9,7 @@ from rest_framework.response import Response
 
 from mainApp.models import items
 from mainApp.serializers import ItemsSerializer
-from mainApp.forms import UserProfileInfoForm
+from mainApp import forms
 
 
 class mainView(View):
