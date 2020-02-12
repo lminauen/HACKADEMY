@@ -15,3 +15,5 @@ class UserProfileInfoForm(forms.ModelForm):
     class Meta():
         model = UserProfileInfo
         fields = ('postalCode', 'street', 'language')
+
+

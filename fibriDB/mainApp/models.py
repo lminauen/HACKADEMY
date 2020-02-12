@@ -42,7 +42,7 @@ class type(models.Model):
 class items(models.Model):
     user = models.ForeignKey('auth.User', related_name="items", on_delete=models.CASCADE, null=True, blank=True)
     type = models.ForeignKey(type, related_name="type", on_delete=models.CASCADE)
-    community = models.ForeignKey(community, related_name="community", on_delete=models.CASCADE)
+    community = models.ForeignKey(community_id, related_name="community", on_delete=models.CASCADE)
     longitude = models.DecimalField(decimal_places=10, max_digits=12)
     latitude = models.DecimalField(decimal_places=10, max_digits=12)
     availability = models.CharField(max_length=300, null=True, blank=True)
