@@ -7,6 +7,7 @@ from rest_framework.parsers import JSONParser
 
 from mainApp.models import items
 from mainApp.serializers import ItemsSerializer
+from mainApp.forms import UserProfileInfoForm
 
 
 class mainView(View):
@@ -61,3 +62,11 @@ def item_detail(request, pk):
     elif request.method == 'DELETE':
         item.delete()
         return HttpResponse(status=204)
+
+
+class userAccount(View):
+    def get(self, request):
+        form = forms.UserProfileInfoForm
+        return render(request, 'mainApp/useraccount.html', {'form': form})
+
+

@@ -12,7 +12,8 @@ app_name = 'mainApp'
 
 # URL PATTERNS
 urlpatterns = [
-    url('', views.mainView.as_view(), name='main'),
     path('/items', views.item_list),
     path('/items/<int:pk>', views.item_detail),
+    url('/user', views.userAccount.as_view(), name='user'),
+    url('', views.mainView.as_view(), name='main'),
 ]
