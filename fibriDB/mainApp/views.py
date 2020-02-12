@@ -9,6 +9,7 @@ from rest_framework.views import APIView
 
 from mainApp import forms
 from mainApp.models import items
+from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer
 
 
@@ -42,7 +43,7 @@ class ItemList(APIView):
 
 # Handling a single item
 class ItemDetail(APIView):
-    permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsCreatorOrReadOnly]
 
     def get_object(self, pk):
         try:
