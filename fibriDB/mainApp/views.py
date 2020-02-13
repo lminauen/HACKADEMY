@@ -4,7 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
 from django.http import HttpResponse
-from django.shortcuts import render, render_to_response
+from django.shortcuts import render, render_to_response, redirect
 from django.template import RequestContext
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
@@ -20,6 +20,8 @@ from mainApp import forms
 from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
+import math
+from decimal import *
 
 
 # Create your views here.
@@ -89,19 +91,37 @@ class ItemDetail(APIView):
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 
-def nearest_items(request):
-    type = request.GET.get('type')
-    number = request.GET.get('number')
-    lat = request.GET.get('lat')
-    long = request.GET.get('long')
+class NearestItems(APIView):
+    def get(self, request, format=None):
+        type = int(self.request.GET.get('type'))
+        number = int(self.request.GET.get('number'))
+        lat = Decimal(self.request.GET.get('lat'))
+        lng = Decimal(self.request.GET.get('lng'))
 
-    context = {
-        'type': type,
-        'number': number,
-        'lat': lat,
-        'long': long,
-    }
-    return render_to_response('mainApp/callback.html', context)
+        item_dist = []
+
+        for item in items.objects.filter(type=type):
+            d_lat = lat - item.latitude
+            d_lng = lng - item.longitude
+
+            temp = (
+                    math.sin(d_lat / 2) ** 2
+                    + math.cos(item.latitude)
+                    * math.cos(lat)
+                    * math.sin(d_lng / 2) ** 2
+            )
+
+            distance_m = 6373000 * (2 * math.atan2(math.sqrt(temp), math.sqrt(1 - temp)))  # Distance in meters
+            item_dist.append([item, distance_m])
+
+        item_dist.sort(key=lambda x: x[1], reverse=False)
+
+        item_list = [i[0] for i in item_dist[0:number]]
+        id_dist = dict([(p[0].id, p[1]) for p in item_dist[0:number]])
+
+        serializer = NearestItemSerializer(item_list, many=True, context={'id_dist': id_dist})
+
+        return Response(serializer.data)
 
 
 class UserList(generics.ListAPIView):
@@ -154,16 +174,14 @@ def register(request):
         user_form = forms.UserForm()
         profile_form = forms.UserProfileInfoForm()
 
-    return render(request,'mainApp/registration.html',
-                          {'user_form':user_form,
-                           'profile_form':profile_form,
-                           'registered':registered})
-
+    return render(request, 'mainApp/registration.html',
+                  {'user_form': user_form,
+                   'profile_form': profile_form,
+                   'registered': registered})
 
 
 @csrf_exempt
 def user_login(request):
-
     if request.method == "POST":
         username = request.POST.get('username')
         password = request.POST.get('password')
@@ -220,7 +238,8 @@ def edit_profile(request):
 def edit_item(request):
     if request.method == 'POST':
         form = forms.UserForm(request.POST, instance=request.user)
-        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES,
+                                                 instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
 
         if form.is_valid() and profile_form.is_valid():
             user_form = form.save()

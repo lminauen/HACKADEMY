@@ -14,9 +14,17 @@ class ItemsSerializer(serializers.ModelSerializer):
 
 class NearestItemSerializer(serializers.ModelSerializer):
 
+    distance = serializers.SerializerMethodField('get_distance')
+
     class Meta:
         model = items
-        fields = ['id', 'type', 'longitude', 'latitude']
+        fields = ['id', 'type', 'longitude', 'latitude', 'distance']
+
+    def get_distance(self, obj):
+        distance = self.context.get("id_dist")
+        if distance:
+            return distance[obj.id]
+        return False
 
 
 class UserSerializer(serializers.ModelSerializer):
