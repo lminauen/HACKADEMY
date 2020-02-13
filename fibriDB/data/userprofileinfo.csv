@@ -1,0 +1,4010 @@
+id,postalCode,street,language,user_id
+1,1000,Industriestrasse 24,FR,1
+2,1008,Bahnhofstrasse 87,IT,2
+3,1008,Place de l'hôtel 57,DE,3
+4,1009,Marktgasse 17,DE,4
+5,1020,Usterstrasse 33,FR,5
+6,1022,Rue de la Croix-Rouge 16,IT,6
+7,1023,Bärenplatz 64,FR,7
+8,1024,Marktgasse 39,FR,8
+9,1025,Poststrasse 33,IT,9
+10,1026,Marktgasse 36,FR,10
+11,1026,Via Trevano 17,FR,11
+12,1027,Rue de la Croix-Rouge 59,FR,12
+13,1028,Place de l'hôtel 41,FR,13
+14,1029,Usterstrasse 75,IT,14
+15,1030,Industriestrasse 47,FR,15
+16,1031,Rue de la Croix-Rouge 10,FR,16
+17,1032,Poststrasse 68,DE,17
+18,1033,Bärenplatz 64,IT,18
+19,1034,Piazza Riforma 87,DE,19
+20,1035,Via Trevano 11,DE,20
+21,1036,Zürcherstrasse 53,DE,21
+22,1037,Rue du Château 84,DE,22
+23,1038,Zürcherstrasse 58,IT,23
+24,1040,Dufourstrasse 7,DE,24
+25,1040,Zürcherstrasse 19,FR,25
+26,1040,Place de l'hôtel 89,FR,26
+27,1041,Via Trevano 34,IT,27
+28,1041,Tellstrasse 52,FR,28
+29,1041,Rue de l'hôpital 49,IT,29
+30,1041,Piazza Riforma 32,DE,30
+31,1041,Rue de la Croix-Rouge 79,IT,31
+32,1041,Bärenplatz 78,DE,32
+33,1042,Tellstrasse 25,FR,33
+34,1042,Hirschengraben 76,IT,34
+35,1042,Morgartenstrasse 91,DE,35
+36,1043,Rue de l'hôpital 50,DE,36
+37,1044,Tellstrasse 92,FR,37
+38,1045,Rue de la Croix-Rouge 2,IT,38
+39,1046,Place de l'hôtel 41,IT,39
+40,1047,Hirschengraben 3,IT,40
+41,1052,Place de l'hôtel 3,DE,41
+42,1053,Tellstrasse 67,FR,42
+43,1053,Piazza Riforma 1,IT,43
+44,1054,Zürcherstrasse 7,DE,44
+45,1055,Tellstrasse 82,DE,45
+46,1058,Piazza Riforma 8,FR,46
+47,1059,Morgartenstrasse 72,DE,47
+48,1061,Zürcherstrasse 56,FR,48
+49,1062,Bärenplatz 31,FR,49
+50,1063,Tellstrasse 26,FR,50
+51,1063,Place de l'hôtel 20,IT,51
+52,1063,Bärenplatz 35,FR,52
+53,1063,Piazza Riforma 24,DE,53
+54,1066,Industriestrasse 39,IT,54
+55,1068,Via Trevano 7,FR,55
+56,1070,Place de l'hôtel 35,DE,56
+57,1071,Dufourstrasse 35,FR,57
+58,1071,Place de l'hôtel 79,IT,58
+59,1071,Marktplatz 69,IT,59
+60,1072,Zürcherstrasse 49,FR,60
+61,1073,Via Trevano 61,IT,61
+62,1073,Rue du Château 86,FR,62
+63,1076,Dufourstrasse 24,DE,63
+64,1077,Poststrasse 25,FR,64
+65,1078,Morgartenstrasse 61,FR,65
+66,1080,Morgartenstrasse 21,IT,66
+67,1081,Zürcherstrasse 49,IT,67
+68,1082,Morgartenstrasse 4,IT,68
+69,1083,Morgartenstrasse 47,DE,69
+70,1084,Marktgasse 53,FR,70
+71,1085,Morgartenstrasse 89,FR,71
+72,1088,Via Trevano 60,FR,72
+73,1090,Hirschengraben 13,DE,73
+74,1091,Marktplatz 24,FR,74
+75,1091,Marktgasse 79,FR,75
+76,1091,Rue de la Croix-Rouge 57,IT,76
+77,1092,Marktplatz 96,FR,77
+78,1093,Rue du Château 13,DE,78
+79,1094,Marktplatz 56,DE,79
+80,1095,Winkelriedstrasse 36,IT,80
+81,1096,Bahnhofstrasse 7,FR,81
+82,1096,Dufourstrasse 6,IT,82
+83,1097,Zürcherstrasse 17,IT,83
+84,1098,Marktgasse 36,FR,84
+85,1110,Rue de l'hôpital 5,FR,85
+86,1112,Marktgasse 54,FR,86
+87,1113,Bärenplatz 52,FR,87
+88,1114,Rue du Château 40,FR,88
+89,1115,Poststrasse 25,IT,89
+90,1116,Poststrasse 52,FR,90
+91,1117,Rue de la Croix-Rouge 44,IT,91
+92,1121,Zürcherstrasse 17,FR,92
+93,1122,Piazza Riforma 99,DE,93
+94,1123,Rue de la Croix-Rouge 71,DE,94
+95,1124,Poststrasse 54,DE,95
+96,1125,Piazza Riforma 31,FR,96
+97,1126,Industriestrasse 97,FR,97
+98,1127,Via Trevano 5,IT,98
+99,1128,Rue du Château 94,IT,99
+100,1131,Poststrasse 80,FR,100
+101,1132,Marktgasse 44,FR,101
+102,1134,Winkelriedstrasse 22,IT,102
+103,1134,Zürcherstrasse 70,FR,103
+104,1135,Marktgasse 93,FR,104
+105,1136,Usterstrasse 5,DE,105
+106,1141,Morgartenstrasse 63,IT,106
+107,1142,Bahnhofstrasse 90,DE,107
+108,1143,Piazza Riforma 48,IT,108
+109,1144,Rue du Château 59,DE,109
+110,1145,Marktgasse 8,FR,110
+111,1146,Winkelriedstrasse 2,FR,111
+112,1147,Rue de l'hôpital 91,FR,112
+113,1148,Piazza Riforma 7,DE,113
+114,1148,Tellstrasse 41,IT,114
+115,1148,Industriestrasse 14,FR,115
+116,1148,Winkelriedstrasse 60,IT,116
+117,1148,Bärenplatz 40,DE,117
+118,1148,Via Trevano 54,FR,118
+119,1148,Zürcherstrasse 52,IT,119
+120,1148,Via Trevano 74,IT,120
+121,1148,Zürcherstrasse 33,DE,121
+122,1149,Rue de l'hôpital 65,DE,122
+123,1162,Bärenplatz 27,FR,123
+124,1163,Rue de la Croix-Rouge 94,IT,124
+125,1164,Rue du Château 27,FR,125
+126,1165,Industriestrasse 67,IT,126
+127,1166,Rue de l'hôpital 47,IT,127
+128,1167,Marktgasse 86,FR,128
+129,1168,Marktgasse 5,DE,129
+130,1169,Marktgasse 86,FR,130
+131,1170,Usterstrasse 33,FR,131
+132,1172,Zürcherstrasse 70,FR,132
+133,1173,Zürcherstrasse 21,DE,133
+134,1174,Via Trevano 21,FR,134
+135,1174,Rue de la Croix-Rouge 50,IT,135
+136,1175,Zürcherstrasse 50,DE,136
+137,1176,Industriestrasse 37,FR,137
+138,1180,Via Trevano 58,FR,138
+139,1180,Marktplatz 66,DE,139
+140,1182,Rue du Château 27,DE,140
+141,1183,Usterstrasse 91,IT,141
+142,1184,Werdstrasse 96,DE,142
+143,1184,Morgartenstrasse 46,IT,143
+144,1185,Poststrasse 26,FR,144
+145,1186,Bärenplatz 9,DE,145
+146,1187,Via Trevano 76,IT,146
+147,1188,Rue du Château 26,IT,147
+148,1188,Marktplatz 6,FR,148
+149,1189,Rue du Château 39,DE,149
+150,1195,Piazza Riforma 43,IT,150
+151,1195,Piazza Riforma 58,DE,151
+152,1196,Dufourstrasse 48,DE,152
+153,1197,Hirschengraben 58,FR,153
+154,1200,Poststrasse 54,FR,154
+155,1212,Usterstrasse 13,DE,155
+156,1213,Dufourstrasse 64,DE,156
+157,1213,Bahnhofstrasse 34,IT,157
+158,1214,Usterstrasse 95,IT,158
+159,1215,Marktgasse 73,DE,159
+160,1216,Rue de l'hôpital 59,FR,160
+161,1217,Industriestrasse 38,DE,161
+162,1218,Via Trevano 70,DE,162
+163,1219,Bärenplatz 57,DE,163
+164,1219,Bahnhofstrasse 39,FR,164
+165,1219,Place de l'hôtel 10,IT,165
+166,1220,Werdstrasse 22,DE,166
+167,1222,Rue de l'hôpital 72,FR,167
+168,1223,Morgartenstrasse 5,FR,168
+169,1224,Rue du Château 6,IT,169
+170,1225,Via Trevano 73,DE,170
+171,1226,Bärenplatz 28,DE,171
+172,1227,Hirschengraben 67,IT,172
+173,1227,Rue de la Croix-Rouge 22,IT,173
+174,1228,Via Trevano 36,FR,174
+175,1231,Bahnhofstrasse 16,FR,175
+176,1232,Marktplatz 48,DE,176
+177,1233,Morgartenstrasse 15,FR,177
+178,1234,Winkelriedstrasse 50,IT,178
+179,1236,Morgartenstrasse 93,IT,179
+180,1237,Rue du Château 95,IT,180
+181,1239,Bahnhofstrasse 36,IT,181
+182,1241,Rue de l'hôpital 100,FR,182
+183,1242,Poststrasse 78,FR,183
+184,1243,Rue de l'hôpital 66,FR,184
+185,1244,Bärenplatz 72,DE,185
+186,1245,Bahnhofstrasse 85,FR,186
+187,1246,Marktgasse 18,DE,187
+188,1247,Rue de la Croix-Rouge 68,IT,188
+189,1248,Rue de la Croix-Rouge 52,IT,189
+190,1251,Place de l'hôtel 33,DE,190
+191,1252,Werdstrasse 62,DE,191
+192,1253,Rue de la Croix-Rouge 29,IT,192
+193,1254,Tellstrasse 42,FR,193
+194,1255,Werdstrasse 65,IT,194
+195,1256,Place de l'hôtel 63,DE,195
+196,1257,Poststrasse 3,DE,196
+197,1258,Via Trevano 78,FR,197
+198,1260,Hirschengraben 31,FR,198
+199,1261,Poststrasse 3,IT,199
+200,1261,Zürcherstrasse 13,IT,200
+201,1261,Bärenplatz 48,DE,201
+202,1262,Morgartenstrasse 10,DE,202
+203,1263,Werdstrasse 12,DE,203
+204,1264,Morgartenstrasse 7,FR,204
+205,1265,Hirschengraben 94,FR,205
+206,1266,Industriestrasse 99,IT,206
+207,1267,Morgartenstrasse 4,IT,207
+208,1267,Rue de l'hôpital 24,IT,208
+209,1268,Winkelriedstrasse 61,IT,209
+210,1268,Rue du Château 30,IT,210
+211,1269,Usterstrasse 28,DE,211
+212,1270,Winkelriedstrasse 84,FR,212
+213,1271,Marktgasse 97,IT,213
+214,1272,Poststrasse 19,FR,214
+215,1273,Dufourstrasse 71,DE,215
+216,1273,Bahnhofstrasse 33,FR,216
+217,1274,Poststrasse 58,IT,217
+218,1274,Zürcherstrasse 37,DE,218
+219,1275,Poststrasse 89,DE,219
+220,1276,Marktgasse 73,IT,220
+221,1277,Hirschengraben 46,IT,221
+222,1277,Rue du Château 64,IT,222
+223,1278,Bärenplatz 63,FR,223
+224,1279,Hirschengraben 67,DE,224
+225,1279,Rue du Château 66,DE,225
+226,1281,Via Trevano 95,FR,226
+227,1283,Bahnhofstrasse 76,DE,227
+228,1283,Place de l'hôtel 76,FR,228
+229,1284,Werdstrasse 60,FR,229
+230,1285,Piazza Riforma 78,IT,230
+231,1286,Poststrasse 43,DE,231
+232,1287,Industriestrasse 12,IT,232
+233,1288,Usterstrasse 74,FR,233
+234,1290,Via Trevano 90,FR,234
+235,1290,Werdstrasse 39,IT,235
+236,1291,Poststrasse 84,DE,236
+237,1292,Morgartenstrasse 43,DE,237
+238,1293,Industriestrasse 93,IT,238
+239,1294,Marktgasse 59,IT,239
+240,1295,Rue du Château 1,DE,240
+241,1295,Marktgasse 50,DE,241
+242,1296,Usterstrasse 66,IT,242
+243,1297,Marktgasse 37,IT,243
+244,1298,Marktgasse 75,DE,244
+245,1299,Marktgasse 10,FR,245
+246,1302,Bärenplatz 14,FR,246
+247,1303,Winkelriedstrasse 52,FR,247
+248,1304,Poststrasse 54,DE,248
+249,1304,Bahnhofstrasse 82,DE,249
+250,1304,Rue du Château 65,FR,250
+251,1304,Rue de la Croix-Rouge 16,FR,251
+252,1305,Rue de la Croix-Rouge 65,DE,252
+253,1306,Via Trevano 51,FR,253
+254,1307,Tellstrasse 19,FR,254
+255,1308,Place de l'hôtel 30,FR,255
+256,1312,Rue du Château 70,IT,256
+257,1313,Winkelriedstrasse 95,FR,257
+258,1315,Rue du Château 85,IT,258
+259,1316,Industriestrasse 5,FR,259
+260,1317,Bärenplatz 34,DE,260
+261,1318,Usterstrasse 5,DE,261
+262,1321,Usterstrasse 50,DE,262
+263,1322,Industriestrasse 1,FR,263
+264,1323,Piazza Riforma 96,IT,264
+265,1324,Marktgasse 14,DE,265
+266,1325,Rue de la Croix-Rouge 65,FR,266
+267,1326,Marktgasse 12,FR,267
+268,1329,Tellstrasse 24,DE,268
+269,1337,Tellstrasse 70,DE,269
+270,1338,Marktgasse 40,DE,270
+271,1341,Usterstrasse 30,IT,271
+272,1342,Werdstrasse 46,FR,272
+273,1343,Via Trevano 65,FR,273
+274,1344,Marktgasse 79,FR,274
+275,1345,Bahnhofstrasse 68,IT,275
+276,1346,Rue de la Croix-Rouge 2,FR,276
+277,1347,Bärenplatz 81,FR,277
+278,1347,Usterstrasse 6,IT,278
+279,1348,Usterstrasse 88,DE,279
+280,1350,Industriestrasse 20,IT,280
+281,1352,Winkelriedstrasse 32,DE,281
+282,1353,Bahnhofstrasse 96,FR,282
+283,1354,Hirschengraben 5,FR,283
+284,1355,Marktplatz 61,DE,284
+285,1355,Place de l'hôtel 90,DE,285
+286,1356,Dufourstrasse 43,DE,286
+287,1356,Zürcherstrasse 50,FR,287
+288,1357,Bärenplatz 92,DE,288
+289,1358,Industriestrasse 41,FR,289
+290,1372,Usterstrasse 81,DE,290
+291,1373,Dufourstrasse 59,DE,291
+292,1374,Usterstrasse 52,DE,292
+293,1375,Usterstrasse 21,DE,293
+294,1376,Hirschengraben 24,IT,294
+295,1376,Marktplatz 81,DE,295
+296,1376,Winkelriedstrasse 57,FR,296
+297,1377,Industriestrasse 72,FR,297
+298,1400,Morgartenstrasse 24,DE,298
+299,1400,Tellstrasse 51,IT,299
+300,1404,Poststrasse 10,FR,300
+301,1404,Zürcherstrasse 11,IT,301
+302,1405,Werdstrasse 17,DE,302
+303,1406,Hirschengraben 21,FR,303
+304,1407,Winkelriedstrasse 5,DE,304
+305,1407,Marktgasse 88,IT,305
+306,1407,Bahnhofstrasse 78,FR,306
+307,1407,Winkelriedstrasse 67,IT,307
+308,1408,Marktgasse 99,FR,308
+309,1409,Place de l'hôtel 13,FR,309
+310,1410,Via Trevano 63,IT,310
+311,1410,Morgartenstrasse 31,DE,311
+312,1410,Tellstrasse 74,DE,312
+313,1410,Marktplatz 85,FR,313
+314,1410,Winkelriedstrasse 22,IT,314
+315,1412,Werdstrasse 48,IT,315
+316,1412,Morgartenstrasse 92,IT,316
+317,1413,Usterstrasse 91,IT,317
+318,1415,Bahnhofstrasse 96,FR,318
+319,1415,Via Trevano 87,IT,319
+320,1416,Industriestrasse 75,FR,320
+321,1417,Rue de l'hôpital 72,IT,321
+322,1417,Usterstrasse 42,IT,322
+323,1418,Rue de l'hôpital 64,IT,323
+324,1420,Bärenplatz 31,FR,324
+325,1421,Werdstrasse 30,DE,325
+326,1421,Tellstrasse 62,FR,326
+327,1422,Rue du Château 39,FR,327
+328,1423,Via Trevano 85,IT,328
+329,1423,Marktgasse 85,FR,329
+330,1423,Rue du Château 47,IT,330
+331,1423,Usterstrasse 17,FR,331
+332,1424,Via Trevano 21,IT,332
+333,1425,Poststrasse 41,IT,333
+334,1426,Marktgasse 29,FR,334
+335,1426,Werdstrasse 40,IT,335
+336,1427,Marktgasse 40,DE,336
+337,1428,Marktgasse 7,DE,337
+338,1428,Bärenplatz 80,IT,338
+339,1429,Bärenplatz 15,FR,339
+340,1430,Place de l'hôtel 92,DE,340
+341,1431,Rue de l'hôpital 15,IT,341
+342,1431,Werdstrasse 33,FR,342
+343,1432,Morgartenstrasse 33,DE,343
+344,1432,Industriestrasse 87,DE,344
+345,1433,Via Trevano 96,IT,345
+346,1434,Industriestrasse 84,DE,346
+347,1435,Marktplatz 31,FR,347
+348,1436,Rue du Château 20,FR,348
+349,1436,Usterstrasse 83,IT,349
+350,1437,Zürcherstrasse 96,IT,350
+351,1438,Dufourstrasse 27,FR,351
+352,1439,Rue de l'hôpital 63,FR,352
+353,1441,Rue de la Croix-Rouge 87,FR,353
+354,1442,Morgartenstrasse 70,DE,354
+355,1443,Morgartenstrasse 13,IT,355
+356,1443,Morgartenstrasse 2,FR,356
+357,1443,Winkelriedstrasse 62,IT,357
+358,1445,Rue de la Croix-Rouge 89,IT,358
+359,1446,Via Trevano 95,IT,359
+360,1450,Piazza Riforma 55,FR,360
+361,1450,Winkelriedstrasse 66,IT,361
+362,1450,Piazza Riforma 24,IT,362
+363,1452,Piazza Riforma 14,IT,363
+364,1453,Winkelriedstrasse 43,FR,364
+365,1453,Usterstrasse 78,FR,365
+366,1454,Tellstrasse 41,IT,366
+367,1454,Via Trevano 70,DE,367
+368,1462,Zürcherstrasse 79,DE,368
+369,1463,Marktplatz 52,FR,369
+370,1464,Marktgasse 67,IT,370
+371,1464,Poststrasse 63,FR,371
+372,1468,Industriestrasse 3,DE,372
+373,1470,Rue de la Croix-Rouge 76,IT,373
+374,1470,Bärenplatz 76,FR,374
+375,1470,Zürcherstrasse 81,IT,375
+376,1470,Rue de la Croix-Rouge 9,FR,376
+377,1473,Marktgasse 80,IT,377
+378,1473,Place de l'hôtel 2,IT,378
+379,1474,Piazza Riforma 22,IT,379
+380,1475,Dufourstrasse 57,FR,380
+381,1475,Bahnhofstrasse 42,DE,381
+382,1475,Marktgasse 46,IT,382
+383,1482,Usterstrasse 25,IT,383
+384,1483,Hirschengraben 82,FR,384
+385,1483,Bärenplatz 44,IT,385
+386,1483,Marktgasse 46,IT,386
+387,1484,Marktgasse 28,DE,387
+388,1484,Bärenplatz 64,FR,388
+389,1485,Werdstrasse 88,IT,389
+390,1486,Marktplatz 35,FR,390
+391,1489,Industriestrasse 59,IT,391
+392,1509,Usterstrasse 73,IT,392
+393,1510,Rue de l'hôpital 70,FR,393
+394,1510,Tellstrasse 24,DE,394
+395,1512,Industriestrasse 38,DE,395
+396,1513,Tellstrasse 24,IT,396
+397,1513,Hirschengraben 62,IT,397
+398,1514,Morgartenstrasse 45,FR,398
+399,1515,Usterstrasse 44,FR,399
+400,1515,Marktgasse 28,DE,400
+401,1521,Marktplatz 85,IT,401
+402,1522,Werdstrasse 65,DE,402
+403,1522,Via Trevano 11,DE,403
+404,1523,Rue de l'hôpital 8,IT,404
+405,1524,Dufourstrasse 1,IT,405
+406,1525,Winkelriedstrasse 87,IT,406
+407,1525,Tellstrasse 66,FR,407
+408,1526,Rue du Château 53,DE,408
+409,1526,Werdstrasse 63,DE,409
+410,1527,Rue de la Croix-Rouge 74,FR,410
+411,1528,Bärenplatz 47,DE,411
+412,1528,Morgartenstrasse 49,FR,412
+413,1529,Dufourstrasse 1,IT,413
+414,1530,Rue du Château 15,FR,414
+415,1532,Marktgasse 82,IT,415
+416,1533,Marktgasse 34,IT,416
+417,1534,Zürcherstrasse 53,DE,417
+418,1534,Via Trevano 55,FR,418
+419,1535,Marktgasse 40,FR,419
+420,1536,Rue du Château 46,DE,420
+421,1537,Place de l'hôtel 39,IT,421
+422,1538,Marktgasse 46,FR,422
+423,1541,Dufourstrasse 74,IT,423
+424,1541,Bärenplatz 35,DE,424
+425,1541,Hirschengraben 10,FR,425
+426,1542,Tellstrasse 86,FR,426
+427,1543,Zürcherstrasse 100,DE,427
+428,1544,Via Trevano 54,DE,428
+429,1545,Industriestrasse 93,DE,429
+430,1551,Rue de la Croix-Rouge 25,IT,430
+431,1552,Marktplatz 66,IT,431
+432,1553,Hirschengraben 97,DE,432
+433,1554,Zürcherstrasse 73,DE,433
+434,1554,Via Trevano 98,IT,434
+435,1555,Morgartenstrasse 29,FR,435
+436,1562,Poststrasse 15,DE,436
+437,1563,Rue du Château 31,IT,437
+438,1564,Bärenplatz 16,DE,438
+439,1565,Place de l'hôtel 33,FR,439
+440,1565,Rue du Château 79,DE,440
+441,1566,Bahnhofstrasse 41,DE,441
+442,1566,Zürcherstrasse 45,DE,442
+443,1567,Zürcherstrasse 86,DE,443
+444,1568,Usterstrasse 40,FR,444
+445,1580,Tellstrasse 88,IT,445
+446,1580,Via Trevano 89,FR,446
+447,1582,Dufourstrasse 4,IT,447
+448,1583,Morgartenstrasse 60,IT,448
+449,1584,Piazza Riforma 17,IT,449
+450,1585,Piazza Riforma 97,DE,450
+451,1585,Morgartenstrasse 95,DE,451
+452,1585,Dufourstrasse 38,DE,452
+453,1586,Usterstrasse 66,DE,453
+454,1587,Place de l'hôtel 14,IT,454
+455,1587,Piazza Riforma 17,FR,455
+456,1588,Marktgasse 20,FR,456
+457,1589,Bärenplatz 1,DE,457
+458,1595,Hirschengraben 68,IT,458
+459,1595,Hirschengraben 81,DE,459
+460,1607,Via Trevano 40,IT,460
+461,1607,Zürcherstrasse 36,DE,461
+462,1607,Marktplatz 76,IT,462
+463,1607,Industriestrasse 31,FR,463
+464,1608,Hirschengraben 91,DE,464
+465,1608,Winkelriedstrasse 88,FR,465
+466,1608,Via Trevano 1,DE,466
+467,1608,Piazza Riforma 67,DE,467
+468,1609,Rue de la Croix-Rouge 74,FR,468
+469,1609,Usterstrasse 99,DE,469
+470,1609,Rue de la Croix-Rouge 89,IT,470
+471,1609,Zürcherstrasse 88,IT,471
+472,1610,Hirschengraben 17,IT,472
+473,1610,Industriestrasse 35,IT,473
+474,1610,Winkelriedstrasse 27,IT,474
+475,1611,Rue de l'hôpital 49,IT,475
+476,1612,Poststrasse 5,DE,476
+477,1613,Via Trevano 38,FR,477
+478,1614,Marktgasse 91,IT,478
+479,1615,Industriestrasse 48,FR,479
+480,1616,Tellstrasse 25,DE,480
+481,1617,Via Trevano 38,DE,481
+482,1617,Dufourstrasse 5,DE,482
+483,1618,Werdstrasse 29,FR,483
+484,1619,Bahnhofstrasse 89,DE,484
+485,1623,Usterstrasse 83,FR,485
+486,1624,Rue de l'hôpital 83,IT,486
+487,1624,Piazza Riforma 60,IT,487
+488,1624,Bahnhofstrasse 27,DE,488
+489,1625,Industriestrasse 79,DE,489
+490,1625,Piazza Riforma 94,FR,490
+491,1626,Rue du Château 95,FR,491
+492,1626,Morgartenstrasse 76,FR,492
+493,1626,Bärenplatz 92,IT,493
+494,1627,Hirschengraben 99,FR,494
+495,1628,Rue de l'hôpital 73,FR,495
+496,1630,Winkelriedstrasse 82,DE,496
+497,1632,Marktplatz 89,DE,497
+498,1633,Morgartenstrasse 2,DE,498
+499,1633,Morgartenstrasse 87,DE,499
+500,1634,Rue de l'hôpital 91,FR,500
+501,1635,Dufourstrasse 78,DE,501
+502,1636,Dufourstrasse 1,FR,502
+503,1637,Morgartenstrasse 73,DE,503
+504,1638,Poststrasse 33,IT,504
+505,1642,Bahnhofstrasse 66,IT,505
+506,1643,Winkelriedstrasse 90,IT,506
+507,1644,Industriestrasse 92,DE,507
+508,1645,Winkelriedstrasse 75,DE,508
+509,1646,Zürcherstrasse 39,DE,509
+510,1647,Rue de l'hôpital 86,IT,510
+511,1648,Tellstrasse 16,IT,511
+512,1649,Morgartenstrasse 74,FR,512
+513,1651,Rue de la Croix-Rouge 61,DE,513
+514,1652,Rue de la Croix-Rouge 25,IT,514
+515,1652,Marktgasse 45,IT,515
+516,1653,Hirschengraben 56,DE,516
+517,1653,Rue de la Croix-Rouge 98,IT,517
+518,1654,Hirschengraben 9,IT,518
+519,1656,Rue de l'hôpital 41,DE,519
+520,1656,Via Trevano 2,DE,520
+521,1657,Rue de la Croix-Rouge 95,IT,521
+522,1658,Tellstrasse 7,IT,522
+523,1658,Werdstrasse 44,DE,523
+524,1659,Industriestrasse 61,FR,524
+525,1659,Rue de l'hôpital 7,IT,525
+526,1660,Piazza Riforma 36,IT,526
+527,1660,Hirschengraben 67,FR,527
+528,1660,Usterstrasse 80,DE,528
+529,1660,Rue du Château 26,FR,529
+530,1661,Bärenplatz 29,IT,530
+531,1663,Rue du Château 74,IT,531
+532,1663,Werdstrasse 93,DE,532
+533,1663,Winkelriedstrasse 26,IT,533
+534,1663,Bärenplatz 93,FR,534
+535,1665,Via Trevano 71,FR,535
+536,1666,Industriestrasse 76,FR,536
+537,1666,Hirschengraben 64,IT,537
+538,1667,Industriestrasse 64,DE,538
+539,1669,Marktplatz 11,IT,539
+540,1669,Morgartenstrasse 98,IT,540
+541,1669,Piazza Riforma 8,FR,541
+542,1669,Bahnhofstrasse 31,FR,542
+543,1669,Poststrasse 11,IT,543
+544,1670,Hirschengraben 69,IT,544
+545,1670,Hirschengraben 85,IT,545
+546,1670,Poststrasse 73,DE,546
+547,1673,Via Trevano 22,DE,547
+548,1673,Marktgasse 28,IT,548
+549,1673,Piazza Riforma 100,FR,549
+550,1673,Marktgasse 87,FR,550
+551,1673,Piazza Riforma 98,DE,551
+552,1674,Winkelriedstrasse 99,FR,552
+553,1674,Hirschengraben 57,IT,553
+554,1674,Bahnhofstrasse 10,DE,554
+555,1675,Tellstrasse 5,DE,555
+556,1675,Industriestrasse 98,IT,556
+557,1675,Marktgasse 41,DE,557
+558,1676,Winkelriedstrasse 83,FR,558
+559,1677,Marktgasse 32,DE,559
+560,1678,Tellstrasse 77,IT,560
+561,1679,Rue de la Croix-Rouge 58,DE,561
+562,1680,Rue du Château 82,FR,562
+563,1680,Hirschengraben 46,FR,563
+564,1681,Werdstrasse 17,DE,564
+565,1681,Werdstrasse 39,DE,565
+566,1682,Usterstrasse 78,DE,566
+567,1682,Bärenplatz 26,DE,567
+568,1682,Rue du Château 40,IT,568
+569,1682,Usterstrasse 55,IT,569
+570,1682,Tellstrasse 8,FR,570
+571,1683,Rue du Château 1,DE,571
+572,1683,Rue de la Croix-Rouge 81,IT,572
+573,1683,Place de l'hôtel 99,DE,573
+574,1684,Winkelriedstrasse 95,IT,574
+575,1685,Zürcherstrasse 26,IT,575
+576,1686,Dufourstrasse 2,FR,576
+577,1686,Rue de l'hôpital 5,FR,577
+578,1687,Bärenplatz 77,DE,578
+579,1687,Winkelriedstrasse 68,IT,579
+580,1687,Marktplatz 43,IT,580
+581,1688,Dufourstrasse 76,IT,581
+582,1688,Rue de la Croix-Rouge 24,IT,582
+583,1689,Tellstrasse 84,IT,583
+584,1690,Rue du Château 79,IT,584
+585,1690,Via Trevano 47,IT,585
+586,1691,Place de l'hôtel 4,DE,586
+587,1692,Industriestrasse 81,DE,587
+588,1694,Via Trevano 82,FR,588
+589,1694,Werdstrasse 84,IT,589
+590,1694,Marktgasse 87,DE,590
+591,1694,Marktplatz 19,IT,591
+592,1695,Usterstrasse 35,DE,592
+593,1695,Tellstrasse 5,DE,593
+594,1695,Bahnhofstrasse 50,IT,594
+595,1695,Winkelriedstrasse 32,FR,595
+596,1696,Morgartenstrasse 28,DE,596
+597,1697,Hirschengraben 17,IT,597
+598,1697,Rue du Château 76,FR,598
+599,1699,Piazza Riforma 77,FR,599
+600,1699,Bahnhofstrasse 16,FR,600
+601,1699,Dufourstrasse 44,FR,601
+602,1700,Rue de la Croix-Rouge 29,IT,602
+603,1712,Bahnhofstrasse 85,DE,603
+604,1713,Zürcherstrasse 49,IT,604
+605,1714,Bahnhofstrasse 8,FR,605
+606,1715,Zürcherstrasse 27,DE,606
+607,1716,Usterstrasse 50,FR,607
+608,1716,Industriestrasse 35,FR,608
+609,1716,Via Trevano 47,IT,609
+610,1717,Winkelriedstrasse 72,FR,610
+611,1718,Usterstrasse 38,DE,611
+612,1719,Rue du Château 16,IT,612
+613,1719,Piazza Riforma 33,IT,613
+614,1720,Hirschengraben 28,DE,614
+615,1720,Dufourstrasse 28,IT,615
+616,1721,Werdstrasse 70,IT,616
+617,1721,Rue du Château 97,FR,617
+618,1721,Usterstrasse 64,FR,618
+619,1722,Werdstrasse 54,DE,619
+620,1723,Rue de la Croix-Rouge 73,FR,620
+621,1723,Poststrasse 14,IT,621
+622,1723,Rue de la Croix-Rouge 65,IT,622
+623,1724,Marktplatz 52,FR,623
+624,1724,Tellstrasse 47,IT,624
+625,1724,Morgartenstrasse 98,FR,625
+626,1724,Rue de la Croix-Rouge 90,DE,626
+627,1724,Zürcherstrasse 50,FR,627
+628,1724,Tellstrasse 91,IT,628
+629,1724,Rue de la Croix-Rouge 81,IT,629
+630,1724,Bärenplatz 29,IT,630
+631,1725,Usterstrasse 82,DE,631
+632,1726,Usterstrasse 77,FR,632
+633,1726,Morgartenstrasse 40,DE,633
+634,1726,Hirschengraben 80,IT,634
+635,1726,Dufourstrasse 91,DE,635
+636,1727,Hirschengraben 53,FR,636
+637,1727,Via Trevano 22,IT,637
+638,1728,Piazza Riforma 59,IT,638
+639,1730,Bahnhofstrasse 72,DE,639
+640,1731,Werdstrasse 91,DE,640
+641,1732,Marktgasse 21,FR,641
+642,1733,Marktgasse 43,IT,642
+643,1734,Tellstrasse 39,FR,643
+644,1735,Rue de l'hôpital 81,FR,644
+645,1736,Tellstrasse 43,IT,645
+646,1737,Bahnhofstrasse 36,IT,646
+647,1738,Marktplatz 60,IT,647
+648,1740,Poststrasse 75,IT,648
+649,1741,Bahnhofstrasse 77,IT,649
+650,1742,Usterstrasse 15,IT,650
+651,1744,Industriestrasse 30,IT,651
+652,1745,Industriestrasse 50,IT,652
+653,1746,Poststrasse 78,DE,653
+654,1747,Place de l'hôtel 76,FR,654
+655,1748,Industriestrasse 70,DE,655
+656,1749,Morgartenstrasse 93,DE,656
+657,1752,Hirschengraben 75,FR,657
+658,1753,Werdstrasse 22,FR,658
+659,1754,Via Trevano 100,IT,659
+660,1754,Marktplatz 71,IT,660
+661,1754,Dufourstrasse 35,IT,661
+662,1754,Tellstrasse 21,IT,662
+663,1756,Morgartenstrasse 86,IT,663
+664,1756,Winkelriedstrasse 94,FR,664
+665,1757,Dufourstrasse 96,IT,665
+666,1762,Via Trevano 78,FR,666
+667,1763,Morgartenstrasse 84,FR,667
+668,1772,Morgartenstrasse 90,FR,668
+669,1772,Rue de l'hôpital 74,FR,669
+670,1772,Tellstrasse 62,IT,670
+671,1773,Dufourstrasse 3,DE,671
+672,1773,Werdstrasse 35,FR,672
+673,1773,Winkelriedstrasse 95,DE,673
+674,1774,Winkelriedstrasse 65,DE,674
+675,1774,Marktgasse 93,FR,675
+676,1775,Rue de la Croix-Rouge 21,DE,676
+677,1775,Usterstrasse 2,FR,677
+678,1776,Usterstrasse 72,FR,678
+679,1782,Marktgasse 21,DE,679
+680,1782,Place de l'hôtel 38,FR,680
+681,1782,Zürcherstrasse 52,IT,681
+682,1782,Rue du Château 29,DE,682
+683,1782,Morgartenstrasse 58,IT,683
+684,1782,Dufourstrasse 87,FR,684
+685,1783,Rue du Château 74,FR,685
+686,1783,Rue de l'hôpital 59,FR,686
+687,1784,Dufourstrasse 43,IT,687
+688,1784,Hirschengraben 43,IT,688
+689,1784,Rue du Château 49,IT,689
+690,1785,Marktplatz 34,FR,690
+691,1786,Via Trevano 59,IT,691
+692,1787,Poststrasse 41,IT,692
+693,1787,Marktplatz 86,DE,693
+694,1787,Via Trevano 85,FR,694
+695,1788,Marktgasse 91,FR,695
+696,1789,Via Trevano 19,IT,696
+697,1791,Tellstrasse 85,DE,697
+698,1792,Bahnhofstrasse 36,DE,698
+699,1792,Bahnhofstrasse 10,DE,699
+700,1793,Usterstrasse 37,FR,700
+701,1794,Dufourstrasse 36,IT,701
+702,1795,Marktplatz 3,FR,702
+703,1796,Morgartenstrasse 57,IT,703
+704,1797,Marktgasse 72,DE,704
+705,1800,Hirschengraben 36,FR,705
+706,1801,Rue du Château 88,FR,706
+707,1802,Winkelriedstrasse 9,IT,707
+708,1803,Morgartenstrasse 86,DE,708
+709,1804,Hirschengraben 40,FR,709
+710,1805,Zürcherstrasse 21,IT,710
+711,1806,Werdstrasse 33,FR,711
+712,1807,Winkelriedstrasse 41,IT,712
+713,1808,Rue du Château 94,FR,713
+714,1809,Zürcherstrasse 55,FR,714
+715,1814,Dufourstrasse 5,DE,715
+716,1815,Morgartenstrasse 5,DE,716
+717,1816,Zürcherstrasse 27,DE,717
+718,1817,Rue de la Croix-Rouge 13,FR,718
+719,1820,Winkelriedstrasse 75,IT,719
+720,1820,Winkelriedstrasse 77,FR,720
+721,1820,Rue du Château 85,IT,721
+722,1822,Piazza Riforma 94,IT,722
+723,1823,Bärenplatz 10,IT,723
+724,1824,Winkelriedstrasse 71,DE,724
+725,1832,Rue de la Croix-Rouge 65,FR,725
+726,1832,Werdstrasse 56,FR,726
+727,1833,Dufourstrasse 56,FR,727
+728,1844,Place de l'hôtel 85,FR,728
+729,1845,Tellstrasse 60,IT,729
+730,1846,Bärenplatz 16,FR,730
+731,1847,Piazza Riforma 81,IT,731
+732,1852,Usterstrasse 22,FR,732
+733,1853,Via Trevano 60,FR,733
+734,1854,Bärenplatz 55,DE,734
+735,1856,Bahnhofstrasse 72,DE,735
+736,1860,Zürcherstrasse 36,DE,736
+737,1862,Marktgasse 58,DE,737
+738,1862,Industriestrasse 41,FR,738
+739,1863,Bärenplatz 84,DE,739
+740,1864,Werdstrasse 31,FR,740
+741,1865,Rue du Château 75,DE,741
+742,1866,Zürcherstrasse 92,DE,742
+743,1867,Dufourstrasse 86,IT,743
+744,1867,Piazza Riforma 5,FR,744
+745,1867,Rue de la Croix-Rouge 76,IT,745
+746,1868,Poststrasse 81,IT,746
+747,1869,Bahnhofstrasse 35,IT,747
+748,1870,Hirschengraben 87,DE,748
+749,1871,Werdstrasse 83,IT,749
+750,1871,Rue du Château 55,FR,750
+751,1872,Place de l'hôtel 10,IT,751
+752,1873,Winkelriedstrasse 49,IT,752
+753,1873,Poststrasse 42,DE,753
+754,1873,Tellstrasse 38,IT,754
+755,1874,Rue de l'hôpital 88,IT,755
+756,1875,Winkelriedstrasse 68,IT,756
+757,1880,Poststrasse 84,IT,757
+758,1880,Rue de la Croix-Rouge 95,IT,758
+759,1880,Bahnhofstrasse 59,DE,759
+760,1880,Rue de la Croix-Rouge 70,FR,760
+761,1882,Rue du Château 44,DE,761
+762,1882,Bahnhofstrasse 5,DE,762
+763,1884,Bahnhofstrasse 71,FR,763
+764,1884,Tellstrasse 20,FR,764
+765,1884,Bahnhofstrasse 49,DE,765
+766,1885,Marktgasse 68,IT,766
+767,1890,Rue de la Croix-Rouge 29,FR,767
+768,1890,Place de l'hôtel 40,FR,768
+769,1891,Rue du Château 73,IT,769
+770,1892,Zürcherstrasse 40,IT,770
+771,1892,Winkelriedstrasse 47,FR,771
+772,1892,Marktgasse 43,IT,772
+773,1893,Rue de la Croix-Rouge 86,IT,773
+774,1895,Marktgasse 3,DE,774
+775,1896,Rue de l'hôpital 80,DE,775
+776,1896,Usterstrasse 34,DE,776
+777,1897,Usterstrasse 29,DE,777
+778,1897,Rue de la Croix-Rouge 28,IT,778
+779,1898,Morgartenstrasse 30,FR,779
+780,1899,Dufourstrasse 13,FR,780
+781,1902,Dufourstrasse 87,FR,781
+782,1903,Industriestrasse 72,FR,782
+783,1904,Rue de l'hôpital 16,IT,783
+784,1905,Rue de la Croix-Rouge 31,FR,784
+785,1906,Bahnhofstrasse 80,IT,785
+786,1907,Tellstrasse 23,IT,786
+787,1908,Zürcherstrasse 94,FR,787
+788,1911,Place de l'hôtel 38,IT,788
+789,1911,Winkelriedstrasse 33,FR,789
+790,1912,Bärenplatz 66,DE,790
+791,1912,Place de l'hôtel 81,FR,791
+792,1912,Morgartenstrasse 2,IT,792
+793,1912,Dufourstrasse 77,DE,793
+794,1913,Dufourstrasse 12,FR,794
+795,1914,Winkelriedstrasse 4,FR,795
+796,1914,Industriestrasse 16,DE,796
+797,1918,Rue de l'hôpital 28,IT,797
+798,1920,Werdstrasse 3,FR,798
+799,1921,Usterstrasse 73,FR,799
+800,1922,Hirschengraben 61,DE,800
+801,1922,Rue du Château 94,IT,801
+802,1923,Marktgasse 44,FR,802
+803,1923,Zürcherstrasse 77,FR,803
+804,1925,Bahnhofstrasse 6,IT,804
+805,1925,Via Trevano 26,FR,805
+806,1926,Poststrasse 5,DE,806
+807,1927,Zürcherstrasse 37,DE,807
+808,1928,Bärenplatz 95,FR,808
+809,1929,Bärenplatz 72,DE,809
+810,1932,Place de l'hôtel 87,FR,810
+811,1932,Piazza Riforma 44,FR,811
+812,1933,Via Trevano 7,FR,812
+813,1933,Marktplatz 58,IT,813
+814,1933,Rue de l'hôpital 33,DE,814
+815,1933,Winkelriedstrasse 10,IT,815
+816,1934,Morgartenstrasse 14,DE,816
+817,1934,Bärenplatz 79,IT,817
+818,1934,Rue de l'hôpital 19,IT,818
+819,1934,Tellstrasse 24,DE,819
+820,1934,Dufourstrasse 53,DE,820
+821,1934,Marktgasse 73,FR,821
+822,1936,Via Trevano 55,FR,822
+823,1937,Werdstrasse 26,FR,823
+824,1938,Hirschengraben 35,IT,824
+825,1941,Usterstrasse 43,FR,825
+826,1941,Marktgasse 49,FR,826
+827,1942,Tellstrasse 40,FR,827
+828,1943,Bahnhofstrasse 69,IT,828
+829,1944,Marktgasse 98,FR,829
+830,1945,Marktplatz 91,DE,830
+831,1945,Via Trevano 67,DE,831
+832,1945,Morgartenstrasse 95,DE,832
+833,1945,Bärenplatz 97,IT,833
+834,1945,Piazza Riforma 46,FR,834
+835,1945,Tellstrasse 85,DE,835
+836,1945,Zürcherstrasse 18,IT,836
+837,1945,Werdstrasse 11,DE,837
+838,1945,Dufourstrasse 39,DE,838
+839,1945,Industriestrasse 21,FR,839
+840,1945,Via Trevano 30,DE,840
+841,1945,Via Trevano 42,IT,841
+842,1946,Tellstrasse 74,FR,842
+843,1947,Marktplatz 67,IT,843
+844,1947,Rue de la Croix-Rouge 20,IT,844
+845,1947,Dufourstrasse 90,IT,845
+846,1947,Marktplatz 50,FR,846
+847,1947,Rue de l'hôpital 88,IT,847
+848,1947,Place de l'hôtel 58,DE,848
+849,1948,Zürcherstrasse 83,FR,849
+850,1948,Poststrasse 15,DE,850
+851,1948,Poststrasse 31,IT,851
+852,1948,Winkelriedstrasse 26,IT,852
+853,1948,Rue de l'hôpital 87,DE,853
+854,1950,Dufourstrasse 82,IT,854
+855,1955,Marktplatz 15,DE,855
+856,1955,Tellstrasse 65,FR,856
+857,1955,Rue de l'hôpital 76,FR,857
+858,1955,Marktplatz 63,FR,858
+859,1955,Via Trevano 90,FR,859
+860,1957,Morgartenstrasse 4,IT,860
+861,1958,Poststrasse 41,IT,861
+862,1958,Marktgasse 56,DE,862
+863,1961,Dufourstrasse 92,FR,863
+864,1962,Winkelriedstrasse 37,FR,864
+865,1963,Dufourstrasse 66,FR,865
+866,1964,Rue de la Croix-Rouge 87,IT,866
+867,1965,Tellstrasse 96,DE,867
+868,1965,Piazza Riforma 95,FR,868
+869,1965,Tellstrasse 63,FR,869
+870,1965,Piazza Riforma 83,FR,870
+871,1965,Zürcherstrasse 90,DE,871
+872,1965,Rue de la Croix-Rouge 65,FR,872
+873,1965,Marktgasse 32,IT,873
+874,1965,Piazza Riforma 86,FR,874
+875,1965,Piazza Riforma 23,DE,875
+876,1966,Piazza Riforma 49,IT,876
+877,1966,Hirschengraben 76,IT,877
+878,1966,Industriestrasse 35,IT,878
+879,1966,Zürcherstrasse 96,FR,879
+880,1966,Winkelriedstrasse 53,DE,880
+881,1966,Hirschengraben 32,FR,881
+882,1966,Dufourstrasse 80,FR,882
+883,1966,Rue de la Croix-Rouge 52,IT,883
+884,1966,Marktplatz 29,FR,884
+885,1966,Morgartenstrasse 8,FR,885
+886,1967,Usterstrasse 17,IT,886
+887,1968,Piazza Riforma 54,DE,887
+888,1969,Tellstrasse 10,DE,888
+889,1969,Winkelriedstrasse 47,FR,889
+890,1969,Marktgasse 9,IT,890
+891,1969,Tellstrasse 14,IT,891
+892,1969,Bärenplatz 59,FR,892
+893,1971,Piazza Riforma 72,DE,893
+894,1971,Tellstrasse 56,FR,894
+895,1971,Industriestrasse 63,IT,895
+896,1972,Zürcherstrasse 10,DE,896
+897,1973,Via Trevano 73,IT,897
+898,1974,Bahnhofstrasse 43,IT,898
+899,1975,Werdstrasse 26,DE,899
+900,1976,Hirschengraben 100,IT,900
+901,1976,Dufourstrasse 36,FR,901
+902,1976,Marktgasse 13,DE,902
+903,1977,Hirschengraben 7,DE,903
+904,1978,Winkelriedstrasse 93,IT,904
+905,1981,Zürcherstrasse 26,IT,905
+906,1982,Bärenplatz 18,FR,906
+907,1983,Hirschengraben 64,FR,907
+908,1983,Werdstrasse 69,DE,908
+909,1984,Hirschengraben 7,IT,909
+910,1985,Industriestrasse 18,FR,910
+911,1986,Tellstrasse 8,IT,911
+912,1987,Bärenplatz 77,DE,912
+913,1987,Usterstrasse 94,DE,913
+914,1988,Usterstrasse 13,IT,914
+915,1988,Bärenplatz 18,FR,915
+916,1991,Poststrasse 75,FR,916
+917,1991,Place de l'hôtel 51,IT,917
+918,1991,Industriestrasse 91,FR,918
+919,1991,Hirschengraben 91,IT,919
+920,1991,Rue de la Croix-Rouge 23,DE,920
+921,1992,Bärenplatz 2,IT,921
+922,1992,Zürcherstrasse 67,IT,922
+923,1992,Piazza Riforma 22,DE,923
+924,1992,Rue de l'hôpital 5,IT,924
+925,1993,Rue du Château 82,DE,925
+926,1993,Industriestrasse 41,IT,926
+927,1994,Hirschengraben 20,FR,927
+928,1996,Rue du Château 36,DE,928
+929,1996,Morgartenstrasse 86,DE,929
+930,1996,Rue de la Croix-Rouge 34,IT,930
+931,1996,Industriestrasse 25,FR,931
+932,1996,Bahnhofstrasse 10,FR,932
+933,1996,Rue de l'hôpital 38,FR,933
+934,1996,Hirschengraben 33,IT,934
+935,1996,Werdstrasse 58,FR,935
+936,1996,Rue de l'hôpital 16,IT,936
+937,1997,Place de l'hôtel 79,FR,937
+938,1997,Marktplatz 13,IT,938
+939,2000,Bärenplatz 24,DE,939
+940,2012,Rue de la Croix-Rouge 98,FR,940
+941,2013,Rue du Château 82,FR,941
+942,2014,Dufourstrasse 19,DE,942
+943,2015,Morgartenstrasse 90,FR,943
+944,2016,Rue du Château 26,DE,944
+945,2017,Winkelriedstrasse 60,DE,945
+946,2019,Industriestrasse 50,DE,946
+947,2019,Industriestrasse 22,FR,947
+948,2022,Hirschengraben 46,IT,948
+949,2023,Morgartenstrasse 79,FR,949
+950,2024,Rue de la Croix-Rouge 26,FR,950
+951,2025,Hirschengraben 34,DE,951
+952,2027,Usterstrasse 98,IT,952
+953,2027,Morgartenstrasse 28,DE,953
+954,2028,Rue de l'hôpital 92,FR,954
+955,2034,Morgartenstrasse 52,DE,955
+956,2035,Usterstrasse 5,FR,956
+957,2036,Marktplatz 29,DE,957
+958,2037,Piazza Riforma 20,DE,958
+959,2037,Winkelriedstrasse 98,DE,959
+960,2042,Piazza Riforma 77,FR,960
+961,2043,Rue du Château 68,DE,961
+962,2046,Bahnhofstrasse 17,DE,962
+963,2052,Piazza Riforma 50,DE,963
+964,2052,Poststrasse 71,IT,964
+965,2053,Hirschengraben 100,DE,965
+966,2054,Winkelriedstrasse 12,IT,966
+967,2054,Marktgasse 4,FR,967
+968,2056,Rue de la Croix-Rouge 58,FR,968
+969,2057,Rue de la Croix-Rouge 63,FR,969
+970,2058,Rue de l'hôpital 40,IT,970
+971,2063,Morgartenstrasse 16,FR,971
+972,2063,Rue de l'hôpital 39,FR,972
+973,2063,Rue de l'hôpital 60,IT,973
+974,2063,Industriestrasse 7,FR,974
+975,2065,Hirschengraben 84,IT,975
+976,2067,Industriestrasse 13,IT,976
+977,2068,Piazza Riforma 11,FR,977
+978,2072,Winkelriedstrasse 10,DE,978
+979,2073,Zürcherstrasse 56,IT,979
+980,2074,Tellstrasse 38,FR,980
+981,2075,Winkelriedstrasse 86,DE,981
+982,2075,Morgartenstrasse 66,FR,982
+983,2087,Tellstrasse 77,IT,983
+984,2088,Rue du Château 48,FR,984
+985,2103,Dufourstrasse 29,IT,985
+986,2105,Place de l'hôtel 78,DE,986
+987,2108,Via Trevano 53,IT,987
+988,2112,Winkelriedstrasse 61,IT,988
+989,2113,Morgartenstrasse 20,IT,989
+990,2114,Bärenplatz 31,FR,990
+991,2115,Werdstrasse 63,FR,991
+992,2116,Bärenplatz 16,DE,992
+993,2117,Usterstrasse 7,FR,993
+994,2123,Place de l'hôtel 20,FR,994
+995,2124,Zürcherstrasse 48,DE,995
+996,2126,Rue de l'hôpital 57,DE,996
+997,2127,Place de l'hôtel 34,FR,997
+998,2149,Place de l'hôtel 25,DE,998
+999,2149,Bahnhofstrasse 53,IT,999
+1000,2149,Werdstrasse 3,FR,1000
+1001,2206,Marktgasse 69,FR,1001
+1002,2207,Bärenplatz 84,DE,1002
+1003,2208,Morgartenstrasse 19,DE,1003
+1004,2300,Bahnhofstrasse 61,DE,1004
+1005,2300,Winkelriedstrasse 67,DE,1005
+1006,2314,Morgartenstrasse 1,FR,1006
+1007,2316,Industriestrasse 69,IT,1007
+1008,2316,Hirschengraben 20,DE,1008
+1009,2318,Winkelriedstrasse 92,FR,1009
+1010,2322,Rue de l'hôpital 37,DE,1010
+1011,2325,Piazza Riforma 59,FR,1011
+1012,2325,Rue de la Croix-Rouge 76,FR,1012
+1013,2300,Werdstrasse 59,DE,1013
+1014,2333,Via Trevano 21,FR,1014
+1015,2336,Bärenplatz 33,FR,1015
+1016,2338,Piazza Riforma 4,DE,1016
+1017,2338,Hirschengraben 31,FR,1017
+1018,2340,Zürcherstrasse 9,IT,1018
+1019,2345,Zürcherstrasse 27,FR,1019
+1020,2345,Bahnhofstrasse 91,FR,1020
+1021,2345,Marktplatz 9,FR,1021
+1022,2350,Bärenplatz 32,DE,1022
+1023,2353,Place de l'hôtel 30,DE,1023
+1024,2354,Bärenplatz 67,IT,1024
+1025,2360,Piazza Riforma 73,IT,1025
+1026,2362,Morgartenstrasse 20,DE,1026
+1027,2362,Rue de l'hôpital 84,IT,1027
+1028,2363,Marktgasse 47,DE,1028
+1029,2364,Hirschengraben 28,DE,1029
+1030,2400,Tellstrasse 54,FR,1030
+1031,2400,Bahnhofstrasse 30,IT,1031
+1032,2405,Zürcherstrasse 8,IT,1032
+1033,2406,Tellstrasse 46,FR,1033
+1034,2406,Usterstrasse 59,FR,1034
+1035,2406,Bahnhofstrasse 52,IT,1035
+1036,2406,Poststrasse 98,FR,1036
+1037,2414,Place de l'hôtel 73,IT,1037
+1038,2416,Zürcherstrasse 47,IT,1038
+1039,2500,Usterstrasse 98,IT,1039
+1040,2512,Via Trevano 73,IT,1040
+1041,2513,Marktplatz 13,IT,1041
+1042,2514,Rue de la Croix-Rouge 98,IT,1042
+1043,2515,Werdstrasse 23,FR,1043
+1044,2516,Marktplatz 39,DE,1044
+1045,2517,Poststrasse 70,FR,1045
+1046,2518,Rue de la Croix-Rouge 93,IT,1046
+1047,2520,Werdstrasse 95,FR,1047
+1048,2523,Piazza Riforma 18,IT,1048
+1049,2525,Rue du Château 95,FR,1049
+1050,2532,Bahnhofstrasse 29,IT,1050
+1051,2533,Marktplatz 83,IT,1051
+1052,2534,Via Trevano 16,DE,1052
+1053,2534,Rue de la Croix-Rouge 45,IT,1053
+1054,2535,Piazza Riforma 97,DE,1054
+1055,2536,Bahnhofstrasse 54,DE,1055
+1056,2537,Rue du Château 37,DE,1056
+1057,2538,Place de l'hôtel 27,IT,1057
+1058,2540,Marktplatz 34,DE,1058
+1059,2542,Via Trevano 61,DE,1059
+1060,2543,Zürcherstrasse 30,FR,1060
+1061,2544,Poststrasse 2,FR,1061
+1062,2545,Bahnhofstrasse 43,IT,1062
+1063,2552,Marktplatz 12,FR,1063
+1064,2553,Rue de l'hôpital 57,IT,1064
+1065,2554,Poststrasse 79,DE,1065
+1066,2555,Tellstrasse 59,IT,1066
+1067,2556,Zürcherstrasse 44,DE,1067
+1068,2556,Werdstrasse 89,DE,1068
+1069,2557,Piazza Riforma 48,DE,1069
+1070,2558,Morgartenstrasse 33,DE,1070
+1071,2560,Rue de l'hôpital 7,FR,1071
+1072,2562,Hirschengraben 7,FR,1072
+1073,2563,Poststrasse 90,FR,1073
+1074,2564,Dufourstrasse 76,FR,1074
+1075,2565,Hirschengraben 59,IT,1075
+1076,2572,Usterstrasse 10,FR,1076
+1077,2572,Piazza Riforma 75,IT,1077
+1078,2575,Morgartenstrasse 34,DE,1078
+1079,2575,Marktplatz 20,IT,1079
+1080,2575,Rue de la Croix-Rouge 58,DE,1080
+1081,2576,Tellstrasse 42,DE,1081
+1082,2577,Winkelriedstrasse 99,IT,1082
+1083,2577,Place de l'hôtel 1,FR,1083
+1084,2603,Werdstrasse 62,DE,1084
+1085,2604,Piazza Riforma 40,IT,1085
+1086,2605,Rue du Château 38,DE,1086
+1087,2606,Hirschengraben 43,IT,1087
+1088,2607,Rue du Château 77,FR,1088
+1089,2608,Industriestrasse 94,DE,1089
+1090,2608,Hirschengraben 44,IT,1090
+1091,2610,Rue du Château 23,DE,1091
+1092,2610,Piazza Riforma 94,FR,1092
+1093,2610,Winkelriedstrasse 3,IT,1093
+1094,2610,Rue de la Croix-Rouge 97,DE,1094
+1095,2612,Usterstrasse 91,IT,1095
+1096,2613,Rue du Château 39,DE,1096
+1097,2615,Dufourstrasse 67,IT,1097
+1098,2615,Industriestrasse 69,IT,1098
+1099,2616,Dufourstrasse 61,DE,1099
+1100,2710,Bahnhofstrasse 86,IT,1100
+1101,2712,Rue de la Croix-Rouge 68,FR,1101
+1102,2713,Place de l'hôtel 30,IT,1102
+1103,2714,Morgartenstrasse 59,DE,1103
+1104,2714,Marktplatz 6,DE,1104
+1105,2715,Rue de la Croix-Rouge 21,FR,1105
+1106,2715,Werdstrasse 9,DE,1106
+1107,2716,Dufourstrasse 85,FR,1107
+1108,2717,Usterstrasse 80,DE,1108
+1109,2717,Marktplatz 88,IT,1109
+1110,2718,Rue de la Croix-Rouge 45,DE,1110
+1111,2718,Dufourstrasse 87,IT,1111
+1112,2720,Rue de l'hôpital 47,IT,1112
+1113,2720,Bärenplatz 59,FR,1113
+1114,2722,Zürcherstrasse 14,FR,1114
+1115,2723,Via Trevano 14,IT,1115
+1116,2732,Marktgasse 27,IT,1116
+1117,2732,Zürcherstrasse 87,FR,1117
+1118,2732,Place de l'hôtel 44,FR,1118
+1119,2732,Bahnhofstrasse 48,IT,1119
+1120,2733,Poststrasse 86,FR,1120
+1121,2735,Zürcherstrasse 97,DE,1121
+1122,2735,Marktplatz 19,DE,1122
+1123,2735,Place de l'hôtel 35,DE,1123
+1124,2736,Marktplatz 15,IT,1124
+1125,2738,Winkelriedstrasse 17,IT,1125
+1126,2740,Winkelriedstrasse 11,IT,1126
+1127,2742,Tellstrasse 91,IT,1127
+1128,2743,Rue de l'hôpital 37,IT,1128
+1129,2744,Bahnhofstrasse 36,DE,1129
+1130,2745,Hirschengraben 50,DE,1130
+1131,2746,Marktgasse 29,IT,1131
+1132,2747,Poststrasse 41,FR,1132
+1133,2747,Place de l'hôtel 74,DE,1133
+1134,2748,Industriestrasse 10,DE,1134
+1135,2748,Tellstrasse 44,DE,1135
+1136,2762,Usterstrasse 33,DE,1136
+1137,2800,Via Trevano 37,IT,1137
+1138,2802,Marktgasse 36,FR,1138
+1139,2803,Dufourstrasse 85,DE,1139
+1140,2805,Morgartenstrasse 7,DE,1140
+1141,2806,Marktplatz 32,IT,1141
+1142,2807,Rue du Château 62,IT,1142
+1143,2807,Industriestrasse 23,IT,1143
+1144,2812,Rue de la Croix-Rouge 93,IT,1144
+1145,2813,Poststrasse 80,FR,1145
+1146,2814,Rue du Château 77,DE,1146
+1147,2822,Marktgasse 33,IT,1147
+1148,2823,Piazza Riforma 48,DE,1148
+1149,2824,Place de l'hôtel 63,IT,1149
+1150,2825,Marktplatz 14,IT,1150
+1151,2826,Winkelriedstrasse 60,FR,1151
+1152,2827,Usterstrasse 80,FR,1152
+1153,2827,Winkelriedstrasse 48,IT,1153
+1154,2828,Usterstrasse 58,FR,1154
+1155,2829,Bahnhofstrasse 44,IT,1155
+1156,2830,Via Trevano 52,DE,1156
+1157,2830,Hirschengraben 93,FR,1157
+1158,2832,Werdstrasse 87,DE,1158
+1159,2842,Bahnhofstrasse 11,IT,1159
+1160,2843,Rue du Château 66,IT,1160
+1161,2852,Morgartenstrasse 85,FR,1161
+1162,2853,Winkelriedstrasse 27,IT,1162
+1163,2854,Usterstrasse 22,DE,1163
+1164,2855,Industriestrasse 10,IT,1164
+1165,2856,Dufourstrasse 72,IT,1165
+1166,2857,Rue du Château 45,DE,1166
+1167,2863,Via Trevano 29,IT,1167
+1168,2864,Industriestrasse 72,DE,1168
+1169,2873,Winkelriedstrasse 17,DE,1169
+1170,2877,Werdstrasse 79,IT,1170
+1171,2882,Bärenplatz 66,IT,1171
+1172,2883,Dufourstrasse 68,IT,1172
+1173,2884,Tellstrasse 56,IT,1173
+1174,2885,Piazza Riforma 25,FR,1174
+1175,2886,Via Trevano 24,IT,1175
+1176,2887,Bärenplatz 62,DE,1176
+1177,2888,Werdstrasse 64,DE,1177
+1178,2889,Poststrasse 40,DE,1178
+1179,2900,Bahnhofstrasse 6,DE,1179
+1180,2902,Poststrasse 86,FR,1180
+1181,2903,Zürcherstrasse 43,FR,1181
+1182,2904,Zürcherstrasse 73,IT,1182
+1183,2905,Poststrasse 70,IT,1183
+1184,2906,Industriestrasse 75,IT,1184
+1185,2907,Winkelriedstrasse 37,DE,1185
+1186,2908,Tellstrasse 54,DE,1186
+1187,2912,Werdstrasse 24,DE,1187
+1188,2912,Bärenplatz 5,FR,1188
+1189,2914,Marktgasse 56,IT,1189
+1190,2915,Zürcherstrasse 79,IT,1190
+1191,2916,Via Trevano 34,DE,1191
+1192,2922,Dufourstrasse 98,FR,1192
+1193,2923,Rue de l'hôpital 81,DE,1193
+1194,2924,Hirschengraben 7,IT,1194
+1195,2925,Werdstrasse 64,IT,1195
+1196,2926,Industriestrasse 12,DE,1196
+1197,2932,Dufourstrasse 25,FR,1197
+1198,2933,Bahnhofstrasse 22,DE,1198
+1199,2933,Rue de la Croix-Rouge 22,DE,1199
+1200,2935,Morgartenstrasse 14,DE,1200
+1201,2942,Werdstrasse 77,IT,1201
+1202,2943,Piazza Riforma 77,DE,1202
+1203,2944,Via Trevano 33,IT,1203
+1204,2946,Tellstrasse 69,FR,1204
+1205,2947,Dufourstrasse 13,DE,1205
+1206,2950,Rue du Château 12,FR,1206
+1207,2950,Piazza Riforma 46,IT,1207
+1208,2952,Industriestrasse 41,IT,1208
+1209,2953,Rue de l'hôpital 32,FR,1209
+1210,2953,Poststrasse 66,FR,1210
+1211,2954,Industriestrasse 43,FR,1211
+1212,3000,Usterstrasse 61,FR,1212
+1213,3032,Bahnhofstrasse 38,DE,1213
+1214,3033,Rue de l'hôpital 90,IT,1214
+1215,3034,Marktplatz 64,FR,1215
+1216,3035,Bahnhofstrasse 55,FR,1216
+1217,3036,Industriestrasse 98,FR,1217
+1218,3037,Zürcherstrasse 64,IT,1218
+1219,3038,Industriestrasse 32,FR,1219
+1220,3042,Winkelriedstrasse 57,FR,1220
+1221,3043,Hirschengraben 64,DE,1221
+1222,3044,Rue de la Croix-Rouge 93,DE,1222
+1223,3045,Werdstrasse 100,FR,1223
+1224,3046,Marktplatz 24,FR,1224
+1225,3047,Poststrasse 45,IT,1225
+1226,3048,Place de l'hôtel 23,FR,1226
+1227,3049,Werdstrasse 56,FR,1227
+1228,3052,Place de l'hôtel 86,IT,1228
+1229,3053,Rue de l'hôpital 47,IT,1229
+1230,3053,Winkelriedstrasse 63,IT,1230
+1231,3053,Marktplatz 95,FR,1231
+1232,3053,Place de l'hôtel 20,IT,1232
+1233,3053,Via Trevano 29,DE,1233
+1234,3054,Hirschengraben 74,DE,1234
+1235,3063,Rue du Château 23,DE,1235
+1236,3065,Bärenplatz 41,FR,1236
+1237,3066,Industriestrasse 99,IT,1237
+1238,3067,Marktplatz 25,FR,1238
+1239,3068,Morgartenstrasse 74,FR,1239
+1240,3072,Marktgasse 55,IT,1240
+1241,3073,Rue de la Croix-Rouge 81,IT,1241
+1242,3074,Bahnhofstrasse 60,IT,1242
+1243,3075,Rue du Château 97,DE,1243
+1244,3076,Rue de la Croix-Rouge 48,IT,1244
+1245,3077,Piazza Riforma 69,FR,1245
+1246,3078,Hirschengraben 62,DE,1246
+1247,3082,Rue de l'hôpital 13,DE,1247
+1248,3083,Bahnhofstrasse 60,DE,1248
+1249,3084,Tellstrasse 1,IT,1249
+1250,3086,Rue du Château 11,IT,1250
+1251,3086,Werdstrasse 32,DE,1251
+1252,3087,Marktgasse 52,IT,1252
+1253,3088,Zürcherstrasse 46,DE,1253
+1254,3088,Hirschengraben 80,DE,1254
+1255,3089,Via Trevano 56,IT,1255
+1256,3095,Marktplatz 59,DE,1256
+1257,3096,Rue de l'hôpital 30,IT,1257
+1258,3097,Industriestrasse 43,IT,1258
+1259,3098,Morgartenstrasse 45,FR,1259
+1260,3098,Winkelriedstrasse 44,DE,1260
+1261,3099,Bahnhofstrasse 3,IT,1261
+1262,3110,Rue de l'hôpital 7,DE,1262
+1263,3111,Marktgasse 59,IT,1263
+1264,3112,Industriestrasse 93,IT,1264
+1265,3113,Piazza Riforma 93,IT,1265
+1266,3114,Via Trevano 22,DE,1266
+1267,3115,Werdstrasse 80,IT,1267
+1268,3116,Rue de l'hôpital 46,DE,1268
+1269,3116,Poststrasse 13,DE,1269
+1270,3116,Werdstrasse 13,IT,1270
+1271,3122,Rue de l'hôpital 74,IT,1271
+1272,3123,Marktgasse 29,IT,1272
+1273,3124,Hirschengraben 78,IT,1273
+1274,3125,Piazza Riforma 64,IT,1274
+1275,3126,Poststrasse 3,FR,1275
+1276,3126,Morgartenstrasse 86,FR,1276
+1277,3127,Poststrasse 13,DE,1277
+1278,3127,Via Trevano 44,DE,1278
+1279,3128,Werdstrasse 32,FR,1279
+1280,3128,Marktplatz 55,DE,1280
+1281,3132,Poststrasse 86,FR,1281
+1282,3144,Poststrasse 83,IT,1282
+1283,3145,Place de l'hôtel 82,FR,1283
+1284,3147,Rue du Château 37,IT,1284
+1285,3148,Tellstrasse 40,IT,1285
+1286,3150,Rue de la Croix-Rouge 55,DE,1286
+1287,3152,Rue du Château 33,DE,1287
+1288,3153,Hirschengraben 81,DE,1288
+1289,3154,Bärenplatz 86,DE,1289
+1290,3155,Poststrasse 34,IT,1290
+1291,3156,Rue de la Croix-Rouge 12,DE,1291
+1292,3157,Zürcherstrasse 61,IT,1292
+1293,3158,Rue de l'hôpital 58,FR,1293
+1294,3159,Poststrasse 41,FR,1294
+1295,3172,Morgartenstrasse 41,IT,1295
+1296,3173,Usterstrasse 20,DE,1296
+1297,3174,Marktgasse 28,DE,1297
+1298,3175,Morgartenstrasse 30,FR,1298
+1299,3176,Marktplatz 82,DE,1299
+1300,3177,Morgartenstrasse 32,DE,1300
+1301,3178,Bärenplatz 33,FR,1301
+1302,3179,Rue de la Croix-Rouge 36,IT,1302
+1303,3182,Rue de la Croix-Rouge 41,DE,1303
+1304,3183,Poststrasse 53,DE,1304
+1305,3184,Usterstrasse 26,IT,1305
+1306,3185,Via Trevano 24,IT,1306
+1307,3186,Via Trevano 19,FR,1307
+1308,3202,Via Trevano 43,FR,1308
+1309,3203,Rue de l'hôpital 40,FR,1309
+1310,3204,Hirschengraben 93,DE,1310
+1311,3205,Marktplatz 63,FR,1311
+1312,3206,Rue de la Croix-Rouge 17,FR,1312
+1313,3206,Rue de l'hôpital 29,DE,1313
+1314,3206,Place de l'hôtel 64,DE,1314
+1315,3206,Marktplatz 52,DE,1315
+1316,3206,Marktgasse 74,DE,1316
+1317,3207,Industriestrasse 77,IT,1317
+1318,3207,Industriestrasse 12,IT,1318
+1319,3208,Via Trevano 52,FR,1319
+1320,3210,Piazza Riforma 16,FR,1320
+1321,3212,Piazza Riforma 93,FR,1321
+1322,3212,Rue du Château 74,FR,1322
+1323,3213,Rue de la Croix-Rouge 55,IT,1323
+1324,3213,Morgartenstrasse 8,FR,1324
+1325,3214,Werdstrasse 94,IT,1325
+1326,3215,Place de l'hôtel 4,DE,1326
+1327,3215,Tellstrasse 2,FR,1327
+1328,3215,Piazza Riforma 1,FR,1328
+1329,3216,Morgartenstrasse 63,FR,1329
+1330,3216,Dufourstrasse 12,IT,1330
+1331,3225,Poststrasse 28,IT,1331
+1332,3226,Industriestrasse 100,FR,1332
+1333,3232,Zürcherstrasse 39,FR,1333
+1334,3233,Werdstrasse 76,IT,1334
+1335,3234,Via Trevano 55,FR,1335
+1336,3235,Bahnhofstrasse 72,IT,1336
+1337,3236,Morgartenstrasse 54,IT,1337
+1338,3237,Dufourstrasse 62,FR,1338
+1339,3238,Zürcherstrasse 19,IT,1339
+1340,3250,Marktplatz 48,FR,1340
+1341,3251,Marktgasse 3,FR,1341
+1342,3251,Poststrasse 27,FR,1342
+1343,3252,Via Trevano 62,IT,1343
+1344,3253,Via Trevano 31,IT,1344
+1345,3254,Rue du Château 49,DE,1345
+1346,3254,Morgartenstrasse 93,IT,1346
+1347,3255,Piazza Riforma 40,IT,1347
+1348,3256,Industriestrasse 4,DE,1348
+1349,3256,Werdstrasse 50,IT,1349
+1350,3256,Rue du Château 57,DE,1350
+1351,3257,Morgartenstrasse 42,FR,1351
+1352,3257,Via Trevano 68,DE,1352
+1353,3262,Dufourstrasse 24,FR,1353
+1354,3263,Rue de l'hôpital 71,FR,1354
+1355,3264,Bärenplatz 78,FR,1355
+1356,3266,Tellstrasse 74,IT,1356
+1357,3267,Via Trevano 97,IT,1357
+1358,3268,Usterstrasse 5,IT,1358
+1359,3270,Rue du Château 96,IT,1359
+1360,3271,Bahnhofstrasse 88,DE,1360
+1361,3272,Via Trevano 1,IT,1361
+1362,3272,Werdstrasse 83,IT,1362
+1363,3273,Rue de la Croix-Rouge 90,IT,1363
+1364,3274,Rue de l'hôpital 2,FR,1364
+1365,3274,Morgartenstrasse 59,FR,1365
+1366,3274,Industriestrasse 20,DE,1366
+1367,3280,Poststrasse 86,DE,1367
+1368,3280,Piazza Riforma 65,DE,1368
+1369,3280,Bärenplatz 46,IT,1369
+1370,3282,Marktgasse 60,FR,1370
+1371,3283,Usterstrasse 91,DE,1371
+1372,3283,Piazza Riforma 28,IT,1372
+1373,3284,Hirschengraben 57,FR,1373
+1374,3285,Usterstrasse 97,DE,1374
+1375,3286,Morgartenstrasse 27,IT,1375
+1376,3292,Marktgasse 99,DE,1376
+1377,3293,Poststrasse 22,DE,1377
+1378,3294,Winkelriedstrasse 1,DE,1378
+1379,3294,Industriestrasse 19,IT,1379
+1380,3295,Marktplatz 93,FR,1380
+1381,3296,Zürcherstrasse 84,IT,1381
+1382,3297,Marktgasse 67,FR,1382
+1383,3298,Piazza Riforma 99,IT,1383
+1384,3302,Rue du Château 26,IT,1384
+1385,3303,Industriestrasse 69,IT,1385
+1386,3303,Piazza Riforma 90,DE,1386
+1387,3303,Industriestrasse 36,IT,1387
+1388,3303,Morgartenstrasse 96,DE,1388
+1389,3305,Bahnhofstrasse 3,IT,1389
+1390,3305,Morgartenstrasse 57,FR,1390
+1391,3306,Poststrasse 10,DE,1391
+1392,3307,Rue du Château 72,DE,1392
+1393,3308,Hirschengraben 10,FR,1393
+1394,3309,Werdstrasse 70,FR,1394
+1395,3309,Marktgasse 67,IT,1395
+1396,3312,Rue du Château 15,DE,1396
+1397,3313,Hirschengraben 53,IT,1397
+1398,3314,Marktgasse 83,IT,1398
+1399,3315,Marktplatz 88,FR,1399
+1400,3315,Werdstrasse 61,IT,1400
+1401,3317,Rue de la Croix-Rouge 16,FR,1401
+1402,3317,Poststrasse 22,DE,1402
+1403,3322,Bärenplatz 27,DE,1403
+1404,3322,Usterstrasse 46,IT,1404
+1405,3323,Poststrasse 4,FR,1405
+1406,3324,Winkelriedstrasse 35,DE,1406
+1407,3324,Industriestrasse 20,IT,1407
+1408,3325,Piazza Riforma 6,DE,1408
+1409,3326,Industriestrasse 82,IT,1409
+1410,3360,Piazza Riforma 21,DE,1410
+1411,3362,Bärenplatz 51,DE,1411
+1412,3363,Rue de la Croix-Rouge 53,DE,1412
+1413,3365,Usterstrasse 33,IT,1413
+1414,3365,Rue de l'hôpital 19,DE,1414
+1415,3366,Bahnhofstrasse 3,FR,1415
+1416,3366,Via Trevano 1,FR,1416
+1417,3367,Bärenplatz 5,IT,1417
+1418,3367,Hirschengraben 54,IT,1418
+1419,3368,Werdstrasse 39,DE,1419
+1420,3372,Poststrasse 47,FR,1420
+1421,3373,Hirschengraben 89,FR,1421
+1422,3373,Hirschengraben 16,IT,1422
+1423,3374,Marktplatz 64,DE,1423
+1424,3375,Piazza Riforma 26,IT,1424
+1425,3376,Morgartenstrasse 14,DE,1425
+1426,3376,Dufourstrasse 77,IT,1426
+1427,3377,Dufourstrasse 41,DE,1427
+1428,3380,Winkelriedstrasse 32,DE,1428
+1429,3380,Hirschengraben 1,DE,1429
+1430,3400,Industriestrasse 69,DE,1430
+1431,3412,Bahnhofstrasse 42,FR,1431
+1432,3413,Via Trevano 41,DE,1432
+1433,3414,Hirschengraben 75,DE,1433
+1434,3415,Piazza Riforma 22,DE,1434
+1435,3415,Winkelriedstrasse 69,IT,1435
+1436,3415,Marktgasse 60,DE,1436
+1437,3416,Morgartenstrasse 70,DE,1437
+1438,3417,Rue du Château 33,DE,1438
+1439,3418,Place de l'hôtel 40,IT,1439
+1440,3419,Usterstrasse 98,IT,1440
+1441,3421,Rue de la Croix-Rouge 16,DE,1441
+1442,3421,Poststrasse 94,IT,1442
+1443,3422,Via Trevano 53,FR,1443
+1444,3422,Rue de l'hôpital 36,IT,1444
+1445,3422,Morgartenstrasse 24,FR,1445
+1446,3423,Industriestrasse 23,DE,1446
+1447,3424,Winkelriedstrasse 29,FR,1447
+1448,3424,Winkelriedstrasse 30,IT,1448
+1449,3425,Winkelriedstrasse 100,FR,1449
+1450,3425,Rue de l'hôpital 90,DE,1450
+1451,3426,Poststrasse 76,IT,1451
+1452,3427,Rue de la Croix-Rouge 21,DE,1452
+1453,3428,Winkelriedstrasse 27,FR,1453
+1454,3429,Usterstrasse 24,DE,1454
+1455,3429,Rue de l'hôpital 94,DE,1455
+1456,3432,Piazza Riforma 84,FR,1456
+1457,3433,Place de l'hôtel 20,FR,1457
+1458,3434,Piazza Riforma 18,DE,1458
+1459,3435,Marktplatz 85,IT,1459
+1460,3436,Place de l'hôtel 9,IT,1460
+1461,3437,Via Trevano 98,FR,1461
+1462,3438,Hirschengraben 26,IT,1462
+1463,3439,Place de l'hôtel 33,DE,1463
+1464,3452,Hirschengraben 11,DE,1464
+1465,3453,Rue de la Croix-Rouge 59,IT,1465
+1466,3454,Hirschengraben 67,DE,1466
+1467,3455,Marktplatz 24,FR,1467
+1468,3456,Winkelriedstrasse 50,FR,1468
+1469,3457,Winkelriedstrasse 88,FR,1469
+1470,3462,Bahnhofstrasse 100,FR,1470
+1471,3463,Rue de la Croix-Rouge 10,IT,1471
+1472,3464,Via Trevano 34,DE,1472
+1473,3465,Zürcherstrasse 39,IT,1473
+1474,3472,Rue du Château 42,DE,1474
+1475,3472,Werdstrasse 33,FR,1475
+1476,3473,Werdstrasse 60,DE,1476
+1477,3474,Hirschengraben 76,DE,1477
+1478,3475,Piazza Riforma 33,IT,1478
+1479,3475,Marktgasse 100,DE,1479
+1480,3476,Marktplatz 31,DE,1480
+1481,3503,Rue du Château 39,FR,1481
+1482,3504,Marktplatz 76,DE,1482
+1483,3504,Rue du Château 53,DE,1483
+1484,3506,Usterstrasse 72,FR,1484
+1485,3507,Bärenplatz 50,IT,1485
+1486,3508,Zürcherstrasse 55,FR,1486
+1487,3510,Bahnhofstrasse 9,DE,1487
+1488,3510,Industriestrasse 68,FR,1488
+1489,3510,Usterstrasse 30,DE,1489
+1490,3512,Poststrasse 73,DE,1490
+1491,3513,Rue de l'hôpital 90,DE,1491
+1492,3531,Morgartenstrasse 3,DE,1492
+1493,3532,Werdstrasse 78,IT,1493
+1494,3532,Place de l'hôtel 98,FR,1494
+1495,3533,Morgartenstrasse 21,IT,1495
+1496,3534,Marktplatz 50,IT,1496
+1497,3535,Marktplatz 26,FR,1497
+1498,3536,Rue de la Croix-Rouge 72,IT,1498
+1499,3537,Dufourstrasse 23,IT,1499
+1500,3538,Usterstrasse 60,FR,1500
+1501,3543,Rue de l'hôpital 33,IT,1501
+1502,3550,Tellstrasse 68,IT,1502
+1503,3551,Place de l'hôtel 38,DE,1503
+1504,3552,Marktgasse 37,IT,1504
+1505,3553,Marktplatz 52,DE,1505
+1506,3555,Place de l'hôtel 49,IT,1506
+1507,3556,Place de l'hôtel 44,IT,1507
+1508,3557,Werdstrasse 12,FR,1508
+1509,3600,Poststrasse 96,DE,1509
+1510,3612,Rue de l'hôpital 85,DE,1510
+1511,3614,Hirschengraben 35,FR,1511
+1512,3615,Usterstrasse 100,DE,1512
+1513,3616,Rue de l'hôpital 66,FR,1513
+1514,3617,Rue du Château 83,FR,1514
+1515,3618,Usterstrasse 54,DE,1515
+1516,3619,Dufourstrasse 92,FR,1516
+1517,3619,Place de l'hôtel 36,FR,1517
+1518,3622,Marktplatz 84,FR,1518
+1519,3623,Industriestrasse 8,FR,1519
+1520,3623,Morgartenstrasse 45,FR,1520
+1521,3623,Werdstrasse 96,IT,1521
+1522,3624,Rue du Château 56,DE,1522
+1523,3624,Morgartenstrasse 70,DE,1523
+1524,3625,Bärenplatz 39,FR,1524
+1525,3626,Bahnhofstrasse 90,FR,1525
+1526,3627,Piazza Riforma 63,IT,1526
+1527,3628,Industriestrasse 30,FR,1527
+1528,3628,Rue du Château 23,IT,1528
+1529,3629,Dufourstrasse 69,DE,1529
+1530,3629,Morgartenstrasse 78,FR,1530
+1531,3629,Tellstrasse 22,DE,1531
+1532,3631,Tellstrasse 37,IT,1532
+1533,3632,Tellstrasse 52,IT,1533
+1534,3632,Marktgasse 59,DE,1534
+1535,3633,Rue de la Croix-Rouge 36,FR,1535
+1536,3634,Hirschengraben 100,DE,1536
+1537,3635,Marktplatz 81,DE,1537
+1538,3636,Via Trevano 96,DE,1538
+1539,3636,Place de l'hôtel 93,IT,1539
+1540,3638,Tellstrasse 43,FR,1540
+1541,3638,Industriestrasse 74,FR,1541
+1542,3645,Dufourstrasse 15,IT,1542
+1543,3645,Place de l'hôtel 37,IT,1543
+1544,3646,Morgartenstrasse 62,DE,1544
+1545,3647,Rue de l'hôpital 91,FR,1545
+1546,3652,Zürcherstrasse 68,DE,1546
+1547,3653,Dufourstrasse 12,DE,1547
+1548,3654,Dufourstrasse 52,DE,1548
+1549,3655,Marktplatz 99,IT,1549
+1550,3656,Werdstrasse 95,IT,1550
+1551,3656,Marktplatz 31,IT,1551
+1552,3656,Rue de la Croix-Rouge 33,FR,1552
+1553,3657,Via Trevano 8,DE,1553
+1554,3658,Tellstrasse 40,DE,1554
+1555,3661,Bärenplatz 6,IT,1555
+1556,3662,Zürcherstrasse 55,FR,1556
+1557,3663,Werdstrasse 79,DE,1557
+1558,3664,Via Trevano 7,IT,1558
+1559,3665,Marktplatz 85,FR,1559
+1560,3671,Morgartenstrasse 27,DE,1560
+1561,3671,Rue de la Croix-Rouge 67,FR,1561
+1562,3672,Place de l'hôtel 82,IT,1562
+1563,3672,Hirschengraben 21,FR,1563
+1564,3673,Piazza Riforma 82,IT,1564
+1565,3674,Hirschengraben 64,IT,1565
+1566,3700,Hirschengraben 63,DE,1566
+1567,3702,Tellstrasse 79,DE,1567
+1568,3703,Bärenplatz 69,FR,1568
+1569,3703,Rue du Château 40,IT,1569
+1570,3704,Zürcherstrasse 16,FR,1570
+1571,3705,Rue de l'hôpital 66,IT,1571
+1572,3706,Bärenplatz 25,DE,1572
+1573,3707,Werdstrasse 18,IT,1573
+1574,3711,Tellstrasse 68,FR,1574
+1575,3711,Rue de la Croix-Rouge 70,IT,1575
+1576,3713,Place de l'hôtel 45,DE,1576
+1577,3714,Hirschengraben 7,DE,1577
+1578,3714,Rue de la Croix-Rouge 99,DE,1578
+1579,3715,Rue de la Croix-Rouge 94,IT,1579
+1580,3716,Poststrasse 84,FR,1580
+1581,3717,Zürcherstrasse 28,IT,1581
+1582,3718,Rue de la Croix-Rouge 59,DE,1582
+1583,3722,Usterstrasse 33,IT,1583
+1584,3723,Winkelriedstrasse 34,DE,1584
+1585,3724,Via Trevano 71,IT,1585
+1586,3725,Tellstrasse 10,IT,1586
+1587,3752,Bärenplatz 96,DE,1587
+1588,3753,Poststrasse 20,DE,1588
+1589,3754,Usterstrasse 2,DE,1589
+1590,3755,Tellstrasse 100,DE,1590
+1591,3756,Piazza Riforma 53,DE,1591
+1592,3757,Werdstrasse 44,FR,1592
+1593,3758,Hirschengraben 8,IT,1593
+1594,3762,Marktplatz 35,DE,1594
+1595,3763,Zürcherstrasse 48,FR,1595
+1596,3764,Industriestrasse 80,IT,1596
+1597,3765,Via Trevano 53,IT,1597
+1598,3766,Werdstrasse 29,IT,1598
+1599,3770,Rue de l'hôpital 84,FR,1599
+1600,3771,Bahnhofstrasse 49,DE,1600
+1601,3772,Tellstrasse 67,FR,1601
+1602,3773,Via Trevano 96,FR,1602
+1603,3775,Rue de l'hôpital 35,DE,1603
+1604,3776,Place de l'hôtel 10,FR,1604
+1605,3777,Zürcherstrasse 43,DE,1605
+1606,3778,Rue de l'hôpital 78,FR,1606
+1607,3780,Rue de la Croix-Rouge 16,DE,1607
+1608,3781,Morgartenstrasse 82,FR,1608
+1609,3782,Zürcherstrasse 51,DE,1609
+1610,3783,Rue de la Croix-Rouge 50,DE,1610
+1611,3784,Industriestrasse 29,IT,1611
+1612,3785,Via Trevano 2,FR,1612
+1613,3792,Marktplatz 51,FR,1613
+1614,3800,Morgartenstrasse 76,IT,1614
+1615,3800,Rue de la Croix-Rouge 46,IT,1615
+1616,3800,Dufourstrasse 12,FR,1616
+1617,3800,Piazza Riforma 44,IT,1617
+1618,3801,Via Trevano 29,FR,1618
+1619,3803,Hirschengraben 26,FR,1619
+1620,3804,Bärenplatz 22,DE,1620
+1621,3805,Place de l'hôtel 20,FR,1621
+1622,3806,Via Trevano 52,FR,1622
+1623,3807,Usterstrasse 76,FR,1623
+1624,3812,Tellstrasse 93,IT,1624
+1625,3813,Rue de l'hôpital 23,DE,1625
+1626,3814,Marktplatz 92,FR,1626
+1627,3815,Zürcherstrasse 67,FR,1627
+1628,3815,Industriestrasse 63,FR,1628
+1629,3816,Zürcherstrasse 82,FR,1629
+1630,3816,Dufourstrasse 36,DE,1630
+1631,3818,Rue de l'hôpital 99,IT,1631
+1632,3822,Rue du Château 18,IT,1632
+1633,3822,Marktgasse 57,IT,1633
+1634,3823,Tellstrasse 20,DE,1634
+1635,3823,Rue de l'hôpital 23,FR,1635
+1636,3823,Bahnhofstrasse 78,FR,1636
+1637,3824,Via Trevano 33,IT,1637
+1638,3825,Bahnhofstrasse 71,IT,1638
+1639,3826,Zürcherstrasse 50,FR,1639
+1640,3852,Zürcherstrasse 96,IT,1640
+1641,3853,Hirschengraben 39,FR,1641
+1642,3854,Rue de la Croix-Rouge 75,FR,1642
+1643,3855,Bahnhofstrasse 14,DE,1643
+1644,3855,Poststrasse 75,DE,1644
+1645,3855,Winkelriedstrasse 23,FR,1645
+1646,3856,Tellstrasse 74,DE,1646
+1647,3857,Piazza Riforma 26,FR,1647
+1648,3858,Winkelriedstrasse 50,IT,1648
+1649,3860,Rue de l'hôpital 51,FR,1649
+1650,3860,Marktgasse 88,FR,1650
+1651,3860,Rue du Château 20,FR,1651
+1652,3860,Place de l'hôtel 17,IT,1652
+1653,3862,Place de l'hôtel 2,DE,1653
+1654,3863,Hirschengraben 37,IT,1654
+1655,3864,Tellstrasse 83,DE,1655
+1656,3900,Via Trevano 92,DE,1656
+1657,3900,Werdstrasse 53,FR,1657
+1658,3900,Place de l'hôtel 68,IT,1658
+1659,3901,Bärenplatz 56,FR,1659
+1660,3902,Werdstrasse 27,IT,1660
+1661,3903,Zürcherstrasse 45,DE,1661
+1662,3903,Bahnhofstrasse 52,DE,1662
+1663,3904,Dufourstrasse 65,IT,1663
+1664,3905,Via Trevano 5,FR,1664
+1665,3906,Poststrasse 68,FR,1665
+1666,3907,Rue de l'hôpital 12,IT,1666
+1667,3907,Hirschengraben 51,IT,1667
+1668,3907,Zürcherstrasse 58,IT,1668
+1669,3907,Tellstrasse 97,IT,1669
+1670,3908,Rue du Château 72,IT,1670
+1671,3910,Werdstrasse 85,FR,1671
+1672,3911,Werdstrasse 28,DE,1672
+1673,3912,Winkelriedstrasse 29,DE,1673
+1674,3913,Usterstrasse 81,DE,1674
+1675,3914,Bahnhofstrasse 42,IT,1675
+1676,3914,Place de l'hôtel 39,FR,1676
+1677,3916,Poststrasse 39,DE,1677
+1678,3917,Zürcherstrasse 9,FR,1678
+1679,3917,Dufourstrasse 89,FR,1679
+1680,3918,Winkelriedstrasse 30,IT,1680
+1681,3919,Poststrasse 24,DE,1681
+1682,3920,Bärenplatz 23,FR,1682
+1683,3922,Piazza Riforma 33,IT,1683
+1684,3922,Industriestrasse 8,FR,1684
+1685,3922,Zürcherstrasse 32,DE,1685
+1686,3923,Marktplatz 37,DE,1686
+1687,3924,Usterstrasse 74,IT,1687
+1688,3924,Place de l'hôtel 6,DE,1688
+1689,3925,Morgartenstrasse 36,IT,1689
+1690,3926,Rue du Château 74,DE,1690
+1691,3927,Place de l'hôtel 99,FR,1691
+1692,3928,Rue du Château 58,IT,1692
+1693,3929,Morgartenstrasse 94,FR,1693
+1694,3930,Hirschengraben 96,IT,1694
+1695,3930,Rue de la Croix-Rouge 95,DE,1695
+1696,3931,Bärenplatz 84,DE,1696
+1697,3932,Rue du Château 100,DE,1697
+1698,3933,Tellstrasse 34,DE,1698
+1699,3934,Zürcherstrasse 78,FR,1699
+1700,3935,Place de l'hôtel 90,IT,1700
+1701,3937,Marktgasse 17,IT,1701
+1702,3938,Winkelriedstrasse 96,IT,1702
+1703,3939,Hirschengraben 29,IT,1703
+1704,3940,Rue de la Croix-Rouge 69,IT,1704
+1705,3942,Rue du Château 60,IT,1705
+1706,3942,Hirschengraben 72,DE,1706
+1707,3942,Via Trevano 92,DE,1707
+1708,3943,Poststrasse 92,IT,1708
+1709,3944,Rue de l'hôpital 42,IT,1709
+1710,3945,Hirschengraben 4,DE,1710
+1711,3945,Rue du Château 22,IT,1711
+1712,3946,Poststrasse 47,DE,1712
+1713,3946,Winkelriedstrasse 36,DE,1713
+1714,3947,Rue de la Croix-Rouge 40,FR,1714
+1715,3948,Marktgasse 61,DE,1715
+1716,3948,Marktgasse 22,DE,1716
+1717,3949,Industriestrasse 7,FR,1717
+1718,3951,Dufourstrasse 65,DE,1718
+1719,3952,Winkelriedstrasse 40,FR,1719
+1720,3953,Poststrasse 75,DE,1720
+1721,3953,Via Trevano 24,IT,1721
+1722,3953,Dufourstrasse 87,FR,1722
+1723,3954,Industriestrasse 18,DE,1723
+1724,3955,Werdstrasse 52,FR,1724
+1725,3956,Winkelriedstrasse 22,FR,1725
+1726,3957,Zürcherstrasse 68,IT,1726
+1727,3957,Bärenplatz 79,FR,1727
+1728,3960,Werdstrasse 50,DE,1728
+1729,3960,Hirschengraben 26,IT,1729
+1730,3960,Bahnhofstrasse 33,FR,1730
+1731,3960,Rue de l'hôpital 31,IT,1731
+1732,3960,Bärenplatz 66,DE,1732
+1733,3961,Winkelriedstrasse 92,IT,1733
+1734,3961,Poststrasse 21,FR,1734
+1735,3961,Industriestrasse 50,IT,1735
+1736,3961,Marktplatz 7,IT,1736
+1737,3961,Rue du Château 71,FR,1737
+1738,3961,Via Trevano 36,FR,1738
+1739,3961,Place de l'hôtel 89,IT,1739
+1740,3963,Rue du Château 96,IT,1740
+1741,3963,Dufourstrasse 55,DE,1741
+1742,3963,Marktplatz 31,DE,1742
+1743,3965,Marktplatz 20,FR,1743
+1744,3966,Rue de la Croix-Rouge 2,DE,1744
+1745,3966,Bahnhofstrasse 21,DE,1745
+1746,3967,Tellstrasse 92,IT,1746
+1747,3968,Bärenplatz 55,FR,1747
+1748,3970,Zürcherstrasse 2,FR,1748
+1749,3971,Dufourstrasse 52,DE,1749
+1750,3971,Zürcherstrasse 18,IT,1750
+1751,3971,Dufourstrasse 89,DE,1751
+1752,3972,Bahnhofstrasse 41,FR,1752
+1753,3973,Poststrasse 23,IT,1753
+1754,3974,Via Trevano 56,FR,1754
+1755,3975,Marktgasse 41,DE,1755
+1756,3976,Usterstrasse 16,FR,1756
+1757,3976,Rue du Château 47,FR,1757
+1758,3977,Rue de la Croix-Rouge 66,DE,1758
+1759,3978,Piazza Riforma 14,FR,1759
+1760,3979,Bahnhofstrasse 4,FR,1760
+1761,3982,Rue de la Croix-Rouge 23,DE,1761
+1762,3983,Zürcherstrasse 82,FR,1762
+1763,3983,Rue de la Croix-Rouge 22,IT,1763
+1764,3983,Place de l'hôtel 9,IT,1764
+1765,3983,Rue de la Croix-Rouge 86,FR,1765
+1766,3983,Zürcherstrasse 3,IT,1766
+1767,3984,Dufourstrasse 58,DE,1767
+1768,3984,Poststrasse 92,IT,1768
+1769,3985,Rue du Château 24,DE,1769
+1770,3985,Dufourstrasse 48,FR,1770
+1771,3986,Bärenplatz 50,FR,1771
+1772,3987,Piazza Riforma 74,DE,1772
+1773,3988,Morgartenstrasse 93,IT,1773
+1774,3988,Tellstrasse 49,FR,1774
+1775,3989,Bahnhofstrasse 2,FR,1775
+1776,3989,Marktplatz 29,IT,1776
+1777,3989,Poststrasse 30,IT,1777
+1778,3989,Marktplatz 28,FR,1778
+1779,3989,Rue du Château 17,FR,1779
+1780,3991,Tellstrasse 46,FR,1780
+1781,3992,Usterstrasse 51,IT,1781
+1782,3993,Winkelriedstrasse 88,IT,1782
+1783,3994,Werdstrasse 32,IT,1783
+1784,3994,Hirschengraben 28,IT,1784
+1785,3995,Via Trevano 8,DE,1785
+1786,3995,Tellstrasse 58,DE,1786
+1787,3995,Morgartenstrasse 81,FR,1787
+1788,3995,Zürcherstrasse 97,IT,1788
+1789,3996,Dufourstrasse 10,DE,1789
+1790,3997,Rue de la Croix-Rouge 44,DE,1790
+1791,3998,Marktplatz 77,DE,1791
+1792,3998,Rue de l'hôpital 65,DE,1792
+1793,3999,Bahnhofstrasse 82,IT,1793
+1794,4000,Piazza Riforma 35,FR,1794
+1795,4031,Bärenplatz 65,FR,1795
+1796,4101,Industriestrasse 45,IT,1796
+1797,4102,Dufourstrasse 48,IT,1797
+1798,4103,Tellstrasse 45,FR,1798
+1799,4104,Rue de l'hôpital 90,DE,1799
+1800,4105,Marktplatz 49,FR,1800
+1801,4106,Hirschengraben 66,DE,1801
+1802,4107,Bärenplatz 42,IT,1802
+1803,4108,Winkelriedstrasse 75,DE,1803
+1804,4112,Zürcherstrasse 22,IT,1804
+1805,4112,Poststrasse 10,DE,1805
+1806,4114,Tellstrasse 91,FR,1806
+1807,4115,Werdstrasse 67,IT,1807
+1808,4116,Hirschengraben 77,IT,1808
+1809,4117,Bahnhofstrasse 9,IT,1809
+1810,4118,Zürcherstrasse 9,IT,1810
+1811,4123,Dufourstrasse 56,IT,1811
+1812,4124,Via Trevano 65,DE,1812
+1813,4125,Tellstrasse 58,IT,1813
+1814,4126,Rue de l'hôpital 78,FR,1814
+1815,4127,Industriestrasse 55,DE,1815
+1816,4132,Rue de la Croix-Rouge 31,DE,1816
+1817,4133,Piazza Riforma 65,DE,1817
+1818,4142,Winkelriedstrasse 57,FR,1818
+1819,4143,Place de l'hôtel 50,IT,1819
+1820,4144,Piazza Riforma 53,DE,1820
+1821,4145,Zürcherstrasse 46,DE,1821
+1822,4146,Bahnhofstrasse 62,IT,1822
+1823,4147,Zürcherstrasse 5,IT,1823
+1824,4148,Zürcherstrasse 16,DE,1824
+1825,4153,Hirschengraben 39,IT,1825
+1826,4202,Bärenplatz 16,IT,1826
+1827,4203,Rue de l'hôpital 71,DE,1827
+1828,4204,Industriestrasse 59,IT,1828
+1829,4206,Zürcherstrasse 46,FR,1829
+1830,4207,Place de l'hôtel 20,DE,1830
+1831,4208,Morgartenstrasse 26,IT,1831
+1832,4222,Winkelriedstrasse 6,IT,1832
+1833,4223,Rue du Château 5,DE,1833
+1834,4224,Werdstrasse 87,FR,1834
+1835,4225,Usterstrasse 30,IT,1835
+1836,4226,Rue de la Croix-Rouge 12,DE,1836
+1837,4227,Hirschengraben 33,DE,1837
+1838,4228,Rue de la Croix-Rouge 84,DE,1838
+1839,4229,Rue du Château 98,DE,1839
+1840,4232,Bärenplatz 10,IT,1840
+1841,4233,Via Trevano 100,IT,1841
+1842,4234,Industriestrasse 53,IT,1842
+1843,4242,Werdstrasse 79,DE,1843
+1844,4243,Bahnhofstrasse 67,DE,1844
+1845,4244,Usterstrasse 47,DE,1845
+1846,4245,Place de l'hôtel 41,IT,1846
+1847,4246,Usterstrasse 47,IT,1847
+1848,4247,Tellstrasse 65,IT,1848
+1849,4252,Bärenplatz 17,IT,1849
+1850,4253,Usterstrasse 53,DE,1850
+1851,4254,Winkelriedstrasse 46,FR,1851
+1852,4302,Marktplatz 8,IT,1852
+1853,4303,Werdstrasse 7,DE,1853
+1854,4304,Morgartenstrasse 81,IT,1854
+1855,4305,Marktplatz 6,FR,1855
+1856,4310,Rue de l'hôpital 46,IT,1856
+1857,4312,Tellstrasse 35,FR,1857
+1858,4313,Werdstrasse 96,FR,1858
+1859,4314,Winkelriedstrasse 43,FR,1859
+1860,4315,Piazza Riforma 5,IT,1860
+1861,4316,Marktgasse 45,FR,1861
+1862,4317,Via Trevano 49,IT,1862
+1863,4322,Rue de l'hôpital 61,FR,1863
+1864,4323,Hirschengraben 49,IT,1864
+1865,4324,Zürcherstrasse 14,DE,1865
+1866,4325,Rue de la Croix-Rouge 59,DE,1866
+1867,4332,Piazza Riforma 84,IT,1867
+1868,4333,Werdstrasse 28,DE,1868
+1869,4334,Werdstrasse 78,IT,1869
+1870,4402,Marktgasse 60,DE,1870
+1871,4410,Marktplatz 97,FR,1871
+1872,4411,Marktgasse 69,FR,1872
+1873,4412,Hirschengraben 20,IT,1873
+1874,4413,Bahnhofstrasse 75,FR,1874
+1875,4414,Zürcherstrasse 52,DE,1875
+1876,4415,Zürcherstrasse 6,IT,1876
+1877,4416,Tellstrasse 38,IT,1877
+1878,4417,Werdstrasse 54,FR,1878
+1879,4418,Bärenplatz 37,FR,1879
+1880,4419,Rue de l'hôpital 23,FR,1880
+1881,4421,Via Trevano 37,DE,1881
+1882,4422,Piazza Riforma 13,FR,1882
+1883,4423,Via Trevano 86,FR,1883
+1884,4424,Winkelriedstrasse 11,IT,1884
+1885,4425,Werdstrasse 1,DE,1885
+1886,4426,Tellstrasse 28,FR,1886
+1887,4431,Marktgasse 82,DE,1887
+1888,4432,Werdstrasse 77,FR,1888
+1889,4433,Bärenplatz 12,IT,1889
+1890,4434,Rue de l'hôpital 67,IT,1890
+1891,4435,Dufourstrasse 95,FR,1891
+1892,4436,Hirschengraben 53,DE,1892
+1893,4436,Industriestrasse 97,DE,1893
+1894,4437,Tellstrasse 96,FR,1894
+1895,4438,Via Trevano 67,FR,1895
+1896,4441,Werdstrasse 69,FR,1896
+1897,4442,Usterstrasse 40,FR,1897
+1898,4443,Hirschengraben 95,DE,1898
+1899,4444,Zürcherstrasse 82,DE,1899
+1900,4445,Morgartenstrasse 90,DE,1900
+1901,4446,Zürcherstrasse 59,DE,1901
+1902,4447,Zürcherstrasse 80,DE,1902
+1903,4448,Bahnhofstrasse 68,IT,1903
+1904,4450,Usterstrasse 53,FR,1904
+1905,4451,Marktgasse 48,IT,1905
+1906,4452,Morgartenstrasse 80,DE,1906
+1907,4453,Rue du Château 39,IT,1907
+1908,4455,Rue du Château 76,DE,1908
+1909,4456,Tellstrasse 6,FR,1909
+1910,4457,Tellstrasse 29,DE,1910
+1911,4458,Marktplatz 42,DE,1911
+1912,4460,Piazza Riforma 72,IT,1912
+1913,4461,Rue du Château 60,FR,1913
+1914,4462,Via Trevano 31,FR,1914
+1915,4463,Poststrasse 55,FR,1915
+1916,4464,Bärenplatz 76,DE,1916
+1917,4465,Hirschengraben 44,FR,1917
+1918,4466,Bärenplatz 10,IT,1918
+1919,4467,Winkelriedstrasse 25,DE,1919
+1920,4468,Marktplatz 43,FR,1920
+1921,4469,Bärenplatz 43,DE,1921
+1922,4492,Poststrasse 65,FR,1922
+1923,4493,Poststrasse 29,FR,1923
+1924,4494,Usterstrasse 83,DE,1924
+1925,4495,Place de l'hôtel 47,FR,1925
+1926,4496,Place de l'hôtel 32,FR,1926
+1927,4497,Marktplatz 51,FR,1927
+1928,4500,Piazza Riforma 58,FR,1928
+1929,4512,Piazza Riforma 67,IT,1929
+1930,4513,Rue de l'hôpital 69,IT,1930
+1931,4514,Bahnhofstrasse 29,DE,1931
+1932,4515,Rue de la Croix-Rouge 27,IT,1932
+1933,4515,Zürcherstrasse 18,IT,1933
+1934,4522,Place de l'hôtel 92,IT,1934
+1935,4523,Zürcherstrasse 48,IT,1935
+1936,4524,Marktgasse 20,DE,1936
+1937,4524,Via Trevano 36,IT,1937
+1938,4524,Morgartenstrasse 19,DE,1938
+1939,4525,Hirschengraben 23,IT,1939
+1940,4528,Poststrasse 81,FR,1940
+1941,4532,Rue de l'hôpital 24,FR,1941
+1942,4533,Bahnhofstrasse 38,DE,1942
+1943,4534,Bärenplatz 27,FR,1943
+1944,4535,Winkelriedstrasse 66,IT,1944
+1945,4535,Winkelriedstrasse 35,IT,1945
+1946,4536,Industriestrasse 69,IT,1946
+1947,4537,Poststrasse 93,IT,1947
+1948,4538,Marktgasse 2,DE,1948
+1949,4539,Usterstrasse 77,DE,1949
+1950,4539,Via Trevano 17,IT,1950
+1951,4542,Hirschengraben 16,IT,1951
+1952,4543,Werdstrasse 21,IT,1952
+1953,4552,Piazza Riforma 81,DE,1953
+1954,4553,Marktplatz 76,IT,1954
+1955,4554,Morgartenstrasse 16,FR,1955
+1956,4554,Rue de la Croix-Rouge 16,FR,1956
+1957,4556,Hirschengraben 21,IT,1957
+1958,4556,Morgartenstrasse 14,FR,1958
+1959,4556,Piazza Riforma 93,DE,1959
+1960,4556,Rue de l'hôpital 53,DE,1960
+1961,4557,Industriestrasse 99,FR,1961
+1962,4558,Bahnhofstrasse 10,DE,1962
+1963,4558,Bärenplatz 24,DE,1963
+1964,4558,Industriestrasse 71,IT,1964
+1965,4562,Marktgasse 98,FR,1965
+1966,4563,Bahnhofstrasse 55,IT,1966
+1967,4564,Bärenplatz 77,DE,1967
+1968,4564,Rue du Château 14,DE,1968
+1969,4565,Tellstrasse 24,DE,1969
+1970,4566,Usterstrasse 32,FR,1970
+1971,4566,Poststrasse 89,DE,1971
+1972,4566,Werdstrasse 16,DE,1972
+1973,4571,Place de l'hôtel 30,DE,1973
+1974,4571,Tellstrasse 21,DE,1974
+1975,4573,Werdstrasse 74,FR,1975
+1976,4574,Piazza Riforma 82,IT,1976
+1977,4574,Bahnhofstrasse 10,DE,1977
+1978,4576,Via Trevano 71,DE,1978
+1979,4577,Industriestrasse 44,IT,1979
+1980,4578,Rue de l'hôpital 2,FR,1980
+1981,4579,Usterstrasse 21,FR,1981
+1982,4581,Marktgasse 10,FR,1982
+1983,4582,Rue de l'hôpital 40,IT,1983
+1984,4583,Rue de l'hôpital 65,FR,1984
+1985,4583,Marktgasse 9,IT,1985
+1986,4584,Hirschengraben 97,DE,1986
+1987,4584,Winkelriedstrasse 34,IT,1987
+1988,4585,Via Trevano 1,IT,1988
+1989,4586,Rue de l'hôpital 37,DE,1989
+1990,4587,Marktplatz 37,IT,1990
+1991,4588,Rue de la Croix-Rouge 23,FR,1991
+1992,4588,Bahnhofstrasse 95,FR,1992
+1993,4588,Dufourstrasse 84,IT,1993
+1994,4600,Rue de l'hôpital 45,DE,1994
+1995,4612,Place de l'hôtel 23,IT,1995
+1996,4613,Marktplatz 22,IT,1996
+1997,4614,Bärenplatz 45,DE,1997
+1998,4615,Winkelriedstrasse 21,DE,1998
+1999,4616,Winkelriedstrasse 97,DE,1999
+2000,4617,Industriestrasse 30,DE,2000
+2001,4618,Morgartenstrasse 97,FR,2001
+2002,4622,Via Trevano 27,FR,2002
+2003,4623,Marktgasse 17,IT,2003
+2004,4624,Morgartenstrasse 90,DE,2004
+2005,4625,Morgartenstrasse 16,IT,2005
+2006,4626,Winkelriedstrasse 26,DE,2006
+2007,4628,Industriestrasse 91,DE,2007
+2008,4629,Rue de l'hôpital 17,FR,2008
+2009,4632,Poststrasse 42,DE,2009
+2010,4633,Zürcherstrasse 56,DE,2010
+2011,4634,Rue de l'hôpital 46,FR,2011
+2012,4652,Usterstrasse 29,DE,2012
+2013,4653,Hirschengraben 23,FR,2013
+2014,4654,Via Trevano 32,DE,2014
+2015,4655,Marktplatz 24,DE,2015
+2016,4655,Marktplatz 33,FR,2016
+2017,4656,Hirschengraben 40,IT,2017
+2018,4657,Industriestrasse 98,IT,2018
+2019,4658,Usterstrasse 9,FR,2019
+2020,4663,Rue du Château 41,IT,2020
+2021,4665,Rue du Château 64,IT,2021
+2022,4702,Winkelriedstrasse 24,DE,2022
+2023,4703,Hirschengraben 98,IT,2023
+2024,4704,Industriestrasse 67,DE,2024
+2025,4704,Rue du Château 59,FR,2025
+2026,4710,Industriestrasse 42,IT,2026
+2027,4712,Tellstrasse 88,IT,2027
+2028,4713,Hirschengraben 80,FR,2028
+2029,4714,Werdstrasse 81,FR,2029
+2030,4715,Tellstrasse 88,DE,2030
+2031,4716,Usterstrasse 94,FR,2031
+2032,4716,Zürcherstrasse 71,IT,2032
+2033,4717,Hirschengraben 65,DE,2033
+2034,4718,Usterstrasse 76,IT,2034
+2035,4719,Piazza Riforma 15,DE,2035
+2036,4800,Marktgasse 10,IT,2036
+2037,4802,Winkelriedstrasse 95,DE,2037
+2038,4803,Bahnhofstrasse 91,DE,2038
+2039,4805,Place de l'hôtel 29,DE,2039
+2040,4806,Zürcherstrasse 46,FR,2040
+2041,4812,Piazza Riforma 80,FR,2041
+2042,4813,Werdstrasse 70,FR,2042
+2043,4814,Tellstrasse 13,IT,2043
+2044,4852,Hirschengraben 87,IT,2044
+2045,4853,Morgartenstrasse 51,FR,2045
+2046,4853,Via Trevano 91,IT,2046
+2047,4856,Bahnhofstrasse 73,IT,2047
+2048,4900,Rue du Château 100,DE,2048
+2049,4911,Bärenplatz 72,IT,2049
+2050,4912,Poststrasse 84,FR,2050
+2051,4913,Usterstrasse 12,IT,2051
+2052,4914,Piazza Riforma 86,FR,2052
+2053,4915,Rue de l'hôpital 54,IT,2053
+2054,4916,Tellstrasse 63,IT,2054
+2055,4917,Piazza Riforma 84,DE,2055
+2056,4917,Bahnhofstrasse 69,DE,2056
+2057,4919,Rue de la Croix-Rouge 62,DE,2057
+2058,4922,Dufourstrasse 70,IT,2058
+2059,4922,Zürcherstrasse 33,DE,2059
+2060,4923,Rue de l'hôpital 37,DE,2060
+2061,4924,Dufourstrasse 88,FR,2061
+2062,4932,Poststrasse 61,IT,2062
+2063,4932,Bahnhofstrasse 49,DE,2063
+2064,4933,Rue du Château 67,IT,2064
+2065,4934,Tellstrasse 68,IT,2065
+2066,4935,Rue de l'hôpital 15,FR,2066
+2067,4936,Usterstrasse 75,IT,2067
+2068,4937,Hirschengraben 14,FR,2068
+2069,4938,Hirschengraben 95,FR,2069
+2070,4938,Poststrasse 44,DE,2070
+2071,4942,Industriestrasse 36,FR,2071
+2072,4943,Rue de l'hôpital 93,DE,2072
+2073,4944,Dufourstrasse 99,DE,2073
+2074,4950,Zürcherstrasse 54,FR,2074
+2075,4952,Tellstrasse 71,DE,2075
+2076,4953,Hirschengraben 71,FR,2076
+2077,4954,Place de l'hôtel 16,DE,2077
+2078,4955,Hirschengraben 71,DE,2078
+2079,5000,Dufourstrasse 94,IT,2079
+2080,5012,Werdstrasse 98,FR,2080
+2081,5012,Morgartenstrasse 80,IT,2081
+2082,5012,Via Trevano 46,DE,2082
+2083,5013,Place de l'hôtel 47,DE,2083
+2084,5014,Via Trevano 73,DE,2084
+2085,5015,Winkelriedstrasse 47,FR,2085
+2086,5017,Bahnhofstrasse 22,DE,2086
+2087,5018,Poststrasse 21,IT,2087
+2088,5022,Bärenplatz 34,IT,2088
+2089,5023,Werdstrasse 32,DE,2089
+2090,5024,Usterstrasse 31,IT,2090
+2091,5025,Bärenplatz 4,FR,2091
+2092,5026,Dufourstrasse 79,IT,2092
+2093,5027,Zürcherstrasse 57,FR,2093
+2094,5028,Werdstrasse 14,DE,2094
+2095,5032,Bärenplatz 5,DE,2095
+2096,5033,Usterstrasse 18,IT,2096
+2097,5034,Dufourstrasse 34,FR,2097
+2098,5035,Rue de la Croix-Rouge 72,FR,2098
+2099,5036,Bärenplatz 28,FR,2099
+2100,5037,Dufourstrasse 8,DE,2100
+2101,5040,Werdstrasse 43,IT,2101
+2102,5042,Usterstrasse 53,DE,2102
+2103,5043,Morgartenstrasse 43,FR,2103
+2104,5044,Dufourstrasse 40,IT,2104
+2105,5046,Via Trevano 13,IT,2105
+2106,5046,Morgartenstrasse 76,IT,2106
+2107,5046,Poststrasse 10,FR,2107
+2108,5053,Bärenplatz 31,FR,2108
+2109,5053,Rue de l'hôpital 4,DE,2109
+2110,5054,Poststrasse 45,DE,2110
+2111,5054,Marktgasse 73,IT,2111
+2112,5056,Werdstrasse 91,DE,2112
+2113,5057,Usterstrasse 41,FR,2113
+2114,5058,Rue de l'hôpital 54,IT,2114
+2115,5062,Place de l'hôtel 5,DE,2115
+2116,5063,Marktgasse 67,DE,2116
+2117,5064,Marktplatz 35,IT,2117
+2118,5070,Piazza Riforma 47,FR,2118
+2119,5072,Dufourstrasse 83,IT,2119
+2120,5073,Hirschengraben 70,FR,2120
+2121,5074,Rue de l'hôpital 8,IT,2121
+2122,5075,Tellstrasse 96,IT,2122
+2123,5076,Bärenplatz 18,FR,2123
+2124,5077,Piazza Riforma 11,DE,2124
+2125,5078,Industriestrasse 76,DE,2125
+2126,5079,Industriestrasse 76,DE,2126
+2127,5080,Marktplatz 59,FR,2127
+2128,5082,Werdstrasse 19,DE,2128
+2129,5083,Poststrasse 89,IT,2129
+2130,5084,Werdstrasse 60,FR,2130
+2131,5085,Werdstrasse 36,FR,2131
+2132,5102,Marktplatz 97,DE,2132
+2133,5103,Werdstrasse 59,IT,2133
+2134,5103,Poststrasse 88,FR,2134
+2135,5105,Rue de l'hôpital 92,IT,2135
+2136,5106,Winkelriedstrasse 53,FR,2136
+2137,5107,Piazza Riforma 98,IT,2137
+2138,5108,Hirschengraben 36,DE,2138
+2139,5112,Hirschengraben 78,IT,2139
+2140,5113,Tellstrasse 83,FR,2140
+2141,5116,Rue de la Croix-Rouge 88,IT,2141
+2142,5200,Marktplatz 55,DE,2142
+2143,5210,Marktplatz 1,FR,2143
+2144,5212,Piazza Riforma 91,DE,2144
+2145,5213,Usterstrasse 46,DE,2145
+2146,5222,Piazza Riforma 92,IT,2146
+2147,5223,Rue du Château 69,FR,2147
+2148,5224,Marktplatz 58,FR,2148
+2149,5224,Piazza Riforma 98,FR,2149
+2150,5224,Usterstrasse 27,IT,2150
+2151,5225,Piazza Riforma 100,IT,2151
+2152,5233,Rue du Château 40,DE,2152
+2153,5234,Bärenplatz 65,DE,2153
+2154,5235,Industriestrasse 61,DE,2154
+2155,5236,Hirschengraben 10,FR,2155
+2156,5237,Marktplatz 3,IT,2156
+2157,5242,Rue de la Croix-Rouge 56,DE,2157
+2158,5242,Via Trevano 17,IT,2158
+2159,5243,Werdstrasse 47,IT,2159
+2160,5244,Marktgasse 100,IT,2160
+2161,5245,Bärenplatz 94,IT,2161
+2162,5246,Rue du Château 11,IT,2162
+2163,5272,Werdstrasse 81,IT,2163
+2164,5273,Rue de l'hôpital 87,DE,2164
+2165,5274,Zürcherstrasse 36,FR,2165
+2166,5275,Piazza Riforma 26,IT,2166
+2167,5276,Poststrasse 96,IT,2167
+2168,5277,Rue de la Croix-Rouge 12,DE,2168
+2169,5300,Zürcherstrasse 81,FR,2169
+2170,5301,Piazza Riforma 5,IT,2170
+2171,5303,Werdstrasse 56,DE,2171
+2172,5304,Usterstrasse 7,IT,2172
+2173,5305,Rue de l'hôpital 60,FR,2173
+2174,5306,Werdstrasse 59,IT,2174
+2175,5312,Winkelriedstrasse 94,FR,2175
+2176,5313,Marktgasse 76,FR,2176
+2177,5314,Winkelriedstrasse 56,FR,2177
+2178,5315,Place de l'hôtel 27,IT,2178
+2179,5316,Via Trevano 84,FR,2179
+2180,5316,Dufourstrasse 32,DE,2180
+2181,5317,Industriestrasse 65,FR,2181
+2182,5318,Industriestrasse 75,FR,2182
+2183,5322,Via Trevano 18,FR,2183
+2184,5323,Usterstrasse 38,IT,2184
+2185,5324,Winkelriedstrasse 95,FR,2185
+2186,5325,Dufourstrasse 80,DE,2186
+2187,5326,Hirschengraben 94,DE,2187
+2188,5330,Place de l'hôtel 51,FR,2188
+2189,5332,Bärenplatz 46,DE,2189
+2190,5333,Hirschengraben 57,IT,2190
+2191,5334,Rue du Château 35,DE,2191
+2192,5400,Dufourstrasse 60,FR,2192
+2193,5405,Rue de la Croix-Rouge 60,DE,2193
+2194,5406,Tellstrasse 28,IT,2194
+2195,5408,Rue du Château 71,IT,2195
+2196,5412,Poststrasse 74,IT,2196
+2197,5413,Winkelriedstrasse 63,IT,2197
+2198,5415,Rue de l'hôpital 36,IT,2198
+2199,5415,Piazza Riforma 37,DE,2199
+2200,5415,Werdstrasse 66,DE,2200
+2201,5416,Rue de la Croix-Rouge 65,DE,2201
+2202,5417,Tellstrasse 40,FR,2202
+2203,5420,Poststrasse 95,DE,2203
+2204,5423,Poststrasse 13,FR,2204
+2205,5425,Werdstrasse 82,DE,2205
+2206,5426,Morgartenstrasse 60,IT,2206
+2207,5430,Bärenplatz 65,IT,2207
+2208,5432,Marktgasse 16,DE,2208
+2209,5436,Industriestrasse 55,DE,2209
+2210,5442,Rue du Château 32,FR,2210
+2211,5443,Zürcherstrasse 50,DE,2211
+2212,5444,Rue de la Croix-Rouge 92,FR,2212
+2213,5445,Tellstrasse 58,IT,2213
+2214,5452,Tellstrasse 31,IT,2214
+2215,5453,Rue de l'hôpital 46,IT,2215
+2216,5454,Poststrasse 72,DE,2216
+2217,5462,Zürcherstrasse 7,FR,2217
+2218,5463,Tellstrasse 3,DE,2218
+2219,5464,Via Trevano 36,IT,2219
+2220,5465,Rue du Château 69,DE,2220
+2221,5466,Poststrasse 64,IT,2221
+2222,5467,Marktgasse 66,IT,2222
+2223,5502,Hirschengraben 46,IT,2223
+2224,5503,Rue de la Croix-Rouge 2,FR,2224
+2225,5504,Marktgasse 9,IT,2225
+2226,5505,Rue de l'hôpital 97,IT,2226
+2227,5506,Dufourstrasse 49,FR,2227
+2228,5507,Bärenplatz 53,FR,2228
+2229,5512,Piazza Riforma 85,DE,2229
+2230,5522,Rue du Château 88,IT,2230
+2231,5524,Zürcherstrasse 17,DE,2231
+2232,5524,Tellstrasse 99,FR,2232
+2233,5525,Place de l'hôtel 54,FR,2233
+2234,5600,Usterstrasse 16,DE,2234
+2235,5600,Bahnhofstrasse 76,FR,2235
+2236,5603,Winkelriedstrasse 45,DE,2236
+2237,5604,Winkelriedstrasse 30,IT,2237
+2238,5605,Dufourstrasse 12,FR,2238
+2239,5606,Rue du Château 18,DE,2239
+2240,5607,Poststrasse 63,DE,2240
+2241,5608,Piazza Riforma 10,DE,2241
+2242,5610,Rue de la Croix-Rouge 76,FR,2242
+2243,5611,Zürcherstrasse 56,IT,2243
+2244,5612,Piazza Riforma 47,FR,2244
+2245,5613,Bahnhofstrasse 5,FR,2245
+2246,5614,Zürcherstrasse 80,DE,2246
+2247,5615,Industriestrasse 74,DE,2247
+2248,5616,Rue du Château 82,DE,2248
+2249,5617,Rue du Château 33,FR,2249
+2250,5618,Usterstrasse 47,FR,2250
+2251,5619,Place de l'hôtel 9,FR,2251
+2252,5619,Marktgasse 32,DE,2252
+2253,5620,Piazza Riforma 10,DE,2253
+2254,5621,Marktplatz 5,IT,2254
+2255,5622,Usterstrasse 38,DE,2255
+2256,5623,Rue de l'hôpital 42,DE,2256
+2257,5624,Dufourstrasse 23,DE,2257
+2258,5624,Rue de l'hôpital 7,IT,2258
+2259,5625,Usterstrasse 1,DE,2259
+2260,5626,Place de l'hôtel 83,IT,2260
+2261,5627,Usterstrasse 64,FR,2261
+2262,5628,Industriestrasse 2,DE,2262
+2263,5630,Bärenplatz 66,IT,2263
+2264,5632,Rue de la Croix-Rouge 67,IT,2264
+2265,5634,Hirschengraben 75,FR,2265
+2266,5636,Rue de la Croix-Rouge 2,IT,2266
+2267,5637,Werdstrasse 10,FR,2267
+2268,5637,Place de l'hôtel 62,IT,2268
+2269,5642,Rue de la Croix-Rouge 21,IT,2269
+2270,5643,Tellstrasse 96,IT,2270
+2271,5643,Place de l'hôtel 27,DE,2271
+2272,5643,Poststrasse 55,IT,2272
+2273,5644,Tellstrasse 10,DE,2273
+2274,5645,Industriestrasse 58,DE,2274
+2275,5645,Morgartenstrasse 57,FR,2275
+2276,5646,Via Trevano 40,FR,2276
+2277,5647,Werdstrasse 65,DE,2277
+2278,5702,Marktplatz 71,DE,2278
+2279,5703,Rue de la Croix-Rouge 38,FR,2279
+2280,5704,Place de l'hôtel 88,IT,2280
+2281,5705,Rue du Château 74,FR,2281
+2282,5706,Werdstrasse 57,DE,2282
+2283,5707,Rue de l'hôpital 79,FR,2283
+2284,5708,Marktgasse 61,DE,2284
+2285,5712,Dufourstrasse 26,IT,2285
+2286,5722,Dufourstrasse 96,IT,2286
+2287,5723,Via Trevano 61,FR,2287
+2288,5724,Usterstrasse 50,DE,2288
+2289,5725,Werdstrasse 56,FR,2289
+2290,5726,Place de l'hôtel 15,FR,2290
+2291,5727,Morgartenstrasse 31,IT,2291
+2292,5728,Marktplatz 33,DE,2292
+2293,5732,Bahnhofstrasse 42,DE,2293
+2294,5733,Place de l'hôtel 4,DE,2294
+2295,5734,Usterstrasse 65,DE,2295
+2296,5735,Place de l'hôtel 88,DE,2296
+2297,5736,Marktgasse 20,DE,2297
+2298,5737,Place de l'hôtel 5,IT,2298
+2299,5742,Winkelriedstrasse 70,IT,2299
+2300,5745,Morgartenstrasse 56,DE,2300
+2301,5746,Zürcherstrasse 67,FR,2301
+2302,6000,Piazza Riforma 54,IT,2302
+2303,6005,Industriestrasse 2,IT,2303
+2304,6010,Poststrasse 16,IT,2304
+2305,6010,Marktgasse 15,IT,2305
+2306,6012,Dufourstrasse 87,IT,2306
+2307,6013,Rue de l'hôpital 87,FR,2307
+2308,6016,Morgartenstrasse 36,FR,2308
+2309,6017,Rue du Château 27,IT,2309
+2310,6018,Piazza Riforma 5,FR,2310
+2311,6019,Rue de l'hôpital 99,IT,2311
+2312,6020,Winkelriedstrasse 41,IT,2312
+2313,6022,Usterstrasse 68,IT,2313
+2314,6023,Morgartenstrasse 43,FR,2314
+2315,6024,Hirschengraben 85,DE,2315
+2316,6025,Rue du Château 19,IT,2316
+2317,6026,Rue du Château 22,DE,2317
+2318,6027,Usterstrasse 45,IT,2318
+2319,6028,Hirschengraben 83,FR,2319
+2320,6030,Zürcherstrasse 20,IT,2320
+2321,6032,Piazza Riforma 87,IT,2321
+2322,6033,Rue de la Croix-Rouge 94,IT,2322
+2323,6034,Winkelriedstrasse 76,DE,2323
+2324,6035,Piazza Riforma 8,IT,2324
+2325,6036,Bahnhofstrasse 86,FR,2325
+2326,6037,Bärenplatz 60,FR,2326
+2327,6038,Rue de l'hôpital 27,IT,2327
+2328,6038,Industriestrasse 73,IT,2328
+2329,6039,Poststrasse 40,IT,2329
+2330,6042,Winkelriedstrasse 69,IT,2330
+2331,6043,Dufourstrasse 50,FR,2331
+2332,6044,Morgartenstrasse 52,IT,2332
+2333,6045,Rue de l'hôpital 92,FR,2333
+2334,6047,Rue de l'hôpital 27,DE,2334
+2335,6048,Tellstrasse 59,FR,2335
+2336,6052,Marktgasse 9,IT,2336
+2337,6053,Tellstrasse 26,IT,2337
+2338,6055,Rue de l'hôpital 70,IT,2338
+2339,6056,Winkelriedstrasse 19,FR,2339
+2340,6060,Bärenplatz 60,DE,2340
+2341,6060,Zürcherstrasse 49,IT,2341
+2342,6062,Usterstrasse 69,DE,2342
+2343,6063,Tellstrasse 18,IT,2343
+2344,6064,Hirschengraben 95,FR,2344
+2345,6066,Morgartenstrasse 23,DE,2345
+2346,6067,Marktplatz 72,FR,2346
+2347,6068,Werdstrasse 94,FR,2347
+2348,6072,Bahnhofstrasse 82,FR,2348
+2349,6073,Dufourstrasse 19,DE,2349
+2350,6074,Rue de la Croix-Rouge 79,DE,2350
+2351,6078,Marktgasse 33,FR,2351
+2352,6078,Tellstrasse 64,IT,2352
+2353,6083,Rue de la Croix-Rouge 11,DE,2353
+2354,6084,Piazza Riforma 97,FR,2354
+2355,6085,Industriestrasse 13,FR,2355
+2356,6086,Dufourstrasse 57,FR,2356
+2357,6102,Bahnhofstrasse 47,IT,2357
+2358,6103,Tellstrasse 44,DE,2358
+2359,6105,Usterstrasse 77,DE,2359
+2360,6106,Hirschengraben 88,FR,2360
+2361,6110,Tellstrasse 73,IT,2361
+2362,6110,Via Trevano 52,DE,2362
+2363,6112,Werdstrasse 7,DE,2363
+2364,6113,Rue de l'hôpital 53,FR,2364
+2365,6114,Marktplatz 81,IT,2365
+2366,6122,Industriestrasse 24,DE,2366
+2367,6123,Winkelriedstrasse 15,DE,2367
+2368,6125,Hirschengraben 25,IT,2368
+2369,6126,Piazza Riforma 58,DE,2369
+2370,6130,Usterstrasse 73,FR,2370
+2371,6132,Winkelriedstrasse 83,IT,2371
+2372,6133,Bahnhofstrasse 47,IT,2372
+2373,6142,Piazza Riforma 42,DE,2373
+2374,6143,Rue de l'hôpital 86,DE,2374
+2375,6144,Rue du Château 83,IT,2375
+2376,6145,Werdstrasse 77,DE,2376
+2377,6146,Morgartenstrasse 17,DE,2377
+2378,6147,Tellstrasse 4,FR,2378
+2379,6152,Bahnhofstrasse 75,FR,2379
+2380,6153,Piazza Riforma 91,IT,2380
+2381,6154,Usterstrasse 20,IT,2381
+2382,6156,Zürcherstrasse 85,DE,2382
+2383,6156,Rue du Château 24,IT,2383
+2384,6162,Piazza Riforma 89,IT,2384
+2385,6162,Zürcherstrasse 19,FR,2385
+2386,6162,Marktplatz 56,FR,2386
+2387,6163,Piazza Riforma 72,DE,2387
+2388,6166,Dufourstrasse 14,DE,2388
+2389,6167,Piazza Riforma 51,FR,2389
+2390,6170,Tellstrasse 55,FR,2390
+2391,6173,Zürcherstrasse 58,FR,2391
+2392,6174,Poststrasse 91,FR,2392
+2393,6182,Marktplatz 78,DE,2393
+2394,6192,Morgartenstrasse 61,FR,2394
+2395,6196,Rue du Château 81,DE,2395
+2396,6197,Industriestrasse 20,FR,2396
+2397,6203,Usterstrasse 75,IT,2397
+2398,6204,Marktgasse 65,IT,2398
+2399,6205,Rue de la Croix-Rouge 92,IT,2399
+2400,6206,Marktplatz 95,IT,2400
+2401,6207,Marktplatz 60,IT,2401
+2402,6208,Tellstrasse 6,IT,2402
+2403,6210,Marktplatz 55,DE,2403
+2404,6211,Morgartenstrasse 19,IT,2404
+2405,6212,Dufourstrasse 53,FR,2405
+2406,6212,Poststrasse 23,IT,2406
+2407,6213,Bärenplatz 16,IT,2407
+2408,6214,Bahnhofstrasse 26,FR,2408
+2409,6215,Hirschengraben 30,FR,2409
+2410,6215,Via Trevano 4,DE,2410
+2411,6216,Morgartenstrasse 10,IT,2411
+2412,6217,Winkelriedstrasse 1,DE,2412
+2413,6218,Rue du Château 45,DE,2413
+2414,6221,Werdstrasse 22,FR,2414
+2415,6222,Bahnhofstrasse 24,IT,2415
+2416,6231,Bahnhofstrasse 88,DE,2416
+2417,6232,Piazza Riforma 33,IT,2417
+2418,6233,Werdstrasse 53,IT,2418
+2419,6234,Poststrasse 71,DE,2419
+2420,6234,Winkelriedstrasse 14,IT,2420
+2421,6235,Tellstrasse 44,DE,2421
+2422,6236,Marktgasse 37,DE,2422
+2423,6242,Werdstrasse 16,IT,2423
+2424,6243,Place de l'hôtel 64,IT,2424
+2425,6244,Tellstrasse 65,FR,2425
+2426,6245,Werdstrasse 36,FR,2426
+2427,6246,Bahnhofstrasse 18,IT,2427
+2428,6247,Marktgasse 2,FR,2428
+2429,6248,Tellstrasse 68,DE,2429
+2430,6252,Hirschengraben 93,IT,2430
+2431,6253,Place de l'hôtel 48,DE,2431
+2432,6260,Hirschengraben 33,IT,2432
+2433,6260,Morgartenstrasse 33,FR,2433
+2434,6260,Marktgasse 77,IT,2434
+2435,6260,Werdstrasse 10,DE,2435
+2436,6262,Poststrasse 100,FR,2436
+2437,6263,Via Trevano 25,FR,2437
+2438,6264,Piazza Riforma 69,DE,2438
+2439,6265,Place de l'hôtel 1,IT,2439
+2440,6274,Winkelriedstrasse 51,DE,2440
+2441,6275,Marktgasse 22,FR,2441
+2442,6276,Marktplatz 56,DE,2442
+2443,6277,Rue de la Croix-Rouge 81,FR,2443
+2444,6277,Zürcherstrasse 22,DE,2444
+2445,6280,Poststrasse 42,FR,2445
+2446,6280,Marktgasse 29,DE,2446
+2447,6283,Hirschengraben 57,IT,2447
+2448,6284,Rue de la Croix-Rouge 40,IT,2448
+2449,6284,Via Trevano 65,IT,2449
+2450,6285,Rue du Château 59,DE,2450
+2451,6285,Marktplatz 80,DE,2451
+2452,6286,Industriestrasse 2,FR,2452
+2453,6287,Werdstrasse 57,DE,2453
+2454,6288,Zürcherstrasse 11,FR,2454
+2455,6289,Poststrasse 77,DE,2455
+2456,6289,Tellstrasse 73,FR,2456
+2457,6294,Tellstrasse 50,FR,2457
+2458,6295,Marktgasse 67,IT,2458
+2459,6300,Poststrasse 37,IT,2459
+2460,6300,Marktplatz 37,FR,2460
+2461,6312,Via Trevano 81,FR,2461
+2462,6313,Industriestrasse 17,DE,2462
+2463,6313,Morgartenstrasse 47,FR,2463
+2464,6313,Dufourstrasse 50,FR,2464
+2465,6314,Poststrasse 1,IT,2465
+2466,6314,Marktgasse 92,IT,2466
+2467,6315,Usterstrasse 77,IT,2467
+2468,6315,Usterstrasse 64,DE,2468
+2469,6315,Rue de l'hôpital 78,DE,2469
+2470,6317,Bärenplatz 12,IT,2470
+2471,6318,Tellstrasse 70,IT,2471
+2472,6319,Bahnhofstrasse 95,IT,2472
+2473,6330,Werdstrasse 4,IT,2473
+2474,6331,Place de l'hôtel 48,DE,2474
+2475,6332,Piazza Riforma 29,DE,2475
+2476,6333,Dufourstrasse 40,IT,2476
+2477,6340,Tellstrasse 92,FR,2477
+2478,6340,Usterstrasse 51,IT,2478
+2479,6343,Hirschengraben 84,IT,2479
+2480,6343,Marktgasse 46,IT,2480
+2481,6343,Bahnhofstrasse 85,IT,2481
+2482,6343,Werdstrasse 81,DE,2482
+2483,6344,Hirschengraben 63,DE,2483
+2484,6345,Bärenplatz 2,DE,2484
+2485,6353,Piazza Riforma 65,IT,2485
+2486,6354,Hirschengraben 89,DE,2486
+2487,6356,Hirschengraben 99,IT,2487
+2488,6362,Marktplatz 2,IT,2488
+2489,6363,Tellstrasse 45,IT,2489
+2490,6363,Tellstrasse 47,DE,2490
+2491,6363,Marktplatz 59,IT,2491
+2492,6365,Industriestrasse 2,IT,2492
+2493,6370,Bärenplatz 92,IT,2493
+2494,6370,Rue de la Croix-Rouge 90,FR,2494
+2495,6372,Hirschengraben 60,IT,2495
+2496,6373,Place de l'hôtel 69,IT,2496
+2497,6374,Tellstrasse 75,DE,2497
+2498,6375,Bärenplatz 64,DE,2498
+2499,6376,Bärenplatz 76,IT,2499
+2500,6377,Marktplatz 75,DE,2500
+2501,6382,Rue de la Croix-Rouge 85,IT,2501
+2502,6383,Bahnhofstrasse 63,IT,2502
+2503,6383,Marktgasse 67,IT,2503
+2504,6383,Winkelriedstrasse 92,DE,2504
+2505,6383,Hirschengraben 53,IT,2505
+2506,6386,Usterstrasse 100,DE,2506
+2507,6387,Marktplatz 68,IT,2507
+2508,6388,Place de l'hôtel 44,IT,2508
+2509,6390,Tellstrasse 17,FR,2509
+2510,6402,Winkelriedstrasse 47,DE,2510
+2511,6403,Rue du Château 87,IT,2511
+2512,6404,Marktgasse 57,IT,2512
+2513,6405,Via Trevano 54,FR,2513
+2514,6410,Morgartenstrasse 87,IT,2514
+2515,6410,Rue de l'hôpital 81,DE,2515
+2516,6410,Rue de la Croix-Rouge 99,IT,2516
+2517,6410,Piazza Riforma 24,FR,2517
+2518,6410,Winkelriedstrasse 67,IT,2518
+2519,6414,Rue du Château 34,DE,2519
+2520,6415,Rue de la Croix-Rouge 76,IT,2520
+2521,6416,Marktplatz 83,IT,2521
+2522,6417,Via Trevano 2,DE,2522
+2523,6418,Hirschengraben 85,DE,2523
+2524,6422,Hirschengraben 42,IT,2524
+2525,6423,Industriestrasse 83,DE,2525
+2526,6424,Marktplatz 67,FR,2526
+2527,6430,Rue du Château 94,DE,2527
+2528,6432,Bahnhofstrasse 73,FR,2528
+2529,6433,Winkelriedstrasse 73,DE,2529
+2530,6434,Morgartenstrasse 17,IT,2530
+2531,6436,Zürcherstrasse 63,DE,2531
+2532,6436,Rue de l'hôpital 81,IT,2532
+2533,6436,Via Trevano 55,DE,2533
+2534,6438,Tellstrasse 94,IT,2534
+2535,6440,Werdstrasse 16,DE,2535
+2536,6441,Bahnhofstrasse 68,IT,2536
+2537,6442,Werdstrasse 47,DE,2537
+2538,6443,Dufourstrasse 35,IT,2538
+2539,6452,Poststrasse 45,IT,2539
+2540,6452,Bahnhofstrasse 22,FR,2540
+2541,6454,Dufourstrasse 93,DE,2541
+2542,6460,Rue du Château 54,FR,2542
+2543,6461,Place de l'hôtel 42,DE,2543
+2544,6462,Poststrasse 3,IT,2544
+2545,6463,Industriestrasse 49,IT,2545
+2546,6464,Tellstrasse 54,FR,2546
+2547,6465,Winkelriedstrasse 61,DE,2547
+2548,6466,Usterstrasse 31,DE,2548
+2549,6467,Place de l'hôtel 6,FR,2549
+2550,6468,Zürcherstrasse 11,FR,2550
+2551,6469,Werdstrasse 40,FR,2551
+2552,6472,Marktplatz 98,IT,2552
+2553,6473,Morgartenstrasse 89,FR,2553
+2554,6474,Via Trevano 83,DE,2554
+2555,6475,Werdstrasse 54,DE,2555
+2556,6476,Usterstrasse 28,DE,2556
+2557,6482,Bärenplatz 28,FR,2557
+2558,6484,Piazza Riforma 57,DE,2558
+2559,6485,Marktplatz 86,DE,2559
+2560,6487,Marktgasse 96,FR,2560
+2561,6490,Rue de l'hôpital 68,DE,2561
+2562,6491,Rue de la Croix-Rouge 57,IT,2562
+2563,6493,Winkelriedstrasse 32,IT,2563
+2564,6500,Zürcherstrasse 60,FR,2564
+2565,6512,Rue de l'hôpital 91,FR,2565
+2566,6513,Bahnhofstrasse 7,IT,2566
+2567,6514,Rue de l'hôpital 80,DE,2567
+2568,6515,Hirschengraben 58,IT,2568
+2569,6516,Tellstrasse 15,DE,2569
+2570,6517,Hirschengraben 24,IT,2570
+2571,6518,Poststrasse 17,DE,2571
+2572,6523,Hirschengraben 17,DE,2572
+2573,6524,Usterstrasse 62,FR,2573
+2574,6525,Poststrasse 10,DE,2574
+2575,6526,Rue du Château 80,DE,2575
+2576,6527,Rue du Château 27,IT,2576
+2577,6528,Place de l'hôtel 61,FR,2577
+2578,6532,Rue du Château 60,FR,2578
+2579,6533,Rue de l'hôpital 18,FR,2579
+2580,6534,Marktplatz 37,FR,2580
+2581,6535,Winkelriedstrasse 34,DE,2581
+2582,6537,Via Trevano 46,IT,2582
+2583,6538,Bärenplatz 11,IT,2583
+2584,6540,Marktplatz 7,IT,2584
+2585,6541,Winkelriedstrasse 93,FR,2585
+2586,6542,Werdstrasse 70,FR,2586
+2587,6543,Usterstrasse 52,IT,2587
+2588,6544,Piazza Riforma 93,IT,2588
+2589,6545,Piazza Riforma 66,FR,2589
+2590,6546,Werdstrasse 24,IT,2590
+2591,6547,Tellstrasse 69,FR,2591
+2592,6548,Rue de la Croix-Rouge 22,FR,2592
+2593,6549,Poststrasse 49,DE,2593
+2594,6556,Bahnhofstrasse 80,FR,2594
+2595,6557,Industriestrasse 24,IT,2595
+2596,6558,Poststrasse 37,FR,2596
+2597,6562,Zürcherstrasse 82,IT,2597
+2598,6563,Industriestrasse 53,IT,2598
+2599,6565,Place de l'hôtel 35,FR,2599
+2600,6571,Hirschengraben 43,IT,2600
+2601,6572,Marktgasse 58,FR,2601
+2602,6573,Poststrasse 1,FR,2602
+2603,6574,Bahnhofstrasse 61,DE,2603
+2604,6575,Rue de l'hôpital 25,DE,2604
+2605,6575,Werdstrasse 22,IT,2605
+2606,6576,Bahnhofstrasse 87,IT,2606
+2607,6577,Rue de la Croix-Rouge 98,IT,2607
+2608,6578,Dufourstrasse 7,FR,2608
+2609,6579,Morgartenstrasse 12,IT,2609
+2610,6582,Rue de l'hôpital 99,DE,2610
+2611,6583,Industriestrasse 10,FR,2611
+2612,6584,Bärenplatz 17,DE,2612
+2613,6592,Poststrasse 89,IT,2613
+2614,6593,Rue de l'hôpital 45,DE,2614
+2615,6594,Winkelriedstrasse 37,DE,2615
+2616,6595,Bahnhofstrasse 15,FR,2616
+2617,6596,Rue du Château 51,DE,2617
+2618,6597,Hirschengraben 55,DE,2618
+2619,6598,Hirschengraben 99,IT,2619
+2620,6599,Rue de l'hôpital 65,FR,2620
+2621,6600,Bahnhofstrasse 86,DE,2621
+2622,6600,Via Trevano 69,DE,2622
+2623,6600,Dufourstrasse 81,DE,2623
+2624,6605,Winkelriedstrasse 57,FR,2624
+2625,6611,Piazza Riforma 21,FR,2625
+2626,6611,Bahnhofstrasse 76,DE,2626
+2627,6611,Via Trevano 80,FR,2627
+2628,6612,Marktplatz 18,IT,2628
+2629,6613,Rue du Château 42,IT,2629
+2630,6614,Via Trevano 43,FR,2630
+2631,6614,Tellstrasse 99,FR,2631
+2632,6616,Rue du Château 90,DE,2632
+2633,6618,Place de l'hôtel 23,IT,2633
+2634,6622,Hirschengraben 50,FR,2634
+2635,6631,Usterstrasse 11,DE,2635
+2636,6632,Werdstrasse 93,FR,2636
+2637,6633,Piazza Riforma 77,DE,2637
+2638,6634,Industriestrasse 46,IT,2638
+2639,6635,Place de l'hôtel 76,IT,2639
+2640,6636,Marktplatz 38,IT,2640
+2641,6637,Rue du Château 55,IT,2641
+2642,6644,Piazza Riforma 28,DE,2642
+2643,6645,Dufourstrasse 70,IT,2643
+2644,6646,Via Trevano 24,FR,2644
+2645,6647,Rue de la Croix-Rouge 43,IT,2645
+2646,6648,Place de l'hôtel 93,IT,2646
+2647,6652,Marktgasse 23,DE,2647
+2648,6653,Bahnhofstrasse 91,DE,2648
+2649,6654,Bärenplatz 46,FR,2649
+2650,6655,Dufourstrasse 9,FR,2650
+2651,6655,Bärenplatz 19,DE,2651
+2652,6655,Bahnhofstrasse 37,FR,2652
+2653,6656,Industriestrasse 91,DE,2653
+2654,6657,Bahnhofstrasse 43,DE,2654
+2655,6658,Marktgasse 14,FR,2655
+2656,6659,Morgartenstrasse 99,FR,2656
+2657,6659,Via Trevano 14,FR,2657
+2658,6661,Marktgasse 80,FR,2658
+2659,6661,Poststrasse 41,IT,2659
+2660,6661,Bahnhofstrasse 76,DE,2660
+2661,6662,Bärenplatz 76,DE,2661
+2662,6663,Via Trevano 53,IT,2662
+2663,6663,Morgartenstrasse 97,IT,2663
+2664,6664,Piazza Riforma 29,IT,2664
+2665,6670,Industriestrasse 64,IT,2665
+2666,6672,Piazza Riforma 65,IT,2666
+2667,6673,Werdstrasse 68,IT,2667
+2668,6674,Rue de l'hôpital 31,DE,2668
+2669,6674,Rue de la Croix-Rouge 31,FR,2669
+2670,6675,Rue du Château 45,FR,2670
+2671,6676,Tellstrasse 22,IT,2671
+2672,6677,Marktgasse 46,FR,2672
+2673,6677,Industriestrasse 57,DE,2673
+2674,6678,Winkelriedstrasse 39,DE,2674
+2675,6678,Usterstrasse 73,FR,2675
+2676,6678,Zürcherstrasse 48,FR,2676
+2677,6682,Rue du Château 77,DE,2677
+2678,6683,Dufourstrasse 12,FR,2678
+2679,6683,Dufourstrasse 28,IT,2679
+2680,6684,Zürcherstrasse 96,IT,2680
+2681,6684,Place de l'hôtel 65,FR,2681
+2682,6685,Usterstrasse 48,FR,2682
+2683,6690,Marktgasse 77,DE,2683
+2684,6690,Place de l'hôtel 92,IT,2684
+2685,6692,Marktplatz 15,DE,2685
+2686,6692,Via Trevano 80,IT,2686
+2687,6693,Rue de la Croix-Rouge 40,DE,2687
+2688,6694,Marktplatz 93,IT,2688
+2689,6695,Werdstrasse 39,DE,2689
+2690,6695,Rue de l'hôpital 68,FR,2690
+2691,6696,Bärenplatz 60,DE,2691
+2692,6702,Winkelriedstrasse 86,IT,2692
+2693,6703,Werdstrasse 86,IT,2693
+2694,6705,Tellstrasse 50,DE,2694
+2695,6707,Hirschengraben 20,FR,2695
+2696,6710,Dufourstrasse 55,IT,2696
+2697,6710,Zürcherstrasse 39,DE,2697
+2698,6713,Rue de la Croix-Rouge 78,FR,2698
+2699,6714,Rue de la Croix-Rouge 15,DE,2699
+2700,6715,Bahnhofstrasse 21,FR,2700
+2701,6716,Dufourstrasse 29,IT,2701
+2702,6716,Usterstrasse 43,FR,2702
+2703,6716,Via Trevano 58,DE,2703
+2704,6717,Marktgasse 28,DE,2704
+2705,6717,Usterstrasse 55,DE,2705
+2706,6718,Winkelriedstrasse 28,FR,2706
+2707,6718,Zürcherstrasse 56,FR,2707
+2708,6719,Marktgasse 54,IT,2708
+2709,6720,Hirschengraben 53,IT,2709
+2710,6720,Usterstrasse 40,FR,2710
+2711,6721,Bärenplatz 38,FR,2711
+2712,6721,Usterstrasse 44,FR,2712
+2713,6722,Poststrasse 77,FR,2713
+2714,6723,Bahnhofstrasse 70,IT,2714
+2715,6723,Industriestrasse 2,IT,2715
+2716,6723,Industriestrasse 63,IT,2716
+2717,6724,Rue de la Croix-Rouge 69,IT,2717
+2718,6724,Rue de la Croix-Rouge 83,DE,2718
+2719,6742,Winkelriedstrasse 48,FR,2719
+2720,6743,Rue de la Croix-Rouge 67,IT,2720
+2721,6744,Bahnhofstrasse 98,DE,2721
+2722,6745,Rue du Château 42,IT,2722
+2723,6746,Via Trevano 63,IT,2723
+2724,6746,Zürcherstrasse 11,DE,2724
+2725,6746,Werdstrasse 12,DE,2725
+2726,6747,Rue de la Croix-Rouge 52,IT,2726
+2727,6748,Rue du Château 42,IT,2727
+2728,6749,Rue de l'hôpital 52,IT,2728
+2729,6749,Via Trevano 32,IT,2729
+2730,6760,Hirschengraben 29,DE,2730
+2731,6760,Morgartenstrasse 65,IT,2731
+2732,6760,Morgartenstrasse 100,FR,2732
+2733,6760,Zürcherstrasse 36,FR,2733
+2734,6760,Marktplatz 55,FR,2734
+2735,6760,Rue de l'hôpital 2,IT,2735
+2736,6763,Winkelriedstrasse 44,IT,2736
+2737,6763,Piazza Riforma 77,DE,2737
+2738,6764,Zürcherstrasse 87,IT,2738
+2739,6772,Marktgasse 39,FR,2739
+2740,6773,Dufourstrasse 41,FR,2740
+2741,6774,Morgartenstrasse 95,IT,2741
+2742,6775,Bärenplatz 32,IT,2742
+2743,6776,Hirschengraben 64,IT,2743
+2744,6777,Bärenplatz 27,IT,2744
+2745,6777,Bahnhofstrasse 79,IT,2745
+2746,6780,Industriestrasse 31,FR,2746
+2747,6780,Rue de la Croix-Rouge 27,DE,2747
+2748,6781,Via Trevano 98,FR,2748
+2749,6781,Usterstrasse 65,FR,2749
+2750,6802,Werdstrasse 23,DE,2750
+2751,6803,Usterstrasse 12,FR,2751
+2752,6804,Industriestrasse 70,FR,2752
+2753,6805,Hirschengraben 32,IT,2753
+2754,6806,Rue de la Croix-Rouge 39,DE,2754
+2755,6807,Marktgasse 77,FR,2755
+2756,6808,Tellstrasse 19,IT,2756
+2757,6809,Rue de la Croix-Rouge 26,FR,2757
+2758,6810,Bahnhofstrasse 53,IT,2758
+2759,6814,Marktplatz 89,FR,2759
+2760,6814,Marktplatz 40,DE,2760
+2761,6815,Piazza Riforma 78,FR,2761
+2762,6816,Rue de la Croix-Rouge 44,DE,2762
+2763,6817,Rue de l'hôpital 80,IT,2763
+2764,6818,Marktplatz 68,FR,2764
+2765,6821,Winkelriedstrasse 50,FR,2765
+2766,6822,Zürcherstrasse 52,DE,2766
+2767,6823,Werdstrasse 51,DE,2767
+2768,6825,Rue de l'hôpital 1,FR,2768
+2769,6826,Rue de l'hôpital 91,IT,2769
+2770,6827,Hirschengraben 91,DE,2770
+2771,6828,Rue de la Croix-Rouge 53,DE,2771
+2772,6830,Piazza Riforma 90,FR,2772
+2773,6832,Usterstrasse 26,DE,2773
+2774,6832,Via Trevano 54,FR,2774
+2775,6833,Dufourstrasse 96,IT,2775
+2776,6834,Usterstrasse 60,FR,2776
+2777,6835,Bahnhofstrasse 91,DE,2777
+2778,6837,Bahnhofstrasse 58,IT,2778
+2779,6837,Bahnhofstrasse 53,IT,2779
+2780,6838,Tellstrasse 40,FR,2780
+2781,6838,Poststrasse 96,FR,2781
+2782,6838,Marktplatz 97,IT,2782
+2783,6839,Place de l'hôtel 98,IT,2783
+2784,6850,Rue de la Croix-Rouge 91,DE,2784
+2785,6852,Piazza Riforma 78,FR,2785
+2786,6853,Via Trevano 74,FR,2786
+2787,6854,Zürcherstrasse 63,DE,2787
+2788,6855,Piazza Riforma 89,DE,2788
+2789,6862,Piazza Riforma 42,DE,2789
+2790,6863,Marktgasse 8,DE,2790
+2791,6864,Usterstrasse 4,FR,2791
+2792,6865,Bahnhofstrasse 7,DE,2792
+2793,6866,Marktgasse 34,IT,2793
+2794,6867,Bahnhofstrasse 12,FR,2794
+2795,6872,Hirschengraben 1,FR,2795
+2796,6872,Dufourstrasse 73,IT,2796
+2797,6873,Hirschengraben 69,IT,2797
+2798,6874,Piazza Riforma 71,FR,2798
+2799,6875,Bärenplatz 25,FR,2799
+2800,6875,Zürcherstrasse 4,FR,2800
+2801,6877,Morgartenstrasse 38,DE,2801
+2802,6883,Winkelriedstrasse 97,FR,2802
+2803,6900,Morgartenstrasse 99,DE,2803
+2804,6900,Tellstrasse 58,DE,2804
+2805,6900,Werdstrasse 9,FR,2805
+2806,6911,Dufourstrasse 94,DE,2806
+2807,6912,Industriestrasse 92,DE,2807
+2808,6913,Winkelriedstrasse 84,IT,2808
+2809,6914,Rue de la Croix-Rouge 12,DE,2809
+2810,6915,Werdstrasse 84,IT,2810
+2811,6916,Werdstrasse 52,IT,2811
+2812,6917,Morgartenstrasse 5,IT,2812
+2813,6918,Piazza Riforma 59,IT,2813
+2814,6919,Bahnhofstrasse 58,FR,2814
+2815,6921,Marktgasse 22,FR,2815
+2816,6922,Place de l'hôtel 93,FR,2816
+2817,6924,Bärenplatz 22,IT,2817
+2818,6925,Poststrasse 93,DE,2818
+2819,6926,Rue de l'hôpital 55,DE,2819
+2820,6927,Usterstrasse 92,DE,2820
+2821,6928,Marktplatz 6,FR,2821
+2822,6929,Dufourstrasse 32,IT,2822
+2823,6930,Winkelriedstrasse 63,FR,2823
+2824,6932,Industriestrasse 74,DE,2824
+2825,6933,Via Trevano 82,IT,2825
+2826,6934,Dufourstrasse 25,FR,2826
+2827,6935,Rue de l'hôpital 62,FR,2827
+2828,6936,Dufourstrasse 82,DE,2828
+2829,6937,Rue de l'hôpital 74,IT,2829
+2830,6938,Piazza Riforma 62,IT,2830
+2831,6938,Usterstrasse 56,FR,2831
+2832,6939,Bärenplatz 76,FR,2832
+2833,6939,Bärenplatz 21,FR,2833
+2834,6942,Tellstrasse 21,DE,2834
+2835,6943,Poststrasse 16,FR,2835
+2836,6944,Werdstrasse 66,FR,2836
+2837,6945,Dufourstrasse 33,FR,2837
+2838,6946,Piazza Riforma 59,DE,2838
+2839,6947,Piazza Riforma 7,IT,2839
+2840,6948,Rue de l'hôpital 74,IT,2840
+2841,6949,Marktgasse 50,FR,2841
+2842,6950,Winkelriedstrasse 41,FR,2842
+2843,6951,Marktplatz 79,IT,2843
+2844,6951,Bahnhofstrasse 20,DE,2844
+2845,6951,Zürcherstrasse 55,DE,2845
+2846,6951,Usterstrasse 83,DE,2846
+2847,6951,Hirschengraben 36,DE,2847
+2848,6951,Industriestrasse 27,FR,2848
+2849,6951,Marktgasse 86,DE,2849
+2850,6952,Tellstrasse 7,FR,2850
+2851,6953,Hirschengraben 84,IT,2851
+2852,6954,Via Trevano 53,FR,2852
+2853,6954,Winkelriedstrasse 38,IT,2853
+2854,6955,Morgartenstrasse 78,IT,2854
+2855,6955,Zürcherstrasse 89,IT,2855
+2856,6956,Bahnhofstrasse 51,FR,2856
+2857,6957,Rue de l'hôpital 74,IT,2857
+2858,6958,Industriestrasse 62,FR,2858
+2859,6958,Dufourstrasse 32,DE,2859
+2860,6959,Poststrasse 18,DE,2860
+2861,6959,Piazza Riforma 57,DE,2861
+2862,6959,Werdstrasse 50,DE,2862
+2863,6959,Marktgasse 79,FR,2863
+2864,6959,Marktplatz 4,IT,2864
+2865,6962,Marktgasse 26,FR,2865
+2866,6963,Rue de la Croix-Rouge 27,DE,2866
+2867,6963,Via Trevano 89,FR,2867
+2868,6964,Hirschengraben 72,IT,2868
+2869,6965,Rue de la Croix-Rouge 17,DE,2869
+2870,6966,Marktgasse 77,FR,2870
+2871,6967,Rue de l'hôpital 48,IT,2871
+2872,6968,Hirschengraben 90,IT,2872
+2873,6974,Industriestrasse 68,IT,2873
+2874,6976,Place de l'hôtel 18,IT,2874
+2875,6977,Rue du Château 19,DE,2875
+2876,6978,Piazza Riforma 62,DE,2876
+2877,6979,Poststrasse 68,FR,2877
+2878,6980,Tellstrasse 85,DE,2878
+2879,6981,Rue de l'hôpital 11,FR,2879
+2880,6981,Place de l'hôtel 57,DE,2880
+2881,6981,Werdstrasse 4,DE,2881
+2882,6981,Dufourstrasse 73,DE,2882
+2883,6982,Rue de la Croix-Rouge 20,IT,2883
+2884,6983,Zürcherstrasse 10,DE,2884
+2885,6984,Werdstrasse 8,DE,2885
+2886,6986,Rue de l'hôpital 60,DE,2886
+2887,6986,Rue de la Croix-Rouge 45,IT,2887
+2888,6986,Via Trevano 19,IT,2888
+2889,6987,Piazza Riforma 78,IT,2889
+2890,6988,Industriestrasse 82,DE,2890
+2891,6989,Bärenplatz 49,DE,2891
+2892,6990,Dufourstrasse 75,IT,2892
+2893,6991,Tellstrasse 72,DE,2893
+2894,6992,Dufourstrasse 62,DE,2894
+2895,6992,Usterstrasse 33,FR,2895
+2896,6993,Tellstrasse 96,IT,2896
+2897,6994,Piazza Riforma 62,FR,2897
+2898,6995,Rue du Château 22,IT,2898
+2899,6995,Winkelriedstrasse 34,IT,2899
+2900,6996,Hirschengraben 28,DE,2900
+2901,6997,Tellstrasse 93,FR,2901
+2902,6998,Bahnhofstrasse 78,DE,2902
+2903,6999,Dufourstrasse 69,FR,2903
+2904,7000,Werdstrasse 33,FR,2904
+2905,7012,Dufourstrasse 76,FR,2905
+2906,7013,Via Trevano 49,FR,2906
+2907,7014,Morgartenstrasse 39,FR,2907
+2908,7015,Industriestrasse 95,IT,2908
+2909,7016,Rue de l'hôpital 56,IT,2909
+2910,7017,Hirschengraben 38,DE,2910
+2911,7018,Dufourstrasse 5,IT,2911
+2912,7019,Industriestrasse 49,FR,2912
+2913,7023,Werdstrasse 73,IT,2913
+2914,7026,Poststrasse 26,FR,2914
+2915,7027,Marktgasse 61,FR,2915
+2916,7027,Industriestrasse 45,FR,2916
+2917,7027,Zürcherstrasse 97,DE,2917
+2918,7028,Zürcherstrasse 79,IT,2918
+2919,7028,Rue de l'hôpital 81,DE,2919
+2920,7029,Marktgasse 14,IT,2920
+2921,7031,Hirschengraben 80,DE,2921
+2922,7032,Rue de l'hôpital 30,FR,2922
+2923,7050,Werdstrasse 75,DE,2923
+2924,7056,Place de l'hôtel 3,IT,2924
+2925,7057,Bärenplatz 29,IT,2925
+2926,7058,Winkelriedstrasse 85,DE,2926
+2927,7062,Rue de l'hôpital 97,IT,2927
+2928,7063,Via Trevano 14,FR,2928
+2929,7064,Hirschengraben 63,DE,2929
+2930,7074,Werdstrasse 96,DE,2930
+2931,7075,Industriestrasse 17,IT,2931
+2932,7076,Marktgasse 56,DE,2932
+2933,7077,Rue de la Croix-Rouge 63,FR,2933
+2934,7078,Morgartenstrasse 10,DE,2934
+2935,7082,Via Trevano 43,FR,2935
+2936,7083,Morgartenstrasse 58,DE,2936
+2937,7084,Bärenplatz 99,DE,2937
+2938,7104,Hirschengraben 39,FR,2938
+2939,7104,Via Trevano 20,DE,2939
+2940,7106,Poststrasse 86,IT,2940
+2941,7107,Hirschengraben 6,DE,2941
+2942,7109,Rue de l'hôpital 38,DE,2942
+2943,7110,Poststrasse 14,IT,2943
+2944,7111,Bahnhofstrasse 89,IT,2944
+2945,7112,Rue de la Croix-Rouge 23,FR,2945
+2946,7113,Rue du Château 83,DE,2946
+2947,7114,Hirschengraben 85,DE,2947
+2948,7115,Usterstrasse 43,IT,2948
+2949,7116,Place de l'hôtel 57,FR,2949
+2950,7116,Poststrasse 17,IT,2950
+2951,7122,Bärenplatz 29,IT,2951
+2952,7122,Marktgasse 67,FR,2952
+2953,7126,Marktgasse 61,FR,2953
+2954,7127,Marktgasse 34,IT,2954
+2955,7128,Poststrasse 92,DE,2955
+2956,7130,Marktgasse 88,FR,2956
+2957,7130,Rue de la Croix-Rouge 12,IT,2957
+2958,7132,Dufourstrasse 45,DE,2958
+2959,7133,Poststrasse 1,IT,2959
+2960,7134,Werdstrasse 67,FR,2960
+2961,7135,Industriestrasse 51,DE,2961
+2962,7136,Rue de la Croix-Rouge 2,FR,2962
+2963,7137,Zürcherstrasse 45,DE,2963
+2964,7138,Tellstrasse 86,IT,2964
+2965,7141,Werdstrasse 95,IT,2965
+2966,7142,Winkelriedstrasse 99,FR,2966
+2967,7143,Werdstrasse 85,FR,2967
+2968,7144,Dufourstrasse 91,IT,2968
+2969,7145,Rue du Château 34,DE,2969
+2970,7146,Rue de l'hôpital 69,DE,2970
+2971,7147,Marktgasse 27,FR,2971
+2972,7148,Usterstrasse 99,IT,2972
+2973,7148,Poststrasse 3,DE,2973
+2974,7149,Marktplatz 17,DE,2974
+2975,7151,Hirschengraben 10,IT,2975
+2976,7152,Hirschengraben 42,FR,2976
+2977,7153,Winkelriedstrasse 72,IT,2977
+2978,7154,Rue du Château 48,DE,2978
+2979,7155,Dufourstrasse 56,DE,2979
+2980,7156,Poststrasse 4,DE,2980
+2981,7156,Hirschengraben 99,DE,2981
+2982,7157,Zürcherstrasse 31,IT,2982
+2983,7158,Rue de l'hôpital 94,FR,2983
+2984,7159,Winkelriedstrasse 65,IT,2984
+2985,7162,Via Trevano 7,IT,2985
+2986,7163,Poststrasse 93,IT,2986
+2987,7164,Industriestrasse 17,IT,2987
+2988,7165,Hirschengraben 39,DE,2988
+2989,7166,Bahnhofstrasse 20,IT,2989
+2990,7167,Morgartenstrasse 64,FR,2990
+2991,7168,Zürcherstrasse 55,FR,2991
+2992,7172,Winkelriedstrasse 48,IT,2992
+2993,7173,Marktgasse 11,DE,2993
+2994,7174,Poststrasse 1,DE,2994
+2995,7175,Morgartenstrasse 4,IT,2995
+2996,7176,Rue de la Croix-Rouge 85,DE,2996
+2997,7180,Poststrasse 10,DE,2997
+2998,7182,Hirschengraben 74,IT,2998
+2999,7183,Usterstrasse 79,FR,2999
+3000,7184,Via Trevano 20,DE,3000
+3001,7185,Via Trevano 62,DE,3001
+3002,7186,Bärenplatz 72,FR,3002
+3003,7187,Winkelriedstrasse 25,DE,3003
+3004,7188,Zürcherstrasse 32,IT,3004
+3005,7189,Morgartenstrasse 32,FR,3005
+3006,7201,Rue de l'hôpital 75,IT,3006
+3007,7202,Rue de la Croix-Rouge 11,DE,3007
+3008,7203,Morgartenstrasse 99,DE,3008
+3009,7204,Place de l'hôtel 33,FR,3009
+3010,7205,Marktgasse 86,DE,3010
+3011,7206,Morgartenstrasse 53,DE,3011
+3012,7208,Hirschengraben 47,IT,3012
+3013,7212,Marktgasse 27,FR,3013
+3014,7213,Dufourstrasse 92,IT,3014
+3015,7214,Hirschengraben 81,DE,3015
+3016,7214,Place de l'hôtel 7,IT,3016
+3017,7214,Marktgasse 35,IT,3017
+3018,7215,Zürcherstrasse 42,FR,3018
+3019,7220,Hirschengraben 87,DE,3019
+3020,7222,Poststrasse 2,DE,3020
+3021,7223,Place de l'hôtel 20,DE,3021
+3022,7224,Morgartenstrasse 98,IT,3022
+3023,7226,Place de l'hôtel 72,IT,3023
+3024,7226,Marktplatz 4,IT,3024
+3025,7228,Zürcherstrasse 20,IT,3025
+3026,7228,Dufourstrasse 87,DE,3026
+3027,7231,Zürcherstrasse 97,FR,3027
+3028,7232,Bahnhofstrasse 35,FR,3028
+3029,7233,Dufourstrasse 100,DE,3029
+3030,7235,Via Trevano 83,FR,3030
+3031,7240,Rue de la Croix-Rouge 15,DE,3031
+3032,7241,Place de l'hôtel 37,IT,3032
+3033,7242,Piazza Riforma 65,FR,3033
+3034,7243,Werdstrasse 15,DE,3034
+3035,7244,Dufourstrasse 2,FR,3035
+3036,7245,Piazza Riforma 23,IT,3036
+3037,7246,Piazza Riforma 13,FR,3037
+3038,7247,Hirschengraben 76,IT,3038
+3039,7249,Tellstrasse 65,DE,3039
+3040,7250,Rue de la Croix-Rouge 47,FR,3040
+3041,7252,Industriestrasse 93,IT,3041
+3042,7260,Tellstrasse 53,FR,3042
+3043,7265,Poststrasse 23,IT,3043
+3044,7270,Industriestrasse 84,IT,3044
+3045,7272,Poststrasse 67,DE,3045
+3046,7276,Zürcherstrasse 41,FR,3046
+3047,7277,Industriestrasse 77,DE,3047
+3048,7278,Marktgasse 41,FR,3048
+3049,7302,Poststrasse 96,FR,3049
+3050,7303,Usterstrasse 27,FR,3050
+3051,7304,Tellstrasse 10,IT,3051
+3052,7306,Winkelriedstrasse 76,FR,3052
+3053,7307,Winkelriedstrasse 10,DE,3053
+3054,7310,Industriestrasse 85,DE,3054
+3055,7312,Bärenplatz 24,FR,3055
+3056,7313,Zürcherstrasse 65,FR,3056
+3057,7314,Rue de la Croix-Rouge 42,IT,3057
+3058,7315,Poststrasse 7,FR,3058
+3059,7317,Zürcherstrasse 91,FR,3059
+3060,7317,Winkelriedstrasse 38,IT,3060
+3061,7320,Werdstrasse 82,DE,3061
+3062,7323,Tellstrasse 16,FR,3062
+3063,7324,Rue de la Croix-Rouge 33,FR,3063
+3064,7325,Marktgasse 99,DE,3064
+3065,7326,Piazza Riforma 96,FR,3065
+3066,7402,Piazza Riforma 80,FR,3066
+3067,7403,Tellstrasse 54,FR,3067
+3068,7404,Dufourstrasse 58,IT,3068
+3069,7405,Marktplatz 71,IT,3069
+3070,7407,Werdstrasse 3,FR,3070
+3071,7408,Zürcherstrasse 50,DE,3071
+3072,7408,Dufourstrasse 57,FR,3072
+3073,7411,Poststrasse 82,FR,3073
+3074,7412,Rue de l'hôpital 74,FR,3074
+3075,7413,Marktgasse 23,DE,3075
+3076,7414,Rue de l'hôpital 31,IT,3076
+3077,7415,Via Trevano 26,DE,3077
+3078,7415,Industriestrasse 55,FR,3078
+3079,7416,Marktplatz 63,IT,3079
+3080,7417,Rue de l'hôpital 67,DE,3080
+3081,7418,Marktgasse 33,FR,3081
+3082,7419,Marktplatz 12,FR,3082
+3083,7421,Rue de la Croix-Rouge 45,DE,3083
+3084,7422,Dufourstrasse 4,FR,3084
+3085,7423,Piazza Riforma 26,IT,3085
+3086,7423,Morgartenstrasse 32,DE,3086
+3087,7424,Dufourstrasse 62,DE,3087
+3088,7424,Usterstrasse 66,FR,3088
+3089,7425,Via Trevano 96,IT,3089
+3090,7426,Werdstrasse 37,DE,3090
+3091,7427,Tellstrasse 100,FR,3091
+3092,7428,Place de l'hôtel 76,IT,3092
+3093,7428,Rue du Château 12,DE,3093
+3094,7430,Werdstrasse 96,DE,3094
+3095,7430,Poststrasse 100,DE,3095
+3096,7431,Rue de la Croix-Rouge 28,IT,3096
+3097,7431,Via Trevano 55,DE,3097
+3098,7432,Hirschengraben 70,DE,3098
+3099,7433,Dufourstrasse 6,IT,3099
+3100,7433,Place de l'hôtel 68,FR,3100
+3101,7433,Werdstrasse 21,IT,3101
+3102,7433,Place de l'hôtel 74,FR,3102
+3103,7433,Dufourstrasse 34,IT,3103
+3104,7434,Werdstrasse 86,DE,3104
+3105,7435,Poststrasse 21,FR,3105
+3106,7436,Marktplatz 75,FR,3106
+3107,7437,Place de l'hôtel 70,DE,3107
+3108,7438,Poststrasse 56,IT,3108
+3109,7440,Zürcherstrasse 79,DE,3109
+3110,7442,Morgartenstrasse 39,IT,3110
+3111,7443,Morgartenstrasse 59,FR,3111
+3112,7444,Winkelriedstrasse 92,IT,3112
+3113,7445,Tellstrasse 6,FR,3113
+3114,7446,Rue de la Croix-Rouge 66,FR,3114
+3115,7447,Marktgasse 93,FR,3115
+3116,7447,Morgartenstrasse 90,DE,3116
+3117,7448,Rue de l'hôpital 100,IT,3117
+3118,7450,Rue de l'hôpital 20,IT,3118
+3119,7451,Zürcherstrasse 98,FR,3119
+3120,7452,Tellstrasse 87,DE,3120
+3121,7453,Industriestrasse 52,FR,3121
+3122,7454,Hirschengraben 58,FR,3122
+3123,7455,Rue du Château 57,FR,3123
+3124,7456,Marktplatz 68,DE,3124
+3125,7456,Via Trevano 19,IT,3125
+3126,7457,Tellstrasse 13,DE,3126
+3127,7458,Industriestrasse 22,DE,3127
+3128,7459,Bärenplatz 43,DE,3128
+3129,7460,Marktgasse 83,DE,3129
+3130,7462,Marktplatz 94,FR,3130
+3131,7463,Bahnhofstrasse 83,DE,3131
+3132,7464,Hirschengraben 32,IT,3132
+3133,7472,Rue de l'hôpital 97,IT,3133
+3134,7473,Winkelriedstrasse 70,DE,3134
+3135,7477,Rue de la Croix-Rouge 29,DE,3135
+3136,7482,Rue du Château 46,FR,3136
+3137,7482,Piazza Riforma 28,FR,3137
+3138,7482,Rue de l'hôpital 51,IT,3138
+3139,7484,Rue du Château 44,DE,3139
+3140,7492,Morgartenstrasse 4,DE,3140
+3141,7493,Via Trevano 19,IT,3141
+3142,7494,Werdstrasse 98,IT,3142
+3143,7500,Via Trevano 35,IT,3143
+3144,7502,Rue de la Croix-Rouge 56,FR,3144
+3145,7503,Bärenplatz 10,FR,3145
+3146,7504,Marktgasse 16,FR,3146
+3147,7505,Bärenplatz 78,DE,3147
+3148,7512,Hirschengraben 78,DE,3148
+3149,7513,Usterstrasse 33,FR,3149
+3150,7513,Tellstrasse 82,IT,3150
+3151,7514,Hirschengraben 36,FR,3151
+3152,7514,Bahnhofstrasse 78,FR,3152
+3153,7515,Zürcherstrasse 21,FR,3153
+3154,7516,Marktplatz 56,DE,3154
+3155,7517,Bahnhofstrasse 20,DE,3155
+3156,7522,Dufourstrasse 92,DE,3156
+3157,7523,Piazza Riforma 67,DE,3157
+3158,7524,Industriestrasse 75,DE,3158
+3159,7525,Usterstrasse 20,DE,3159
+3160,7526,Rue de l'hôpital 52,FR,3160
+3161,7527,Werdstrasse 20,FR,3161
+3162,7530,Dufourstrasse 76,FR,3162
+3163,7532,Marktgasse 18,FR,3163
+3164,7533,Marktplatz 17,IT,3164
+3165,7534,Industriestrasse 2,DE,3165
+3166,7535,Tellstrasse 72,DE,3166
+3167,7536,Marktplatz 60,DE,3167
+3168,7537,Poststrasse 94,FR,3168
+3169,7542,Industriestrasse 62,IT,3169
+3170,7543,Marktplatz 49,FR,3170
+3171,7545,Bahnhofstrasse 50,DE,3171
+3172,7546,Via Trevano 34,FR,3172
+3173,7550,Bahnhofstrasse 89,IT,3173
+3174,7551,Piazza Riforma 79,IT,3174
+3175,7552,Morgartenstrasse 30,IT,3175
+3176,7553,Zürcherstrasse 37,FR,3176
+3177,7554,Dufourstrasse 25,FR,3177
+3178,7554,Marktplatz 42,FR,3178
+3179,7556,Bahnhofstrasse 80,FR,3179
+3180,7557,Hirschengraben 93,FR,3180
+3181,7558,Rue de l'hôpital 2,DE,3181
+3182,7559,Marktplatz 17,FR,3182
+3183,7560,Bahnhofstrasse 19,DE,3183
+3184,7562,Marktplatz 72,DE,3184
+3185,7563,Bahnhofstrasse 52,IT,3185
+3186,7602,Dufourstrasse 15,DE,3186
+3187,7603,Rue de la Croix-Rouge 8,IT,3187
+3188,7604,Zürcherstrasse 45,DE,3188
+3189,7605,Dufourstrasse 49,FR,3189
+3190,7606,Tellstrasse 82,IT,3190
+3191,7608,Industriestrasse 73,IT,3191
+3192,7610,Via Trevano 47,FR,3192
+3193,7710,Werdstrasse 75,DE,3193
+3194,7710,Place de l'hôtel 38,IT,3194
+3195,7741,Via Trevano 44,DE,3195
+3196,7742,Rue de la Croix-Rouge 48,FR,3196
+3197,7742,Zürcherstrasse 53,FR,3197
+3198,7742,Rue de la Croix-Rouge 72,IT,3198
+3199,7743,Bahnhofstrasse 4,FR,3199
+3200,7743,Bärenplatz 37,DE,3200
+3201,7744,Industriestrasse 23,IT,3201
+3202,7745,Marktgasse 11,IT,3202
+3203,7746,Industriestrasse 92,IT,3203
+3204,7747,Morgartenstrasse 62,DE,3204
+3205,7748,Tellstrasse 44,FR,3205
+3206,8000,Marktplatz 11,FR,3206
+3207,8044,Werdstrasse 81,DE,3207
+3208,8102,Marktgasse 68,DE,3208
+3209,8103,Morgartenstrasse 39,FR,3209
+3210,8104,Rue de la Croix-Rouge 17,DE,3210
+3211,8105,Rue du Château 63,DE,3211
+3212,8105,Piazza Riforma 17,FR,3212
+3213,8106,Poststrasse 84,IT,3213
+3214,8107,Werdstrasse 44,IT,3214
+3215,8108,Industriestrasse 3,FR,3215
+3216,8109,Rue de l'hôpital 39,FR,3216
+3217,8112,Werdstrasse 43,IT,3217
+3218,8113,Dufourstrasse 91,DE,3218
+3219,8114,Morgartenstrasse 53,FR,3219
+3220,8115,Marktgasse 51,FR,3220
+3221,8117,Industriestrasse 11,FR,3221
+3222,8118,Marktplatz 4,FR,3222
+3223,8121,Zürcherstrasse 26,FR,3223
+3224,8122,Piazza Riforma 67,DE,3224
+3225,8123,Marktgasse 37,FR,3225
+3226,8124,Zürcherstrasse 8,IT,3226
+3227,8125,Rue du Château 56,DE,3227
+3228,8126,Marktgasse 36,FR,3228
+3229,8127,Bärenplatz 67,DE,3229
+3230,8132,Place de l'hôtel 28,DE,3230
+3231,8132,Marktplatz 40,IT,3231
+3232,8133,Rue de l'hôpital 12,FR,3232
+3233,8134,Rue de l'hôpital 54,FR,3233
+3234,8135,Bärenplatz 41,FR,3234
+3235,8135,Rue du Château 68,IT,3235
+3236,8135,Dufourstrasse 24,IT,3236
+3237,8136,Rue du Château 88,IT,3237
+3238,8142,Rue de la Croix-Rouge 33,DE,3238
+3239,8143,Bärenplatz 38,DE,3239
+3240,8143,Poststrasse 6,DE,3240
+3241,8152,Piazza Riforma 30,FR,3241
+3242,8152,Werdstrasse 64,DE,3242
+3243,8152,Winkelriedstrasse 76,DE,3243
+3244,8153,Zürcherstrasse 65,DE,3244
+3245,8154,Bahnhofstrasse 8,IT,3245
+3246,8155,Werdstrasse 52,FR,3246
+3247,8156,Rue de la Croix-Rouge 4,FR,3247
+3248,8157,Marktplatz 100,DE,3248
+3249,8158,Rue de l'hôpital 76,IT,3249
+3250,8162,Marktplatz 29,IT,3250
+3251,8164,Via Trevano 91,IT,3251
+3252,8165,Via Trevano 82,FR,3252
+3253,8165,Poststrasse 15,FR,3253
+3254,8165,Werdstrasse 80,DE,3254
+3255,8166,Hirschengraben 11,IT,3255
+3256,8172,Tellstrasse 50,FR,3256
+3257,8173,Place de l'hôtel 63,IT,3257
+3258,8174,Tellstrasse 60,IT,3258
+3259,8175,Tellstrasse 78,DE,3259
+3260,8180,Werdstrasse 48,DE,3260
+3261,8181,Tellstrasse 38,IT,3261
+3262,8182,Place de l'hôtel 35,FR,3262
+3263,8184,Werdstrasse 41,FR,3263
+3264,8185,Rue de la Croix-Rouge 63,DE,3264
+3265,8187,Hirschengraben 34,FR,3265
+3266,8192,Marktplatz 32,DE,3266
+3267,8192,Rue de la Croix-Rouge 7,FR,3267
+3268,8193,Zürcherstrasse 82,IT,3268
+3269,8194,Rue du Château 44,FR,3269
+3270,8195,Bahnhofstrasse 51,DE,3270
+3271,8196,Piazza Riforma 23,FR,3271
+3272,8197,Usterstrasse 12,FR,3272
+3273,8200,Bahnhofstrasse 63,IT,3273
+3274,8212,Winkelriedstrasse 85,IT,3274
+3275,8212,Werdstrasse 22,DE,3275
+3276,8213,Industriestrasse 48,FR,3276
+3277,8214,Poststrasse 28,FR,3277
+3278,8215,Marktgasse 68,DE,3278
+3279,8216,Dufourstrasse 78,IT,3279
+3280,8217,Rue de l'hôpital 57,DE,3280
+3281,8218,Marktgasse 94,FR,3281
+3282,8219,Place de l'hôtel 3,DE,3282
+3283,8222,Marktgasse 35,IT,3283
+3284,8223,Winkelriedstrasse 50,IT,3284
+3285,8224,Marktgasse 52,IT,3285
+3286,8225,Bahnhofstrasse 42,DE,3286
+3287,8226,Hirschengraben 86,FR,3287
+3288,8228,Zürcherstrasse 21,IT,3288
+3289,8231,Bärenplatz 4,IT,3289
+3290,8232,Tellstrasse 99,DE,3290
+3291,8233,Industriestrasse 46,IT,3291
+3292,8234,Industriestrasse 95,FR,3292
+3293,8235,Via Trevano 82,DE,3293
+3294,8236,Winkelriedstrasse 15,DE,3294
+3295,8236,Tellstrasse 93,IT,3295
+3296,8238,Werdstrasse 90,DE,3296
+3297,8239,Winkelriedstrasse 98,FR,3297
+3298,8240,Via Trevano 27,DE,3298
+3299,8241,Morgartenstrasse 5,FR,3299
+3300,8242,Piazza Riforma 40,FR,3300
+3301,8242,Winkelriedstrasse 40,FR,3301
+3302,8243,Morgartenstrasse 84,FR,3302
+3303,8245,Usterstrasse 90,FR,3303
+3304,8246,Bärenplatz 72,DE,3304
+3305,8247,Via Trevano 85,IT,3305
+3306,8248,Morgartenstrasse 13,FR,3306
+3307,8252,Usterstrasse 100,IT,3307
+3308,8253,Rue du Château 47,DE,3308
+3309,8253,Rue de l'hôpital 39,FR,3309
+3310,8254,Via Trevano 85,FR,3310
+3311,8255,Bahnhofstrasse 42,DE,3311
+3312,8259,Piazza Riforma 24,IT,3312
+3313,8259,Dufourstrasse 6,DE,3313
+3314,8259,Hirschengraben 89,FR,3314
+3315,8259,Usterstrasse 1,IT,3315
+3316,8260,Marktgasse 37,FR,3316
+3317,8261,Winkelriedstrasse 70,IT,3317
+3318,8262,Dufourstrasse 92,IT,3318
+3319,8263,Piazza Riforma 99,IT,3319
+3320,8264,Rue de l'hôpital 48,IT,3320
+3321,8265,Bärenplatz 67,FR,3321
+3322,8266,Marktgasse 34,FR,3322
+3323,8267,Marktplatz 83,DE,3323
+3324,8268,Werdstrasse 7,DE,3324
+3325,8268,Usterstrasse 46,IT,3325
+3326,8269,Werdstrasse 14,IT,3326
+3327,8272,Marktgasse 73,IT,3327
+3328,8273,Via Trevano 35,FR,3328
+3329,8274,Piazza Riforma 37,FR,3329
+3330,8274,Rue de l'hôpital 81,FR,3330
+3331,8280,Marktplatz 66,DE,3331
+3332,8302,Rue de l'hôpital 76,DE,3332
+3333,8303,Piazza Riforma 28,DE,3333
+3334,8304,Morgartenstrasse 51,DE,3334
+3335,8305,Place de l'hôtel 1,FR,3335
+3336,8306,Poststrasse 28,DE,3336
+3337,8307,Rue de la Croix-Rouge 40,IT,3337
+3338,8307,Marktplatz 9,DE,3338
+3339,8308,Poststrasse 32,DE,3339
+3340,8308,Bahnhofstrasse 48,DE,3340
+3341,8309,Piazza Riforma 67,IT,3341
+3342,8310,Dufourstrasse 78,IT,3342
+3343,8310,Rue de la Croix-Rouge 27,IT,3343
+3344,8311,Zürcherstrasse 28,FR,3344
+3345,8312,Tellstrasse 12,DE,3345
+3346,8314,Industriestrasse 17,DE,3346
+3347,8315,Marktplatz 19,FR,3347
+3348,8317,Hirschengraben 19,DE,3348
+3349,8320,Bahnhofstrasse 68,IT,3349
+3350,8322,Tellstrasse 24,IT,3350
+3351,8330,Place de l'hôtel 54,IT,3351
+3352,8330,Poststrasse 21,FR,3352
+3353,8331,Poststrasse 14,DE,3353
+3354,8332,Bärenplatz 46,DE,3354
+3355,8335,Rue de la Croix-Rouge 31,DE,3355
+3356,8340,Morgartenstrasse 26,DE,3356
+3357,8342,Dufourstrasse 76,DE,3357
+3358,8344,Hirschengraben 53,IT,3358
+3359,8345,Industriestrasse 19,FR,3359
+3360,8352,Werdstrasse 26,DE,3360
+3361,8352,Usterstrasse 17,FR,3361
+3362,8353,Usterstrasse 22,IT,3362
+3363,8354,Piazza Riforma 70,IT,3363
+3364,8355,Dufourstrasse 83,FR,3364
+3365,8356,Via Trevano 72,FR,3365
+3366,8357,Dufourstrasse 81,IT,3366
+3367,8360,Piazza Riforma 60,FR,3367
+3368,8360,Werdstrasse 75,DE,3368
+3369,8362,Bärenplatz 100,IT,3369
+3370,8363,Piazza Riforma 44,IT,3370
+3371,8370,Usterstrasse 70,DE,3371
+3372,8370,Rue de l'hôpital 91,IT,3372
+3373,8372,Winkelriedstrasse 85,DE,3373
+3374,8374,Usterstrasse 95,FR,3374
+3375,8374,Hirschengraben 45,IT,3375
+3376,8376,Bahnhofstrasse 12,IT,3376
+3377,8376,Usterstrasse 40,IT,3377
+3378,8400,Bärenplatz 91,DE,3378
+3379,8404,Industriestrasse 17,DE,3379
+3380,8404,Place de l'hôtel 55,IT,3380
+3381,8412,Hirschengraben 74,DE,3381
+3382,8412,Bahnhofstrasse 41,IT,3382
+3383,8412,Werdstrasse 12,IT,3383
+3384,8413,Rue de l'hôpital 83,FR,3384
+3385,8414,Rue de l'hôpital 68,FR,3385
+3386,8415,Hirschengraben 62,DE,3386
+3387,8415,Industriestrasse 73,FR,3387
+3388,8416,Winkelriedstrasse 4,IT,3388
+3389,8418,Morgartenstrasse 14,FR,3389
+3390,8421,Poststrasse 50,IT,3390
+3391,8422,Rue de l'hôpital 46,FR,3391
+3392,8424,Zürcherstrasse 58,DE,3392
+3393,8425,Zürcherstrasse 39,DE,3393
+3394,8426,Hirschengraben 95,FR,3394
+3395,8427,Marktgasse 21,DE,3395
+3396,8427,Piazza Riforma 71,IT,3396
+3397,8428,Rue de la Croix-Rouge 19,FR,3397
+3398,8442,Industriestrasse 3,IT,3398
+3399,8444,Winkelriedstrasse 64,DE,3399
+3400,8447,Via Trevano 59,IT,3400
+3401,8450,Via Trevano 19,FR,3401
+3402,8451,Place de l'hôtel 70,FR,3402
+3403,8452,Poststrasse 56,IT,3403
+3404,8453,Usterstrasse 8,IT,3404
+3405,8454,Hirschengraben 33,FR,3405
+3406,8455,Usterstrasse 14,IT,3406
+3407,8457,Usterstrasse 59,FR,3407
+3408,8458,Usterstrasse 39,IT,3408
+3409,8459,Winkelriedstrasse 65,DE,3409
+3410,8460,Marktplatz 99,FR,3410
+3411,8461,Usterstrasse 77,FR,3411
+3412,8462,Place de l'hôtel 68,IT,3412
+3413,8463,Zürcherstrasse 88,DE,3413
+3414,8464,Marktplatz 48,IT,3414
+3415,8465,Winkelriedstrasse 55,IT,3415
+3416,8465,Werdstrasse 98,FR,3416
+3417,8466,Marktplatz 39,FR,3417
+3418,8467,Bärenplatz 3,DE,3418
+3419,8468,Winkelriedstrasse 57,IT,3419
+3420,8468,Rue de la Croix-Rouge 52,FR,3420
+3421,8471,Winkelriedstrasse 57,FR,3421
+3422,8471,Hirschengraben 22,FR,3422
+3423,8471,Bahnhofstrasse 69,IT,3423
+3424,8471,Hirschengraben 82,DE,3424
+3425,8471,Marktplatz 36,DE,3425
+3426,8472,Werdstrasse 31,DE,3426
+3427,8474,Via Trevano 46,FR,3427
+3428,8475,Hirschengraben 70,IT,3428
+3429,8476,Werdstrasse 42,IT,3429
+3430,8477,Place de l'hôtel 6,FR,3430
+3431,8478,Werdstrasse 83,DE,3431
+3432,8479,Industriestrasse 98,IT,3432
+3433,8482,Morgartenstrasse 39,DE,3433
+3434,8483,Bärenplatz 84,IT,3434
+3435,8484,Bahnhofstrasse 6,DE,3435
+3436,8484,Bahnhofstrasse 42,DE,3436
+3437,8484,Rue de la Croix-Rouge 91,DE,3437
+3438,8486,Usterstrasse 46,FR,3438
+3439,8487,Place de l'hôtel 91,FR,3439
+3440,8487,Marktgasse 59,FR,3440
+3441,8488,Winkelriedstrasse 14,FR,3441
+3442,8489,Hirschengraben 47,DE,3442
+3443,8492,Bahnhofstrasse 88,FR,3443
+3444,8493,Dufourstrasse 48,IT,3444
+3445,8494,Zürcherstrasse 55,DE,3445
+3446,8495,Werdstrasse 75,FR,3446
+3447,8496,Rue de l'hôpital 50,IT,3447
+3448,8497,Rue du Château 70,DE,3448
+3449,8498,Morgartenstrasse 57,FR,3449
+3450,8499,Bahnhofstrasse 64,FR,3450
+3451,8500,Industriestrasse 59,IT,3451
+3452,8500,Rue de la Croix-Rouge 1,DE,3452
+3453,8505,Morgartenstrasse 19,DE,3453
+3454,8505,Poststrasse 5,DE,3454
+3455,8506,Industriestrasse 39,FR,3455
+3456,8507,Dufourstrasse 74,DE,3456
+3457,8508,Dufourstrasse 16,IT,3457
+3458,8512,Industriestrasse 89,DE,3458
+3459,8512,Morgartenstrasse 19,DE,3459
+3460,8512,Piazza Riforma 89,FR,3460
+3461,8514,Hirschengraben 47,IT,3461
+3462,8522,Marktgasse 23,IT,3462
+3463,8522,Piazza Riforma 38,DE,3463
+3464,8523,Hirschengraben 27,IT,3464
+3465,8524,Winkelriedstrasse 85,DE,3465
+3466,8524,Winkelriedstrasse 95,FR,3466
+3467,8525,Morgartenstrasse 67,FR,3467
+3468,8525,Bärenplatz 91,IT,3468
+3469,8526,Rue de l'hôpital 20,DE,3469
+3470,8532,Bahnhofstrasse 50,FR,3470
+3471,8532,Hirschengraben 35,DE,3471
+3472,8535,Zürcherstrasse 49,IT,3472
+3473,8536,Marktgasse 89,DE,3473
+3474,8537,Via Trevano 36,IT,3474
+3475,8537,Marktplatz 48,FR,3475
+3476,8542,Rue de la Croix-Rouge 77,FR,3476
+3477,8543,Werdstrasse 47,FR,3477
+3478,8543,Piazza Riforma 61,FR,3478
+3479,8543,Rue de la Croix-Rouge 47,DE,3479
+3480,8544,Hirschengraben 80,IT,3480
+3481,8545,Poststrasse 51,IT,3481
+3482,8545,Bärenplatz 81,DE,3482
+3483,8546,Tellstrasse 31,DE,3483
+3484,8546,Marktgasse 67,IT,3484
+3485,8546,Bärenplatz 71,IT,3485
+3486,8547,Industriestrasse 34,FR,3486
+3487,8548,Piazza Riforma 14,DE,3487
+3488,8552,Rue de l'hôpital 62,FR,3488
+3489,8553,Rue de la Croix-Rouge 36,IT,3489
+3490,8553,Hirschengraben 80,DE,3490
+3491,8553,Bärenplatz 15,IT,3491
+3492,8553,Bärenplatz 44,DE,3492
+3493,8554,Usterstrasse 96,IT,3493
+3494,8554,Rue du Château 72,FR,3494
+3495,8555,Via Trevano 58,FR,3495
+3496,8556,Tellstrasse 37,FR,3496
+3497,8556,Marktgasse 32,FR,3497
+3498,8556,Zürcherstrasse 66,IT,3498
+3499,8556,Marktplatz 79,DE,3499
+3500,8558,Usterstrasse 52,DE,3500
+3501,8560,Usterstrasse 59,DE,3501
+3502,8561,Poststrasse 17,FR,3502
+3503,8564,Marktgasse 74,IT,3503
+3504,8564,Rue de l'hôpital 22,DE,3504
+3505,8564,Rue de la Croix-Rouge 86,DE,3505
+3506,8564,Poststrasse 12,FR,3506
+3507,8564,Werdstrasse 33,DE,3507
+3508,8564,Marktplatz 24,FR,3508
+3509,8564,Hirschengraben 71,IT,3509
+3510,8564,Piazza Riforma 96,DE,3510
+3511,8565,Werdstrasse 51,DE,3511
+3512,8566,Industriestrasse 81,FR,3512
+3513,8566,Marktplatz 99,FR,3513
+3514,8566,Rue de l'hôpital 76,IT,3514
+3515,8566,Poststrasse 77,DE,3515
+3516,8570,Rue de la Croix-Rouge 77,FR,3516
+3517,8572,Marktplatz 91,DE,3517
+3518,8572,Winkelriedstrasse 66,IT,3518
+3519,8572,Piazza Riforma 49,DE,3519
+3520,8572,Via Trevano 81,IT,3520
+3521,8573,Marktgasse 40,DE,3521
+3522,8573,Usterstrasse 42,IT,3522
+3523,8573,Poststrasse 51,FR,3523
+3524,8574,Usterstrasse 23,DE,3524
+3525,8574,Rue du Château 75,IT,3525
+3526,8575,Dufourstrasse 63,FR,3526
+3527,8575,Werdstrasse 83,FR,3527
+3528,8576,Morgartenstrasse 93,FR,3528
+3529,8577,Werdstrasse 92,DE,3529
+3530,8577,Rue de l'hôpital 50,FR,3530
+3531,8580,Bahnhofstrasse 68,DE,3531
+3532,8580,Dufourstrasse 100,IT,3532
+3533,8580,Rue de l'hôpital 31,DE,3533
+3534,8580,Marktplatz 60,IT,3534
+3535,8581,Hirschengraben 48,IT,3535
+3536,8582,Bahnhofstrasse 75,FR,3536
+3537,8583,Rue du Château 94,IT,3537
+3538,8583,Marktgasse 32,FR,3538
+3539,8583,Piazza Riforma 51,DE,3539
+3540,8584,Tellstrasse 9,DE,3540
+3541,8584,Werdstrasse 24,DE,3541
+3542,8585,Via Trevano 22,IT,3542
+3543,8585,Marktgasse 79,DE,3543
+3544,8585,Bärenplatz 98,DE,3544
+3545,8585,Marktgasse 94,FR,3545
+3546,8585,Usterstrasse 70,DE,3546
+3547,8585,Rue de la Croix-Rouge 4,FR,3547
+3548,8585,Dufourstrasse 92,IT,3548
+3549,8585,Zürcherstrasse 62,DE,3549
+3550,8585,Bärenplatz 57,DE,3550
+3551,8586,Piazza Riforma 43,FR,3551
+3552,8586,Usterstrasse 35,IT,3552
+3553,8586,Bahnhofstrasse 85,DE,3553
+3554,8586,Industriestrasse 79,FR,3554
+3555,8586,Tellstrasse 88,FR,3555
+3556,8586,Werdstrasse 2,FR,3556
+3557,8586,Place de l'hôtel 49,IT,3557
+3558,8586,Piazza Riforma 61,DE,3558
+3559,8587,Werdstrasse 9,IT,3559
+3560,8588,Winkelriedstrasse 71,IT,3560
+3561,8589,Morgartenstrasse 23,DE,3561
+3562,8590,Hirschengraben 74,DE,3562
+3563,8592,Rue de l'hôpital 19,IT,3563
+3564,8593,Industriestrasse 54,FR,3564
+3565,8594,Poststrasse 50,FR,3565
+3566,8595,Bahnhofstrasse 13,DE,3566
+3567,8596,Winkelriedstrasse 26,FR,3567
+3568,8596,Werdstrasse 42,FR,3568
+3569,8597,Zürcherstrasse 77,IT,3569
+3570,8598,Hirschengraben 85,IT,3570
+3571,8599,Marktplatz 45,FR,3571
+3572,8600,Tellstrasse 5,DE,3572
+3573,8602,Poststrasse 55,DE,3573
+3574,8603,Dufourstrasse 65,FR,3574
+3575,8604,Bärenplatz 60,IT,3575
+3576,8605,Piazza Riforma 61,IT,3576
+3577,8606,Morgartenstrasse 20,IT,3577
+3578,8606,Marktplatz 33,DE,3578
+3579,8607,Hirschengraben 13,FR,3579
+3580,8608,Piazza Riforma 54,DE,3580
+3581,8610,Industriestrasse 93,FR,3581
+3582,8614,Rue de la Croix-Rouge 16,DE,3582
+3583,8614,Bahnhofstrasse 19,IT,3583
+3584,8615,Industriestrasse 5,IT,3584
+3585,8615,Piazza Riforma 99,IT,3585
+3586,8616,Bahnhofstrasse 8,FR,3586
+3587,8617,Morgartenstrasse 55,IT,3587
+3588,8618,Rue de l'hôpital 78,DE,3588
+3589,8620,Place de l'hôtel 3,FR,3589
+3590,8624,Werdstrasse 2,DE,3590
+3591,8625,Rue de l'hôpital 81,DE,3591
+3592,8626,Bärenplatz 47,FR,3592
+3593,8627,Place de l'hôtel 58,IT,3593
+3594,8630,Dufourstrasse 62,FR,3594
+3595,8632,Morgartenstrasse 49,DE,3595
+3596,8633,Werdstrasse 60,FR,3596
+3597,8634,Usterstrasse 49,IT,3597
+3598,8635,Tellstrasse 1,DE,3598
+3599,8636,Winkelriedstrasse 44,DE,3599
+3600,8637,Usterstrasse 68,DE,3600
+3601,8638,Industriestrasse 97,FR,3601
+3602,8639,Winkelriedstrasse 83,DE,3602
+3603,8640,Zürcherstrasse 15,DE,3603
+3604,8640,Bahnhofstrasse 46,IT,3604
+3605,8645,Tellstrasse 99,DE,3605
+3606,8646,Winkelriedstrasse 46,FR,3606
+3607,8700,Marktplatz 63,FR,3607
+3608,8702,Dufourstrasse 4,FR,3608
+3609,8703,Marktgasse 94,FR,3609
+3610,8704,Dufourstrasse 61,FR,3610
+3611,8706,Hirschengraben 33,DE,3611
+3612,8707,Rue de l'hôpital 73,DE,3612
+3613,8708,Hirschengraben 48,IT,3613
+3614,8712,Via Trevano 74,IT,3614
+3615,8713,Dufourstrasse 38,IT,3615
+3616,8714,Winkelriedstrasse 35,IT,3616
+3617,8715,Rue du Château 50,FR,3617
+3618,8716,Piazza Riforma 52,DE,3618
+3619,8717,Hirschengraben 10,FR,3619
+3620,8718,Usterstrasse 69,IT,3620
+3621,8722,Rue de la Croix-Rouge 11,DE,3621
+3622,8723,Zürcherstrasse 43,DE,3622
+3623,8725,Bärenplatz 63,DE,3623
+3624,8725,Werdstrasse 57,FR,3624
+3625,8726,Rue du Château 20,DE,3625
+3626,8727,Poststrasse 57,DE,3626
+3627,8730,Piazza Riforma 84,FR,3627
+3628,8732,Marktgasse 84,FR,3628
+3629,8733,Bärenplatz 65,DE,3629
+3630,8734,Rue de l'hôpital 94,FR,3630
+3631,8735,Hirschengraben 84,FR,3631
+3632,8735,Poststrasse 92,IT,3632
+3633,8737,Marktplatz 90,IT,3633
+3634,8738,Piazza Riforma 81,DE,3634
+3635,8739,Piazza Riforma 43,FR,3635
+3636,8750,Tellstrasse 41,IT,3636
+3637,8750,Hirschengraben 27,IT,3637
+3638,8750,Winkelriedstrasse 66,FR,3638
+3639,8751,Via Trevano 73,FR,3639
+3640,8752,Morgartenstrasse 87,DE,3640
+3641,8753,Tellstrasse 50,DE,3641
+3642,8754,Bärenplatz 36,FR,3642
+3643,8755,Werdstrasse 51,FR,3643
+3644,8756,Poststrasse 77,DE,3644
+3645,8757,Tellstrasse 3,DE,3645
+3646,8758,Zürcherstrasse 48,IT,3646
+3647,8762,Marktgasse 31,FR,3647
+3648,8762,Place de l'hôtel 61,IT,3648
+3649,8762,Zürcherstrasse 11,DE,3649
+3650,8765,Morgartenstrasse 22,FR,3650
+3651,8766,Poststrasse 68,FR,3651
+3652,8767,Morgartenstrasse 95,FR,3652
+3653,8772,Winkelriedstrasse 85,DE,3653
+3654,8773,Industriestrasse 92,DE,3654
+3655,8774,Tellstrasse 38,DE,3655
+3656,8775,Poststrasse 59,IT,3656
+3657,8775,Marktplatz 11,FR,3657
+3658,8777,Rue de la Croix-Rouge 11,IT,3658
+3659,8777,Place de l'hôtel 37,FR,3659
+3660,8782,Bahnhofstrasse 61,FR,3660
+3661,8783,Place de l'hôtel 89,FR,3661
+3662,8784,Poststrasse 90,DE,3662
+3663,8800,Marktgasse 25,DE,3663
+3664,8802,Werdstrasse 9,FR,3664
+3665,8803,Poststrasse 88,DE,3665
+3666,8804,Marktgasse 23,FR,3666
+3667,8805,Industriestrasse 30,IT,3667
+3668,8806,Via Trevano 28,IT,3668
+3669,8807,Tellstrasse 61,DE,3669
+3670,8808,Bärenplatz 99,IT,3670
+3671,8810,Marktgasse 45,IT,3671
+3672,8815,Marktgasse 97,DE,3672
+3673,8816,Zürcherstrasse 57,FR,3673
+3674,8820,Rue du Château 40,DE,3674
+3675,8824,Poststrasse 20,IT,3675
+3676,8825,Dufourstrasse 52,IT,3676
+3677,8832,Zürcherstrasse 27,IT,3677
+3678,8832,Poststrasse 12,FR,3678
+3679,8833,Place de l'hôtel 77,FR,3679
+3680,8834,Bärenplatz 70,FR,3680
+3681,8835,Poststrasse 74,IT,3681
+3682,8836,Marktplatz 77,IT,3682
+3683,8840,Rue de la Croix-Rouge 62,IT,3683
+3684,8840,Via Trevano 33,DE,3684
+3685,8841,Morgartenstrasse 4,IT,3685
+3686,8842,Piazza Riforma 89,FR,3686
+3687,8843,Hirschengraben 91,DE,3687
+3688,8844,Bahnhofstrasse 87,IT,3688
+3689,8845,Zürcherstrasse 39,DE,3689
+3690,8846,Rue de la Croix-Rouge 36,DE,3690
+3691,8847,Zürcherstrasse 95,IT,3691
+3692,8849,Rue du Château 100,FR,3692
+3693,8852,Rue de l'hôpital 39,IT,3693
+3694,8853,Usterstrasse 57,IT,3694
+3695,8854,Piazza Riforma 94,DE,3695
+3696,8854,Bahnhofstrasse 66,IT,3696
+3697,8855,Bahnhofstrasse 89,FR,3697
+3698,8856,Rue de la Croix-Rouge 30,IT,3698
+3699,8857,Zürcherstrasse 6,IT,3699
+3700,8858,Werdstrasse 82,FR,3700
+3701,8862,Place de l'hôtel 27,FR,3701
+3702,8863,Werdstrasse 61,FR,3702
+3703,8864,Marktplatz 50,IT,3703
+3704,8865,Dufourstrasse 71,DE,3704
+3705,8866,Bärenplatz 73,IT,3705
+3706,8867,Rue de la Croix-Rouge 29,DE,3706
+3707,8868,Marktgasse 91,DE,3707
+3708,8872,Dufourstrasse 45,FR,3708
+3709,8873,Werdstrasse 73,DE,3709
+3710,8874,Poststrasse 75,DE,3710
+3711,8877,Piazza Riforma 84,FR,3711
+3712,8878,Poststrasse 26,DE,3712
+3713,8880,Werdstrasse 17,FR,3713
+3714,8881,Winkelriedstrasse 57,DE,3714
+3715,8881,Piazza Riforma 99,FR,3715
+3716,8881,Place de l'hôtel 84,DE,3716
+3717,8882,Marktgasse 45,FR,3717
+3718,8883,Zürcherstrasse 83,FR,3718
+3719,8884,Morgartenstrasse 81,DE,3719
+3720,8885,Via Trevano 71,IT,3720
+3721,8886,Bärenplatz 19,IT,3721
+3722,8887,Poststrasse 91,FR,3722
+3723,8888,Tellstrasse 50,IT,3723
+3724,8889,Dufourstrasse 90,IT,3724
+3725,8890,Rue de l'hôpital 42,FR,3725
+3726,8892,Zürcherstrasse 34,FR,3726
+3727,8893,Rue de l'hôpital 65,DE,3727
+3728,8894,Rue de la Croix-Rouge 39,DE,3728
+3729,8895,Hirschengraben 33,FR,3729
+3730,8896,Werdstrasse 14,IT,3730
+3731,8897,Bärenplatz 31,IT,3731
+3732,8898,Winkelriedstrasse 48,DE,3732
+3733,8902,Morgartenstrasse 12,IT,3733
+3734,8903,Rue de la Croix-Rouge 93,DE,3734
+3735,8904,Rue de la Croix-Rouge 58,FR,3735
+3736,8905,Rue du Château 19,IT,3736
+3737,8905,Via Trevano 66,FR,3737
+3738,8906,Rue de l'hôpital 4,FR,3738
+3739,8907,Dufourstrasse 86,IT,3739
+3740,8908,Marktgasse 68,DE,3740
+3741,8909,Piazza Riforma 68,DE,3741
+3742,8910,Usterstrasse 19,FR,3742
+3743,8911,Marktgasse 43,IT,3743
+3744,8912,Zürcherstrasse 4,IT,3744
+3745,8913,Hirschengraben 56,DE,3745
+3746,8914,Place de l'hôtel 80,IT,3746
+3747,8914,Piazza Riforma 71,IT,3747
+3748,8915,Rue de l'hôpital 100,IT,3748
+3749,8916,Bahnhofstrasse 77,DE,3749
+3750,8917,Poststrasse 26,DE,3750
+3751,8918,Werdstrasse 22,DE,3751
+3752,8919,Winkelriedstrasse 78,IT,3752
+3753,8925,Zürcherstrasse 9,FR,3753
+3754,8926,Industriestrasse 27,FR,3754
+3755,8926,Zürcherstrasse 96,IT,3755
+3756,8926,Place de l'hôtel 80,DE,3756
+3757,8932,Bärenplatz 23,DE,3757
+3758,8933,Werdstrasse 74,FR,3758
+3759,8934,Piazza Riforma 47,IT,3759
+3760,8942,Hirschengraben 42,FR,3760
+3761,8951,Rue du Château 23,DE,3761
+3762,8952,Marktplatz 25,FR,3762
+3763,8953,Marktgasse 60,FR,3763
+3764,8954,Rue de l'hôpital 74,FR,3764
+3765,8955,Bahnhofstrasse 55,IT,3765
+3766,8956,Bärenplatz 40,DE,3766
+3767,8957,Industriestrasse 10,IT,3767
+3768,8962,Morgartenstrasse 89,IT,3768
+3769,8964,Rue de l'hôpital 9,DE,3769
+3770,8965,Via Trevano 29,FR,3770
+3771,8966,Poststrasse 11,DE,3771
+3772,8967,Poststrasse 34,DE,3772
+3773,9000,Poststrasse 88,FR,3773
+3774,9030,Industriestrasse 46,DE,3774
+3775,9032,Hirschengraben 77,DE,3775
+3776,9033,Bahnhofstrasse 25,DE,3776
+3777,9034,Bahnhofstrasse 65,DE,3777
+3778,9035,Bahnhofstrasse 88,IT,3778
+3779,9036,Marktplatz 88,FR,3779
+3780,9037,Hirschengraben 20,FR,3780
+3781,9038,Usterstrasse 81,FR,3781
+3782,9042,Bahnhofstrasse 49,IT,3782
+3783,9043,Dufourstrasse 53,FR,3783
+3784,9044,Rue de la Croix-Rouge 84,FR,3784
+3785,9050,Poststrasse 80,DE,3785
+3786,9050,Tellstrasse 88,FR,3786
+3787,9050,Hirschengraben 39,FR,3787
+3788,9050,Tellstrasse 37,DE,3788
+3789,9050,Piazza Riforma 78,FR,3789
+3790,9050,Rue de l'hôpital 38,DE,3790
+3791,9052,Via Trevano 19,DE,3791
+3792,9053,Piazza Riforma 17,FR,3792
+3793,9054,Dufourstrasse 72,IT,3793
+3794,9055,Marktgasse 59,FR,3794
+3795,9056,Bahnhofstrasse 44,DE,3795
+3796,9057,Zürcherstrasse 96,DE,3796
+3797,9057,Place de l'hôtel 72,IT,3797
+3798,9057,Usterstrasse 85,IT,3798
+3799,9058,Industriestrasse 93,FR,3799
+3800,9062,Dufourstrasse 50,FR,3800
+3801,9063,Tellstrasse 22,FR,3801
+3802,9064,Rue de la Croix-Rouge 73,DE,3802
+3803,9100,Bahnhofstrasse 19,DE,3803
+3804,9103,Morgartenstrasse 18,FR,3804
+3805,9104,Dufourstrasse 67,IT,3805
+3806,9105,Tellstrasse 61,DE,3806
+3807,9107,Dufourstrasse 53,DE,3807
+3808,9108,Bärenplatz 59,IT,3808
+3809,9108,Marktgasse 97,FR,3809
+3810,9108,Marktgasse 10,DE,3810
+3811,9112,Zürcherstrasse 83,IT,3811
+3812,9113,Poststrasse 68,DE,3812
+3813,9114,Industriestrasse 2,IT,3813
+3814,9115,Marktgasse 3,DE,3814
+3815,9116,Poststrasse 77,IT,3815
+3816,9122,Rue de la Croix-Rouge 20,FR,3816
+3817,9122,Bahnhofstrasse 64,IT,3817
+3818,9123,Rue du Château 65,FR,3818
+3819,9125,Zürcherstrasse 4,FR,3819
+3820,9126,Tellstrasse 77,DE,3820
+3821,9127,Tellstrasse 72,FR,3821
+3822,9200,Rue du Château 74,DE,3822
+3823,9203,Marktplatz 18,IT,3823
+3824,9204,Piazza Riforma 48,DE,3824
+3825,9205,Usterstrasse 82,FR,3825
+3826,9212,Rue de la Croix-Rouge 50,FR,3826
+3827,9213,Rue de l'hôpital 79,DE,3827
+3828,9214,Winkelriedstrasse 41,DE,3828
+3829,9215,Place de l'hôtel 44,FR,3829
+3830,9215,Via Trevano 6,DE,3830
+3831,9216,Winkelriedstrasse 59,FR,3831
+3832,9216,Via Trevano 38,FR,3832
+3833,9217,Rue de la Croix-Rouge 20,IT,3833
+3834,9220,Zürcherstrasse 73,IT,3834
+3835,9223,Bärenplatz 60,DE,3835
+3836,9223,Zürcherstrasse 79,IT,3836
+3837,9225,Hirschengraben 43,DE,3837
+3838,9225,Place de l'hôtel 41,DE,3838
+3839,9230,Zürcherstrasse 9,IT,3839
+3840,9231,Poststrasse 39,IT,3840
+3841,9240,Usterstrasse 46,IT,3841
+3842,9240,Morgartenstrasse 45,IT,3842
+3843,9242,Piazza Riforma 6,FR,3843
+3844,9243,Rue de l'hôpital 74,DE,3844
+3845,9244,Poststrasse 75,FR,3845
+3846,9245,Marktplatz 54,DE,3846
+3847,9245,Tellstrasse 67,FR,3847
+3848,9246,Morgartenstrasse 76,IT,3848
+3849,9247,Rue de la Croix-Rouge 68,DE,3849
+3850,9248,Marktplatz 21,IT,3850
+3851,9249,Rue du Château 45,IT,3851
+3852,9249,Industriestrasse 52,DE,3852
+3853,9249,Werdstrasse 67,IT,3853
+3854,9300,Marktgasse 5,IT,3854
+3855,9304,Hirschengraben 22,DE,3855
+3856,9305,Bahnhofstrasse 58,DE,3856
+3857,9306,Winkelriedstrasse 70,FR,3857
+3858,9308,Hirschengraben 72,IT,3858
+3859,9312,Marktplatz 65,FR,3859
+3860,9313,Marktplatz 25,FR,3860
+3861,9314,Rue de l'hôpital 57,DE,3861
+3862,9315,Poststrasse 7,IT,3862
+3863,9315,Industriestrasse 44,DE,3863
+3864,9320,Piazza Riforma 92,DE,3864
+3865,9320,Poststrasse 79,IT,3865
+3866,9320,Rue de l'hôpital 57,DE,3866
+3867,9322,Zürcherstrasse 19,FR,3867
+3868,9323,Marktgasse 41,FR,3868
+3869,9325,Tellstrasse 23,DE,3869
+3870,9326,Morgartenstrasse 44,FR,3870
+3871,9327,Rue de l'hôpital 6,FR,3871
+3872,9400,Marktplatz 93,DE,3872
+3873,9402,Rue de l'hôpital 53,FR,3873
+3874,9403,Morgartenstrasse 26,IT,3874
+3875,9404,Bärenplatz 95,FR,3875
+3876,9405,Morgartenstrasse 10,IT,3876
+3877,9410,Rue de l'hôpital 27,DE,3877
+3878,9411,Poststrasse 51,DE,3878
+3879,9413,Usterstrasse 32,IT,3879
+3880,9414,Bärenplatz 46,DE,3880
+3881,9422,Piazza Riforma 46,FR,3881
+3882,9423,Tellstrasse 21,IT,3882
+3883,9424,Rue du Château 13,DE,3883
+3884,9425,Morgartenstrasse 90,IT,3884
+3885,9426,Rue de la Croix-Rouge 51,IT,3885
+3886,9427,Rue du Château 97,FR,3886
+3887,9427,Hirschengraben 11,DE,3887
+3888,9428,Marktplatz 37,IT,3888
+3889,9430,Werdstrasse 19,DE,3889
+3890,9434,Morgartenstrasse 64,FR,3890
+3891,9435,Rue de l'hôpital 86,DE,3891
+3892,9436,Morgartenstrasse 29,DE,3892
+3893,9437,Usterstrasse 57,DE,3893
+3894,9442,Dufourstrasse 39,FR,3894
+3895,9442,Industriestrasse 16,IT,3895
+3896,9443,Piazza Riforma 21,DE,3896
+3897,9444,Zürcherstrasse 97,DE,3897
+3898,9445,Winkelriedstrasse 22,FR,3898
+3899,9450,Usterstrasse 74,FR,3899
+3900,9450,Rue du Château 32,DE,3900
+3901,9451,Rue de l'hôpital 77,IT,3901
+3902,9452,Rue de la Croix-Rouge 60,DE,3902
+3903,9453,Hirschengraben 23,FR,3903
+3904,9462,Via Trevano 60,FR,3904
+3905,9463,Zürcherstrasse 98,FR,3905
+3906,9464,Usterstrasse 45,FR,3906
+3907,9464,Rue de la Croix-Rouge 49,DE,3907
+3908,9465,Piazza Riforma 30,FR,3908
+3909,9466,Marktgasse 39,FR,3909
+3910,9467,Bärenplatz 4,IT,3910
+3911,9468,Werdstrasse 34,FR,3911
+3912,9469,Werdstrasse 67,DE,3912
+3913,9470,Dufourstrasse 89,DE,3913
+3914,9470,Piazza Riforma 19,IT,3914
+3915,9472,Morgartenstrasse 21,FR,3915
+3916,9472,Marktplatz 63,IT,3916
+3917,9473,Rue de l'hôpital 67,FR,3917
+3918,9475,Usterstrasse 79,IT,3918
+3919,9476,Piazza Riforma 88,DE,3919
+3920,9476,Morgartenstrasse 27,IT,3920
+3921,9477,Zürcherstrasse 50,IT,3921
+3922,9478,Dufourstrasse 52,FR,3922
+3923,9479,Tellstrasse 80,DE,3923
+3924,9479,Rue de l'hôpital 94,DE,3924
+3925,9479,Industriestrasse 97,FR,3925
+3926,9485,Bärenplatz 13,FR,3926
+3927,9486,Piazza Riforma 60,IT,3927
+3928,9487,Zürcherstrasse 1,FR,3928
+3929,9488,Marktgasse 9,FR,3929
+3930,9490,Tellstrasse 80,IT,3930
+3931,9491,Rue de l'hôpital 31,DE,3931
+3932,9492,Morgartenstrasse 13,IT,3932
+3933,9493,Winkelriedstrasse 46,FR,3933
+3934,9494,Marktplatz 34,FR,3934
+3935,9495,Zürcherstrasse 81,DE,3935
+3936,9496,Bärenplatz 9,FR,3936
+3937,9497,Rue de l'hôpital 20,DE,3937
+3938,9498,Place de l'hôtel 47,FR,3938
+3939,9500,Rue de la Croix-Rouge 89,FR,3939
+3940,9502,Rue de la Croix-Rouge 53,DE,3940
+3941,9503,Poststrasse 72,IT,3941
+3942,9503,Marktplatz 72,IT,3942
+3943,9504,Marktplatz 1,IT,3943
+3944,9506,Place de l'hôtel 25,IT,3944
+3945,9507,Industriestrasse 86,DE,3945
+3946,9508,Marktgasse 35,IT,3946
+3947,9512,Bärenplatz 26,FR,3947
+3948,9514,Morgartenstrasse 92,FR,3948
+3949,9515,Bahnhofstrasse 64,FR,3949
+3950,9517,Zürcherstrasse 50,FR,3950
+3951,9523,Rue de l'hôpital 42,DE,3951
+3952,9524,Zürcherstrasse 93,IT,3952
+3953,9525,Marktplatz 26,DE,3953
+3954,9526,Rue de l'hôpital 79,FR,3954
+3955,9527,Place de l'hôtel 56,IT,3955
+3956,9532,Marktplatz 4,IT,3956
+3957,9533,Hirschengraben 68,FR,3957
+3958,9534,Bahnhofstrasse 58,FR,3958
+3959,9535,Bärenplatz 66,FR,3959
+3960,9536,Place de l'hôtel 93,IT,3960
+3961,9542,Winkelriedstrasse 90,IT,3961
+3962,9543,Industriestrasse 97,DE,3962
+3963,9545,Poststrasse 83,FR,3963
+3964,9546,Marktgasse 21,DE,3964
+3965,9547,Morgartenstrasse 3,DE,3965
+3966,9548,Zürcherstrasse 45,DE,3966
+3967,9552,Piazza Riforma 59,DE,3967
+3968,9553,Dufourstrasse 63,DE,3968
+3969,9554,Werdstrasse 74,DE,3969
+3970,9555,Zürcherstrasse 59,IT,3970
+3971,9556,Hirschengraben 61,IT,3971
+3972,9556,Werdstrasse 92,DE,3972
+3973,9562,Rue de la Croix-Rouge 15,DE,3973
+3974,9562,Industriestrasse 29,DE,3974
+3975,9565,Bahnhofstrasse 81,FR,3975
+3976,9565,Marktplatz 74,FR,3976
+3977,9565,Winkelriedstrasse 40,IT,3977
+3978,9565,Morgartenstrasse 40,IT,3978
+3979,9565,Via Trevano 33,DE,3979
+3980,9573,Rue du Château 40,FR,3980
+3981,9601,Morgartenstrasse 11,DE,3981
+3982,9602,Winkelriedstrasse 20,IT,3982
+3983,9602,Rue de la Croix-Rouge 81,DE,3983
+3984,9604,Industriestrasse 42,IT,3984
+3985,9604,Morgartenstrasse 2,FR,3985
+3986,9604,Usterstrasse 98,IT,3986
+3987,9606,Zürcherstrasse 23,IT,3987
+3988,9607,Usterstrasse 90,DE,3988
+3989,9608,Dufourstrasse 63,DE,3989
+3990,9612,Werdstrasse 16,IT,3990
+3991,9613,Winkelriedstrasse 15,IT,3991
+3992,9614,Tellstrasse 14,IT,3992
+3993,9615,Bärenplatz 23,DE,3993
+3994,9620,Hirschengraben 76,IT,3994
+3995,9621,Marktplatz 24,IT,3995
+3996,9622,Dufourstrasse 65,IT,3996
+3997,9630,Werdstrasse 16,DE,3997
+3998,9631,Dufourstrasse 52,IT,3998
+3999,9633,Rue de l'hôpital 26,DE,3999
+4000,9633,Place de l'hôtel 36,FR,4000
+4001,9642,Morgartenstrasse 26,DE,4001
+4002,9643,Zürcherstrasse 64,IT,4002
+4003,9650,Rue du Château 48,FR,4003
+4004,9651,Poststrasse 22,DE,4004
+4005,9652,Marktplatz 88,FR,4005
+4006,9655,Hirschengraben 82,FR,4006
+4007,9656,Hirschengraben 99,FR,4007
+4008,9657,Zürcherstrasse 44,FR,4008
+4009,9658,Industriestrasse 20,FR,4009
