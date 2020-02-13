@@ -22,6 +22,7 @@ urlpatterns = [
     url('user', views.userAccount.as_view(), name='user'),
     url('login', views.user_login, name='login'),
     url(r'^register/$', views.register, name='register'),
+    url(r'^editprofile/$', views.edit_profile, name='editprofile'),
     url('', views.mainView.as_view(), name='main'),
 ]
 

@@ -24,6 +24,7 @@
       {% if user.is_authenticated %}
       <li><a href="{% url 'mainApp:user' %}">User</a></li>
       <li><a href="{% url 'logout' %}">Logout</a></li>
+      <li><a href="{% url 'mainApp:editprofile' %}">Edit profile</a></li>
       {% else %}
         <li><a href="{% url 'mainApp:login' %}">Login</a></li>
         <li><a href="{% url 'mainApp:register' %}">REGISTER</a></li>

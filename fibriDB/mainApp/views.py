@@ -178,3 +178,25 @@ def user_login(request):
             return HttpResponse('Invalid login details supplied')
     else:
         return render(request, 'fibriDB/login.html', {})
+        
+
+@login_required
+def edit_profile(request):
+    if request.method == 'POST':
+        form = forms.UserForm(request.POST, instance=request.user)
+        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+
+        if form.is_valid() and profile_form.is_valid():
+            user_form = form.save()
+            custom_form = profile_form.save(False)
+            custom_form.user = user_form
+            custom_form.save()
+            return redirect('mainApp:editprofile')
+    else:
+        form = forms.UserForm(instance=request.user)
+        profile_form = forms.UserProfileInfoForm(instance=request.user.userprofileinfo)
+        args = {}
+        # args.update(csrf(request))
+        args['form'] = form
+        args['profile_form'] = profile_form
+        return render(request, 'accounts/editprofile.html', args)
