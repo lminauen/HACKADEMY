@@ -15,3 +15,14 @@ class UserProfileInfoForm(forms.ModelForm):
     class Meta():
         model = UserProfileInfo
         fields = ('postalCode', 'street', 'language')
+
+
+class EditProfileForm(forms.ModelForm):
+    class Meta:
+        model = User
+        fields = (
+                'email',
+                'first_name',
+                'last_name'
+            )
+        
