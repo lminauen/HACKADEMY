@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+{% extends 'fibriDB/base.html' %}
+{% load static %}
+  {% block body_block %}
+
+      <h1>Add Defibrillator-Location</h1>
+      {% if user.is_authenticated %}
+          <h2>Welcome {{ user.username }}!</h2>
+      {% else %}
+          <h2>Please register to add locations!</h2>
+      {% endif %}
+
+  {% endblock body_block %}
