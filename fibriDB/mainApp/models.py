@@ -22,14 +22,14 @@ class UserProfileInfo(models.Model):
         return self.user.username
 
 
-class community_id(models.Model):
+class communities(models.Model):
     name = models.CharField(max_length=100)
     canton = models.CharField(max_length=100)
 
 
-class community(models.Model):
+class communityinfo(models.Model):
     postalCode = models.IntegerField()
-    commune = models.ForeignKey(community_id, related_name="community_identification", on_delete=models.CASCADE, null=True, blank=True)
+    commune = models.ForeignKey(communities, on_delete=models.CASCADE, null=True, blank=True)
 
 
 class type(models.Model):
@@ -40,9 +40,9 @@ class type(models.Model):
 
 
 class items(models.Model):
-    user = models.ForeignKey('auth.User', related_name="items", on_delete=models.CASCADE, null=True, blank=True)
-    type = models.ForeignKey(type, related_name="type", on_delete=models.CASCADE)
-    community = models.ForeignKey(community_id, related_name="community", on_delete=models.CASCADE)
+    user = models.ForeignKey('auth.User', on_delete=models.CASCADE, null=True, blank=True)
+    type = models.ForeignKey(type, default="defib", on_delete=models.CASCADE)
+    community = models.ForeignKey(communities, on_delete=models.CASCADE)
     longitude = models.DecimalField(decimal_places=10, max_digits=12)
     latitude = models.DecimalField(decimal_places=10, max_digits=12)
     availability = models.CharField(max_length=300, null=True, blank=True)
@@ -64,5 +64,5 @@ class defibModels(models.Model):
 
 
 class attributesDefib(models.Model):
-    item = models.ForeignKey(items, related_name="users", on_delete=models.CASCADE)
-    model = models.ForeignKey(defibModels, related_name="defibModels", on_delete=models.CASCADE)
+    item = models.ForeignKey(items, on_delete=models.CASCADE)
+    model = models.ForeignKey(defibModels, default=1, on_delete=models.CASCADE)

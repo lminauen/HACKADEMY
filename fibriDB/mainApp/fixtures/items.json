@@ -1,0 +1,3854 @@
+[
+    {
+        "pk": 1,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4848754",
+            "longitude": "7.732294",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Bahnhofstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang Volkswirtschafts- und Gesundheitsdirektion",
+            "notes": "Nur w\u00e4hrend den B\u00fcrozeiten",
+            "responsible": "VGD",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4850246",
+            "longitude": "7.7339578",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Rathausstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang rechts nach Windfang an Wand",
+            "notes": "",
+            "responsible": "LKA",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1918,
+            "latitude": "47.4697871",
+            "longitude": "7.8718766",
+            "pc": 4466,
+            "location": "Ormalingen",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen beim Haupteingang Zentrum Ergolz unterhalb Briefkasten",
+            "notes": "",
+            "responsible": "Einwohnergemeinde Ormalingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4928388",
+            "longitude": "7.5896756",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gasthof Schl\u00fcssel, WC-Treppe",
+            "notes": "W\u00e4hrend den \u00d6ffnungszeiten",
+            "responsible": "Monika und Arthur W\u00e4lti-Herzog",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4864798",
+            "longitude": "7.7311264",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Rheinstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Empfang melden",
+            "notes": "w\u00e4hrend der Oeffnungszeiten des Polizeipostens. Noch zu \u00fcberpr\u00fcfen",
+            "responsible": "Polizei BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 6,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.4679923",
+            "longitude": "7.7984691",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Netzenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangsbereich zwischen NSNW und Verkehrsabteilung Polizei, vom Hof aus.",
+            "notes": "",
+            "responsible": "NSNW Sissach 061 975 45 45",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 7,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1889,
+            "latitude": "47.4506427",
+            "longitude": "7.763363",
+            "pc": 4433,
+            "location": "Ramlinsburg",
+            "address": "Gassenbrunnen",
+            "canton": "Basel-Landschaft",
+            "location_descr": "\u00d6ffentlich zug\u00e4nglich an Geb\u00e4ude-Aussenseite",
+            "notes": "Keine",
+            "responsible": "Gemeinde Ramlinsburg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 8,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1839,
+            "latitude": "47.3626529",
+            "longitude": "7.5881875",
+            "pc": 4229,
+            "location": "Beinwil",
+            "address": "Klosterkirche",
+            "canton": "Solothurn",
+            "location_descr": "Zugang: 24h / 365 Tage im Jahr\nSchilder AED zum Hauseingang neben Kirche.\nAED frei zug\u00e4nglich, links hinter Haust\u00fcr",
+            "notes": "keine",
+            "responsible": "Kloster Beinwil, Oekumenische Gemeinschaft",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 9,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1794,
+            "latitude": "47.5384197",
+            "longitude": "7.6189269",
+            "pc": 4052,
+            "location": "Basel",
+            "address": "Mittlere Allee",
+            "canton": "Basel-Stadt",
+            "location_descr": "",
+            "notes": "Mo - Fr 08.00 - 18.00 Uhr",
+            "responsible": "Departement f\u00fcr Sport, Bewegung und Gesundheit",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 10,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1800,
+            "latitude": "47.5073142",
+            "longitude": "7.523096",
+            "pc": 4105,
+            "location": "Biel-Benken",
+            "address": "Primarschulhaus, Kilchb\u00fchlstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der Aussenwand beim Schulhauseingang",
+            "notes": "keine",
+            "responsible": "Gemeinde Biel-Benken",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 11,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4816375",
+            "longitude": "7.731435",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Oristalstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Treppe/ Lift 1. Stock, Praxis Dr. Ritz",
+            "notes": "Nur w\u00e4hrend Praxiszeiten",
+            "responsible": "Dr. med. M. Ritz, Gastroenterologie FMH",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 12,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1890,
+            "latitude": "47.4250258",
+            "longitude": "7.7705426",
+            "pc": 4434,
+            "location": "H\u00f6lstein",
+            "address": "B\u00fcndtenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Eingang der Gemeindeverwaltung H\u00f6lstein",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde H\u00f6lstein",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 13,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1879,
+            "latitude": "47.3977357",
+            "longitude": "7.6918206",
+            "pc": 4418,
+            "location": "Reigoldswil",
+            "address": "Dorfplatz",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Warteh\u00e4uschen Bushaltestelle",
+            "notes": "",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 14,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4937184",
+            "longitude": "7.5910715",
+            "pc": 4153,
+            "location": "Reinach BL",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Parterre Gemeindeverwaltung\nlinks neben den Liften",
+            "notes": "nur w\u00e4hrend den \u00d6ffnungszeiten derGemeindeverwaltung",
+            "responsible": "Gemeinde Reinach",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 15,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1799,
+            "latitude": "47.5121915",
+            "longitude": "7.5552393",
+            "pc": 4104,
+            "location": "Oberwil",
+            "address": "M\u00fchlegasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Fa. B\u00f6hringen, 1. EG beim Empfang",
+            "notes": "Mo - Fr. 07.30-12.00 / 13.30-17.00",
+            "responsible": "B\u00f6hringer AG\nIngenieure und Planer",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 16,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1879,
+            "latitude": "47.3986926",
+            "longitude": "7.6554047",
+            "pc": 4418,
+            "location": "Reigoldswil",
+            "address": "Turnhalle Sekundarschule Reigoldswil",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingang zur Turnhalle der Sekundarschule",
+            "notes": "Nur w\u00e4hrend Schulbetrieb",
+            "responsible": "Samariterverein Reigoldswil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 17,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3902778",
+            "longitude": "7.6963889",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Bergstation Lufteilbahn Reigoldswil-Wasserfallen",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Vor der T\u00fcre zum Restaurant Heidi-St\u00fcbli (rechts).",
+            "notes": "",
+            "responsible": "Stiftung Luftseilbahn Reigoldswil-Wasserfallen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 18,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1886,
+            "latitude": "47.3887399",
+            "longitude": "7.6763299",
+            "pc": 4426,
+            "location": "Lauwil",
+            "address": "Lammetstr.",
+            "canton": "Basel-Landschaft",
+            "location_descr": "vor der Eingangst\u00fcre Gemeindeverwaltung",
+            "notes": "",
+            "responsible": "Gemeinde Lauwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 19,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1843,
+            "latitude": "47.4251952",
+            "longitude": "7.5040515",
+            "pc": 4242,
+            "location": "Laufen",
+            "address": "Lochbruggstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Kantonsspital Baselland Standort Laufen, Erdgeschoss, kann im Notfall auch von Passanten geholt werden",
+            "notes": "",
+            "responsible": "Kantonsspital Baselland Standort Laufen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 20,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1820,
+            "latitude": "47.4920844",
+            "longitude": "7.6203667",
+            "pc": 4144,
+            "location": "Arlesheim",
+            "address": "Domplatz",
+            "canton": "Basel-Landschaft",
+            "location_descr": "im Eingangsbereich links",
+            "notes": "nachts geschlossen",
+            "responsible": "R\u00f6m.-kath. Kirchgemeinde",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 21,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3809742",
+            "longitude": "7.7469731",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Empfang melden",
+            "notes": "W\u00e4hrend den Betriebszeiten",
+            "responsible": "Revue Thommen AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 22,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1878,
+            "latitude": "47.4320593",
+            "longitude": "7.7077779",
+            "pc": 4417,
+            "location": "Ziefen",
+            "address": "Primarschulhaus Eienstrasse 21",
+            "canton": "Basel-Landschaft",
+            "location_descr": "im Eingangsbereich auf der rechten Seite",
+            "notes": "w\u00e4hrend dem Schulbetrieb",
+            "responsible": "Samariterverein Ziefen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 23,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4735592",
+            "longitude": "7.5869681",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Landskronstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich beim Sanit\u00e4tsraum",
+            "notes": "Bei ge\u00f6ffneter Anlage",
+            "responsible": "Mehrzweckhalle L\u00f6hrenacker",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 24,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4772",
+            "longitude": "7.60177",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Dornacherstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Neben Kasse",
+            "notes": "0900-1900 Mai - September",
+            "responsible": "Schwimmbad Sch\u00fctzenmatte Aesch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 25,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4657451",
+            "longitude": "7.5992283",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Empfang",
+            "notes": "Mo, Di, Fr. 0800-1200 Uhr & 1330-1630 Uhr\nMi 0730-1200 Uhr & 1330-1800 Uhr\nDo 0800-1400 Uhr",
+            "responsible": "Gemeindezentrum Aesch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 26,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1794,
+            "latitude": "47.547589",
+            "longitude": "7.589662",
+            "pc": 4000,
+            "location": "Basel",
+            "address": "Bahnhof SBB",
+            "canton": "Basel-Stadt",
+            "location_descr": "Passerelle, neben Zugang zu Gleis 11",
+            "notes": "",
+            "responsible": "SBB",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 27,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1889,
+            "latitude": "47.4478922",
+            "longitude": "7.7659317",
+            "pc": 4433,
+            "location": "Ramlinsburg",
+            "address": "Br\u00fcnnliweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang MZH (aussen)",
+            "notes": "keine",
+            "responsible": "Gemeinde Ramlinsburg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 28,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.486388",
+            "longitude": "7.7423644",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Arisd\u00f6rferstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "APH Brunnmatt, im Restaurant im EG",
+            "notes": "08:30 bis 17:30",
+            "responsible": "APH Brunnmatt",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 29,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4741156",
+            "longitude": "7.5948228",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Herrenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Direkt auf der linken Seite im Eingangsbereich des Steinackerhauses",
+            "notes": "Montag, Dienstag, Donnerstag, Freitag in der Regel von 8 - 11.45 h und von 13.30 - 17 h.\nAn den anderen Tagen nur, wenn ein Anlass stattfindet und das Steinackerhaus ge\u00f6ffnet ist.",
+            "responsible": "Evang. - Ref. Kirchgemeinde Aesch-Pfeffingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 30,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1797,
+            "latitude": "47.5436896",
+            "longitude": "7.5756065",
+            "pc": 4102,
+            "location": "Binningen",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Zahnarztpraxis zur Waage",
+            "notes": "W\u00e4hrend Oeffnungszeiten",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 31,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.4697628",
+            "longitude": "7.8002616",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Grienmattweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Tenniscenter, Eingangsbereich",
+            "notes": "W\u00e4hrend den \u00d6ffnungszeiten",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 32,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4966338",
+            "longitude": "7.7208995",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Frenkend\u00f6rferstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich EG",
+            "notes": "Nur w\u00e4hrend den B\u00fcrozeiten",
+            "responsible": "TBA/ZID",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 33,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1923,
+            "latitude": "47.4396277",
+            "longitude": "7.9094674",
+            "pc": 4493,
+            "location": "Wenslingen",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "AED steht rechtsseitig an der Wand im Feuerwehrmagazin, Zugangshilfe beachten",
+            "notes": "Keine",
+            "responsible": "Gemeinde Wenslingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 34,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1924,
+            "latitude": "47.4323369",
+            "longitude": "7.9340555",
+            "pc": 4494,
+            "location": "Oltingen",
+            "address": "Hauptstrassse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Ehemalige K\u00e4serei, im Vorraum zu den Tiefk\u00fchlf\u00e4chern.",
+            "notes": "",
+            "responsible": "Gemeinde Oltingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 35,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1875,
+            "latitude": "47.5056508",
+            "longitude": "7.730985",
+            "pc": 4414,
+            "location": "F\u00fcllinsdorf",
+            "address": "Mitteldorfstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingang Gemeindeverwaltung",
+            "notes": "W\u00e4hrend der \u00d6ffnungszeiten",
+            "responsible": "Gemeinde F\u00fcllinsdorf; Sidler Kurt",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 36,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1921,
+            "latitude": "47.3935352",
+            "longitude": "7.8857696",
+            "pc": 4469,
+            "location": "Anwil",
+            "address": "Schulweg 79, Schulhaus und Mehrzweckhalle",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Zugang \u00fcber Schulhausplatz zu Fuss oder mit Zweirad m\u00f6glich",
+            "notes": "Frei zug\u00e4nglich",
+            "responsible": "Gemeinde Anwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 37,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1921,
+            "latitude": "47.4497875",
+            "longitude": "7.9394103",
+            "pc": 4469,
+            "location": "Anwil",
+            "address": "Hauptstrasse 13, Restaurant J\u00e4gerst\u00fcbli",
+            "canton": "Basel-Landschaft",
+            "location_descr": "frei zug\u00e4nglich",
+            "notes": "",
+            "responsible": "Gemeinde Anwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 38,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5526962",
+            "longitude": "7.5461855",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Baslerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der Porte melden",
+            "notes": "W\u00e4hrend der \u00d6ffnungszeiten der Gemeindeverwaltung: \nMo, Mi + Fr 08:00 - 11:45 und 14:00 bis 17:00 Uhr\nDi + Do 08:00 - 11:45 Uhr",
+            "responsible": "Gemeindeverwaltung Allschwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 39,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1908,
+            "latitude": "47.4491073",
+            "longitude": "7.8071821",
+            "pc": 4455,
+            "location": "Zunzgen",
+            "address": "Alte Landstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich Treppenhaus",
+            "notes": "",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 40,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1800,
+            "latitude": "47.5052101",
+            "longitude": "7.5140161",
+            "pc": 4105,
+            "location": "Schl\u00f6ssli Biel-Benken",
+            "address": "M\u00fchlegasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Wand, Eingangsbereich",
+            "notes": "Zugang zum Schl\u00f6ssli nur w\u00e4hrend Spielgruppenbetrieb oder wenn dieses vermietet ist.",
+            "responsible": "Gemeindeverwaltung Biel-Benken",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 41,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1880,
+            "latitude": "47.447436",
+            "longitude": "7.6973411",
+            "pc": 4419,
+            "location": "Lupsingen",
+            "address": "Liestalerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "im Zwischeneingang der MZH",
+            "notes": "nur w\u00e4hrend dem Schulbetrieb oder bei Veranstaltungen",
+            "responsible": "Einwohnergemeinde Lupsingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 42,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1801,
+            "latitude": "47.4995923",
+            "longitude": "7.5506359",
+            "pc": 4106,
+            "location": "Therwil",
+            "address": "Schulgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "99er-Sporthalle, nach der Eingangst\u00fcr im Foyer rechts",
+            "notes": "\u00f6ffentliches Geb\u00e4ude, \u00fcber Nacht nicht zug\u00e4nglich",
+            "responsible": "Gemeinde Therwil\nBahnhofstrasse 33\n4106 Therwil\n061 725 21 21",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 43,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1801,
+            "latitude": "47.4983077",
+            "longitude": "7.558198",
+            "pc": 4106,
+            "location": "Therwil",
+            "address": "Bahnhofstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Mehrzweckhalle beim Bahnhofschulhaus, nach Eingangst\u00fcr im Foyer rechts",
+            "notes": "\u00fcber Nacht geschlossen",
+            "responsible": "Gemeinde Therwil\nBahnhofstrasse 33\n4106 Therwil\n061 725 21 21",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 44,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1876,
+            "latitude": "47.4737116",
+            "longitude": "7.75938",
+            "pc": 4415,
+            "location": "Lausen",
+            "address": "Grammontstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gemeindehaus, aussen am Geb\u00e4ude, im Parterre, neben dem Bancomat der Basellandschaftlichen Kantonalbank",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Lausen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 45,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1910,
+            "latitude": "47.4129908",
+            "longitude": "7.8118551",
+            "pc": 4457,
+            "location": "Diegten",
+            "address": "K\u00e4nerkinderstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Mehrzweckhalle Diegten, ausserhalb der K\u00fcche, beim Eingang, oberhalb der Treppe.",
+            "notes": "",
+            "responsible": "Gemeindeverwaltung Diegten",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 46,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1870,
+            "latitude": "47.5009867",
+            "longitude": "7.7203943",
+            "pc": 4402,
+            "location": "Frenkendorf",
+            "address": "Parkstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Erdgeschoss, rechts neben Lift",
+            "notes": "Mo - Fr 8-17 Uhr",
+            "responsible": "Amt f\u00fcr Migration, SID",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 47,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5193694",
+            "longitude": "7.6124529",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Schulackerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang Verwaltung\nneben dem Empfang an der Wand",
+            "notes": "w\u00e4hrend B\u00fcrozeiten \u00f6ffentlich zug\u00e4nglich",
+            "responsible": "Gemeinde M\u00fcnchenstein",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 48,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.52046",
+            "longitude": "7.616585",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Loogstrasse, Kuspo",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang Foyer, links an der Wand",
+            "notes": "nur bei Anl\u00e4ssen zug\u00e4nglich",
+            "responsible": "Gemeinde M\u00fcnchenstein",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 49,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5227628",
+            "longitude": "7.6460009",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Kirchplatz",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangshalle links hinter der Treppe 2. T\u00fcr oder an einem Schalter  melden.",
+            "notes": "\u00d6ffnungszeiten Gemeinde Mo - Fr 9 - 11 und 14 - 16* Uhr, Mittwoch bis 18.30 Uhr",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 50,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5229633",
+            "longitude": "7.6455532",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gesch\u00e4ftshaus, 1.OG im Gang/Treppenhaus\noder wenden Sie sich an eine/n Schalter/Abteiung.",
+            "notes": "\u00d6ffnungszeiten Gemeinde Mo - Fr  9 - 11 und 14 - 16, Mittwoch bis 18.30 Uhr",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 51,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1826,
+            "latitude": "47.4514165",
+            "longitude": "7.6070558",
+            "pc": 4202,
+            "location": "Duggingen",
+            "address": "Oberdorf",
+            "canton": "Basel-Landschaft",
+            "location_descr": "B\u00fcro Einwohnerkontrolle",
+            "notes": "\u00d6ffnungszeiten Gemeinde",
+            "responsible": "Gemeinde Duggingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 52,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1826,
+            "latitude": "47.4498811",
+            "longitude": "7.6077201",
+            "pc": 4202,
+            "location": "Duggingen",
+            "address": "Gillmattenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteinang Gang rechts",
+            "notes": "\u00d6ffnungszeiten",
+            "responsible": "Gemeinde Duggingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 53,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1826,
+            "latitude": "47.4531004",
+            "longitude": "7.6050115",
+            "pc": 4202,
+            "location": "Duggingen",
+            "address": "Aeschstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Lehrerzimmer",
+            "notes": "\u00d6ffnungszeiten Schulhaus",
+            "responsible": "Gemeinde Duggingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 54,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3842515",
+            "longitude": "7.748723",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Vor der T\u00fcr zum Eingang zur Turnhalle (rechts)",
+            "notes": "",
+            "responsible": "Einwohnergemeinde Waldenburg\nBruno Fl\u00fcck, Abwart",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 55,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3741037",
+            "longitude": "7.7467352",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Alte Hauensteinstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Sommer w\u00e4hrend Schwimmbadsaison vor dem B\u00fcro Badmeister",
+            "notes": "Defibrilator nur im Sommer (Mitte Mai - Mitte September) zug\u00e4nglich. Im Winter im B\u00fcro Badmeister",
+            "responsible": "Einwohnergemeinde Waldenburg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 56,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1799,
+            "latitude": "47.5154819",
+            "longitude": "7.5533243",
+            "pc": 4104,
+            "location": "Oberwil",
+            "address": "Im Thomasgarten",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Nur w\u00e4hrend Schulbetrieb ge\u00f6ffnet, 08.00 - 12.00 Uhr garantiert offen",
+            "notes": "Wochentags von 8.00 - 12.00 Uhr w\u00e4hrend Schulbetrieb ge\u00f6ffnet, ansonsten geschlossen",
+            "responsible": "Gemeinde Oberwil\nHauptstrasse 24\n4104 Oberwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 57,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1799,
+            "latitude": "47.51473",
+            "longitude": "7.5560731",
+            "pc": 4104,
+            "location": "Oberwil",
+            "address": "Schulstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "W\u00e4hrend Schulbetrieb von 08.00 - 12.00 Uhr ge\u00f6ffnet",
+            "notes": "Nur w\u00e4hrend Schulbetrieb ge\u00f6ffnet",
+            "responsible": "Gemeinde Oberwil\nHauptstrasse 24\n4104 Oberwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 58,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1799,
+            "latitude": "47.5107651",
+            "longitude": "7.5573098",
+            "pc": 4104,
+            "location": "Oberwil",
+            "address": "S\u00e4gestrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "\u00d6ffnungszeiten Hallenbad",
+            "notes": "Montag - Freitag 08.00 - 21.30 h\nSamstag 08.00 - 18.00 Uhr \nSonntag 09.00 - 17.00 Uhr (Oktober bis M\u00e4rz)\n10.00 - 16.00 Uhr (April bis September)",
+            "responsible": "Gemeinde Oberwil\nHauptstrasse 24\n4104 Oberwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 59,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5535418",
+            "longitude": "7.5532524",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Baslerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Bitte im Sekretariat melden (Eingang links Richtung Basel vom Haupteingang)",
+            "notes": "W\u00e4hrend den \u00d6ffnungszeiten des Sekretariats:\nMontag, 9 - 12, 14 - 17 Uhr\nDienstag, Donnerstag und Freitag, 9 - 12 Uhr",
+            "responsible": "Evangelisch-reformierte Kirchgemeinde Allschwil-Sch\u00f6nenbuch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 60,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1898,
+            "latitude": "47.4238558",
+            "longitude": "7.8416253",
+            "pc": 4443,
+            "location": "Wittinsburg",
+            "address": "Unterdorfstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingang zum Geburtshaus, unten an der Treppe. F\u00fcr zus\u00e4tzliche medizinische Hilfe beim Geburtshaus klingeln. Wir stellen auch einen Beatmungsbeutel zur Verf\u00fcgung.",
+            "notes": "keine",
+            "responsible": "Geburtshaus ambra, Franziska Zumbrunn",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 61,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3868197",
+            "longitude": "7.7491533",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "Waldenburgerbahn AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 62,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5194367",
+            "longitude": "7.6956194",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Oberemattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen am KSZ Pratteln, rechts vom Eingang Sporthallen",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 63,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5190794",
+            "longitude": "7.6819693",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Wartenbergstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen am Schulhaus Aegelmatt, von Muttenzerstrasse her, Pfosten rechts",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 64,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5212249",
+            "longitude": "7.7043511",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Gehrenackerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen beim MIGROS Partner Gehrenacker, links um die Ecke bei der Sammelstelle",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 65,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1893,
+            "latitude": "47.3938765",
+            "longitude": "7.7516531",
+            "pc": 4436,
+            "location": "Oberdorf",
+            "address": "Dorfmattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Eingang der Gemeindeverwaltung",
+            "notes": "keine",
+            "responsible": "Gemeinde Oberdorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 65,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1892,
+            "latitude": "47.3938765",
+            "longitude": "7.7516531",
+            "pc": 4436,
+            "location": "Oberdorf",
+            "address": "Dorfmattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Eingang der Gemeindeverwaltung",
+            "notes": "keine",
+            "responsible": "Gemeinde Oberdorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 66,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.4574436",
+            "longitude": "7.8086785",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Renggenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Das Ger\u00e4t ist im Eingangsbereich zum Restaurant.",
+            "notes": "Das Ger\u00e4t ist w\u00e4hrend den wechselnden \u00d6ffnungszeiten der Kunsteisbahn zug\u00e4nglich.",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 67,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5450996",
+            "longitude": "7.5522587",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Binningerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Empfang der Firma SKAN",
+            "notes": "Zu B\u00fcrozeiten",
+            "responsible": "Firma SKAN AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 68,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1831,
+            "latitude": "47.3938437",
+            "longitude": "7.6192516",
+            "pc": 4208,
+            "location": "Nunningen",
+            "address": "Kleine Seite",
+            "canton": "Solothurn",
+            "location_descr": "In der Raiffeisen Filiale beim Bancomat",
+            "notes": "",
+            "responsible": "Andre Gasser oder Tom Betz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 69,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1146,
+            "latitude": "47.4342519",
+            "longitude": "7.3394864",
+            "pc": 2814,
+            "location": "Roggenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der Hauswand",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Roggenburg\nGemeindeverwaltung\nH\u00f6henackerweg 2\n2814 Roggenburg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 70,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1830,
+            "latitude": "47.3992324",
+            "longitude": "7.6553142",
+            "pc": 4207,
+            "location": "Bretzwil",
+            "address": "Schulgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangsbereich Gemeindezentrum",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Bretzwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 71,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.525576",
+            "longitude": "7.7051828",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Giebenacherstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Schwimmbad Sandgrube, bei Sportbecken am 3m-Sprungturm",
+            "notes": "nur w\u00e4hrend Badi-\u00d6ffnungszeiten",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 72,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5226363",
+            "longitude": "7.6904546",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "G\u00fcterstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen am Bahnhof Pratteln, Peron 1, rechts neben Kiosk",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 73,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5337388",
+            "longitude": "7.7103529",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "L\u00e4ngistrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen beim SPAR Supermarkt, rechts, bei Sammelstelle",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 74,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4877554",
+            "longitude": "7.5973271",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "K\u00e4genstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Ecolab Nalco  2. Stock im Treppenhaus",
+            "notes": "Nur w\u00e4hrend B\u00fcrozeiten",
+            "responsible": "Ecolab (Schweiz) GmbH",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 75,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5466325",
+            "longitude": "7.5497731",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Binningerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gleich nach Eingangst\u00fcr rechts im EG",
+            "notes": "Zu B\u00fcrozeiten",
+            "responsible": "Firma SKAN AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 76,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4865009",
+            "longitude": "7.729921",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Rheinstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "4. OG, Mittelgang oberhalb Druckger\u00e4t",
+            "notes": "7.30 \u2013 12.00 und 13.30 \u2013 17.00 Uhr",
+            "responsible": "Tiefbauamt Basel-Landschaft",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 77,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4873075",
+            "longitude": "7.6029685",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Fluhstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang Treppenhaus links",
+            "notes": "W\u00e4hrend Arbeitszeit",
+            "responsible": "TBA BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 78,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.4681008",
+            "longitude": "7.7996535",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Netzenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang Tiefbauamt Innenbereich",
+            "notes": "Nur w\u00e4hrend den B\u00fcrozeiten",
+            "responsible": "Kanton Basel-Landschaft\nBau- und Umweldschutzdirektion\nInfrastruktur und Mobilit\u00e4t\nTiefbauamt",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 79,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5198711",
+            "longitude": "7.6944266",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Schlossstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "In der Verwaltung, beim Empfang melden",
+            "notes": "nur w\u00e4hrend \u00d6ffnungszeiten",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 80,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1875,
+            "latitude": "47.5044824",
+            "longitude": "7.7240221",
+            "pc": 4414,
+            "location": "F\u00fcllinsdorf",
+            "address": "Ergolzstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Arztpraxis im EG, Eingang seitlich",
+            "notes": "W\u00e4hrend Praxis\u00f6ffnungszeiten, i.d.R. werktags von 07.30 h bis 14.00 h",
+            "responsible": "Dr. B. Biedermann",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 81,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4857916",
+            "longitude": "7.5949757",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Pfeffingerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "2. OG, Stao Kantine",
+            "notes": "Montag bis Freitag 08.00 Uhr bis 16.45 Uhr, w\u00e4hrend B\u00fcro\u00f6ffnungszeiten",
+            "responsible": "Allpack Group AG, 4153 Reinach",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 82,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1802,
+            "latitude": "47.4824499",
+            "longitude": "7.5506134",
+            "pc": 4107,
+            "location": "Ettingen",
+            "address": "Gempenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Schulhaus Trakt 2\nAussenfassade Haupteingang",
+            "notes": "24/7 zug\u00e4nglich",
+            "responsible": "Einwohnergemeinde Ettingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 83,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1912,
+            "latitude": "47.4641504",
+            "longitude": "7.8564588",
+            "pc": 4460,
+            "location": "Gelterkinden",
+            "address": "Marktgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich der Gemeindeverwaltung",
+            "notes": "W\u00e4hrend den \u00d6ffnungszeiten der Gemeindeverwaltung:\nMo: 09.30 - 11.30 Uhr / 14.00 - 18.30 Uhr\nDi, Mi, Fr: 09.30 - 11.30 Uhr / 14.00 - 16.30 Uhr\nDo: 09.30 - 11.30 Uhr / geschlossen",
+            "responsible": "Einwohnergemeinde Gelterkinden",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 84,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1802,
+            "latitude": "47.4836526",
+            "longitude": "7.5459254",
+            "pc": 4107,
+            "location": "Ettingen",
+            "address": "Bahnweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Tramhaltestelle Bahnhof\nGleich neben dem Billette-Automaten",
+            "notes": "24/7 zug\u00e4nglich",
+            "responsible": "Einwohnergemeinde Ettingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 85,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1870,
+            "latitude": "47.5028154",
+            "longitude": "7.7138825",
+            "pc": 4402,
+            "location": "Frenkendorf",
+            "address": "Kirchgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "in der Kirche, im Sakristei-Raum",
+            "notes": "w\u00e4hrend kirchlichen Anl\u00e4ssen",
+            "responsible": "Ev. ref. Kirchgemeinde Frenkendorf-F\u00fcllinsdorf / Stiftung Kirchengut Liestal",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 86,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4880616",
+            "longitude": "7.7312801",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "M\u00fchlemattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Limitierter Geb\u00e4udezugang - nur mit Personalausweis KSBL",
+            "notes": "W\u00e4hrend der bedienten Zeiten des Empfangs",
+            "responsible": "Direktionsempfang",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 87,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1875,
+            "latitude": "47.507542",
+            "longitude": "7.7285357",
+            "pc": 4414,
+            "location": "F\u00fcllinsdorf",
+            "address": "Friedhofweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "in der Kirche, im Sakristei-Raum",
+            "notes": "w\u00e4hrend kirchlichen Anl\u00e4ssen",
+            "responsible": "Ev. ref. Kirchgemeinde Frenkendorf-F\u00fcllinsdorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 88,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1875,
+            "latitude": "47.4887482",
+            "longitude": "7.61861",
+            "pc": 4414,
+            "location": "Arlesheim",
+            "address": "Bromh\u00fcbelweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "im Haupteingangsbereich des Pflegeheims,  Benutzung beim Empfang oder Restaurant zwingend melden.",
+            "notes": "Zugang eingeschr\u00e4nkt: 7 - 19 Uhr",
+            "responsible": "Stiftung Obesunne",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 89,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3833512",
+            "longitude": "7.7490753",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "2. Stock rechte T\u00fcre",
+            "notes": "zu B\u00fcrozeiten",
+            "responsible": "Tschudin + Heid AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 90,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1852,
+            "latitude": "47.5340531",
+            "longitude": "7.7195173",
+            "pc": 4302,
+            "location": "Augst",
+            "address": "Schulstr",
+            "canton": "Basel-Landschaft",
+            "location_descr": "T\u00fcren teilweise geschlossen",
+            "notes": "Schulzeiten offen",
+            "responsible": "Gemeinde Augst",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 91,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5162513",
+            "longitude": "7.6142889",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Pumpwerkstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "Haupteingangst\u00fcre offen i.d.R. Mo-Fr 06:00-18:00",
+            "responsible": "bc medien ag",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 92,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1917,
+            "latitude": "47.4869566",
+            "longitude": "7.8888496",
+            "pc": 4465,
+            "location": "Hemmiken",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich der Mehrzweckhalle",
+            "notes": "",
+            "responsible": "Einwohnergemeinde Hemmiken\nBuusnerstrasse 3\n4465 Hemmiken",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 93,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5457295",
+            "longitude": "7.5535153",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Stockbrunnenrain",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Die Mitarbeiter der Zentrale werden umgehend die weiteren Vorkehrungen einleiten und das interne Interventionsteam alarmieren.",
+            "notes": "Mo. - Do., 07:30 - 12:00 / 13:00 - 17:00 Uhr\nFr. 07:30 - 13:00 Uhr",
+            "responsible": "St\u00e4ubli Electrical Connectors AG\nStockbrunnenrain 8\n4123 Allschwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 94,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5392256",
+            "longitude": "7.5310042",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Markstallstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Ger\u00e4t befindet sich beim Empfang",
+            "notes": "Zu den B\u00fcrozeiten (08.00 - 12.00 / 14.00 - 17.00)",
+            "responsible": "Stiftung Schweizerische Schule f\u00fcr Blindenf\u00fchrhunde",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 95,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4757721",
+            "longitude": "7.7222061",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Oristalstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hauptgeb\u00e4ude, Haupteingang",
+            "notes": "w\u00e4hrende B\u00fcrozeiten",
+            "responsible": "Amt f\u00fcr Milit\u00e4r und Bev\u00f6lkerungsschutz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 96,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4757721",
+            "longitude": "7.7222061",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Oristalstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hauptgeb\u00e4ude, Eingang Rampe",
+            "notes": "w\u00e4hrend B\u00fcrozeiten",
+            "responsible": "Amt f\u00fcr Milit\u00e4r und Bev\u00f6lkerungsschutz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 97,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4833386",
+            "longitude": "7.7371737",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Kantinenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Dreifachsporthalle, Haupteingang",
+            "notes": "w\u00e4hrend B\u00fcrozeiten",
+            "responsible": "Amt f\u00fcr Milit\u00e4r und Bev\u00f6lkerungsschutz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 98,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1876,
+            "latitude": "47.4741989",
+            "longitude": "7.7635949",
+            "pc": 4415,
+            "location": "Lausen",
+            "address": "Schelligackerweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Mehrzweckhalle Stutz, Parterre, im Korridor rechts",
+            "notes": "zu den \u00d6ffnungszeiten (unregelm\u00e4ssig, h\u00e4ngt vom Trainingsbetrieb ab)",
+            "responsible": "Einwohnergemeinde Lausen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 99,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.519742",
+            "longitude": "7.6136233",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Loogstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Je 1 AED auf Einsatzleiterfahrzeug sowie Tankl\u00f6schfahrzeug.",
+            "notes": "keine",
+            "responsible": "Feuerwehr M\u00fcnchenstein, Hptm Fabian Waldvogel",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 100,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5296954",
+            "longitude": "7.697103",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Netzibodenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingang A80 (Empfang)",
+            "notes": "w\u00e4hrend den Gesch\u00e4ftszeiten",
+            "responsible": "ARA Rhein AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 101,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3868197",
+            "longitude": "7.7491533",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Bei  Postauto Haltestelle unter Perrondach",
+            "notes": "",
+            "responsible": "Baselland Transport AG\nStandort Waldenburg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 102,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1801,
+            "latitude": "47.4995696",
+            "longitude": "7.5569089",
+            "pc": 4106,
+            "location": "Therwil",
+            "address": "Bahnhofstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "an der Hauswand neben dem Ortsplan",
+            "notes": "keine",
+            "responsible": "Gemeinde Therwil\nBahnhofstrasse 33\n4106 Therwil\n061 725 21 21",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 103,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1801,
+            "latitude": "47.4939536",
+            "longitude": "7.556113",
+            "pc": 4106,
+            "location": "Therwil",
+            "address": "K\u00e4nelrain",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage K\u00e4nelboden / an der Aussenwand des Clubhauses",
+            "notes": "keine",
+            "responsible": "Gemeinde Therwil\nBahnhofstrasse 33\n4106 Therwil\n061 725 21 21",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 104,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1801,
+            "latitude": "47.4961158",
+            "longitude": "7.5556052",
+            "pc": 4106,
+            "location": "Therwil",
+            "address": "K\u00e4nelmattweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangsbereich der Musikschule",
+            "notes": "w\u00e4hrend den \u00d6ffnungszeiten der Musikschule",
+            "responsible": "Jugendmusikschule Leimental",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 105,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1815,
+            "latitude": "47.5480836",
+            "longitude": "7.6250422",
+            "pc": 4127,
+            "location": "Birsfelden",
+            "address": "Muttenzerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Bei der Garageneinfahrt innen links an der Wand. Die Garageneinfahrt ist von der Strasse aus leicht nach hinten versetzt.",
+            "notes": "durchgehend zug\u00e4nglich",
+            "responsible": "L\u00fcthi Haustechnik AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 106,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.523997",
+            "longitude": "7.7125306",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Wannenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Tor 5, seitlich am Geb\u00e4ude (im Wannenboden)",
+            "notes": "Werktags 07.00 - 12.00 und 13.00 - 16.00",
+            "responsible": "Systemtech Schneider AG\nRolf Hohler\nSicherheitsbeauftragter",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 107,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.523997",
+            "longitude": "7.7125306",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Wannenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Haupteingang, B\u00fcro (Wannenweg)",
+            "notes": "Werktags 07.00 - 12.00 und 13.00 - 16.00",
+            "responsible": "Schreinerei Schneider AG\nRolf Hohler\nSicherheitsbeauftragter",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 108,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.487082",
+            "longitude": "7.7290234",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Rheinstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang Finanz- und Kirchendirektion",
+            "notes": "Nur w\u00e4hrend B\u00fcrozeiten",
+            "responsible": "Zentrale Informatik",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 109,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4792095",
+            "longitude": "7.592592",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Therwilerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "impulstrain-in ag\nphysiotherapie/medical training\n4 Stock bei Anmeldung/Reception",
+            "notes": "an Werktagen 0700-1900Uhr\nSamstag 0900-1300Uhr\nAllg Feiertage und Sonntage geschlossen\n\u00d6ffnungszeiten k\u00f6nnen vor Feiertagen variieren",
+            "responsible": "impulstrain-in ag",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 110,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4862355",
+            "longitude": "7.6004778",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Seewenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Defibrillator befindet sich in unseren B\u00fcror\u00e4umlichkeiten: Vom B\u00fcroeingang her muss maximal eine T\u00fcr ge\u00f6ffnet werden zur K\u00fcche. Der K\u00fcchenschrank, in welchem sich der Defibrillator befindet, ist mit einem grossen Aufkleber gekennzeichnet.",
+            "notes": "Zugang w\u00e4hrend B\u00fcro-\u00d6ffnungszeiten:\nMo. \u2013 Fr.  08:00 bis 12:00 h\nMo. \u2013 Do. 13:30 bis 17:00 h / Fr. bis 16:00 h",
+            "responsible": "Ridoma AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 111,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4807035",
+            "longitude": "7.577879",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Schlatthofweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich",
+            "notes": "t\u00e4glich von 07:00 bis 22:00",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie Baselland",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 112,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4998067",
+            "longitude": "7.5955205",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Sch\u00f6nenbachstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich rechts",
+            "notes": "Von 7.00-22.00 Uhr",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 113,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4898349",
+            "longitude": "7.5999673",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Bruggstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "im Erdgeschoss, durch den Haupteingang geradeaus bis vor die K\u00fcche laufen, h\u00e4ngt links an der Wand",
+            "notes": "MO-FR  07.00 - 22.00h\nSA-SO  08.00 - 22.00h",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 114,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1794,
+            "latitude": "47.5384197",
+            "longitude": "7.6189269",
+            "pc": 4052,
+            "location": "Basel",
+            "address": "Mittlere Allee",
+            "canton": "Basel-Stadt",
+            "location_descr": "=2.Ger\u00e4t an derselben Adresse, im Gang auf der S\u00fcdseite des Geb\u00e4udes.",
+            "notes": "Mo - Fr 08.00 - 18.00 Uhr",
+            "responsible": "Departement f\u00fcr Sport, Bewegung und Gesundheit",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 115,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1925,
+            "latitude": "47.4171869",
+            "longitude": "7.9078413",
+            "pc": 4495,
+            "location": "Zeglingen",
+            "address": "Wisenstrase",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "Einwohnergemeinde Zeglingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 116,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1884,
+            "latitude": "47.3978812",
+            "longitude": "7.6923874",
+            "pc": 4424,
+            "location": "Arboldswil",
+            "address": "Tittertenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Rechts neben dem Haupteingang der Schule.",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Arboldswil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 117,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4840956",
+            "longitude": "7.7347396",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Rathausstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Zugang von Salzgasse\nAED links im Windfang Eingang Rathaus",
+            "notes": "Mo, Di, Do, Fr 08.00-12.00 / 13.30-16.30\nMi 10.30-18.30",
+            "responsible": "Stadt Liestal",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 118,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1877,
+            "latitude": "47.449794",
+            "longitude": "7.7363524",
+            "pc": 4416,
+            "location": "Bubendorf",
+            "address": "Hintergasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "frei zug\u00e4nglich an Aussenwand Gemeindeverwaltung, 15 Meter rechts von Eingang.",
+            "notes": "---",
+            "responsible": "Einwohnergemeinde Bubendorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 119,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1877,
+            "latitude": "47.4528169",
+            "longitude": "7.7391165",
+            "pc": 4416,
+            "location": "Bubendorf",
+            "address": "Sonneckstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "frei zug\u00e4nglich, rechts von Windfang Haupteingang Sporthalle",
+            "notes": "---",
+            "responsible": "Einwohnergemeinde Bubendorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 120,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1895,
+            "latitude": "47.3500635",
+            "longitude": "7.7684162",
+            "pc": 4438,
+            "location": "Langenbruck",
+            "address": "Kr\u00e4heggweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "die Defigruppe der Feuerwehr muss \u00fcber den Notruf aufgeboten werden",
+            "notes": "",
+            "responsible": "Feuerwehr Langenbruck",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 121,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1872,
+            "latitude": "47.4634271",
+            "longitude": "7.7206551",
+            "pc": 4411,
+            "location": "Seltisberg",
+            "address": "Liestalerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Rechte Geb\u00e4udeseite, beim Hintereingang",
+            "notes": "Keine",
+            "responsible": "Gemeinde Seltisberg, Liestalerstrasse 4, 4411 Seltisberg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 122,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1798,
+            "latitude": "47.522706",
+            "longitude": "7.5679913",
+            "pc": 4103,
+            "location": "Bottmingen",
+            "address": "Burggartenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sanit\u00e4tsraum",
+            "notes": "nur w\u00e4hrend \u00d6ffnungszeiten zug\u00e4nglich",
+            "responsible": "Gartenbad beim Schloss Bottmingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 123,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1798,
+            "latitude": "47.5239232",
+            "longitude": "7.5688312",
+            "pc": 4103,
+            "location": "Bottmingen",
+            "address": "Burggartenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hallenbad, Sanit\u00e4tsraum",
+            "notes": "nur w\u00e4hrend \u00d6ffnungszeiten zug\u00e4nglich",
+            "responsible": "Gemeinde Bottmingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 124,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1815,
+            "latitude": "47.5526087",
+            "longitude": "7.6248977",
+            "pc": 4127,
+            "location": "Birsfelden",
+            "address": "Hardstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich des Haupteinganges (Hochparterre), vis-\u00e0-vis Schalter Stadtb\u00fcro; Standort ausgeschildert",
+            "notes": "Nur w\u00e4hrend \u00d6ffnungszeiten der Gemeindeverwaltung",
+            "responsible": "Gemeinde Birsfelden\nArbeitssicherheit und Gesundheitsschutz\nHardstrasse 21\n4127 Birsfelden",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 125,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1903,
+            "latitude": "47.39791",
+            "longitude": "7.85718",
+            "pc": 4448,
+            "location": "L\u00e4ufelfingen",
+            "address": "Eichhaldenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Neben Eingang MZH",
+            "notes": "07:30 Uhr - 22:00 Uhr",
+            "responsible": "Einwohnergemeinde L\u00e4ufelfingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 126,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5526962",
+            "longitude": "7.5461855",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Baslerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangshalle links beim Lift",
+            "notes": "Mo: 7.00 - 19.00 Uhr / Di: 8.00 -11.45 Uhr / Mi: 8.00 - 11.45, 14.00 - 17.00Uhr / Do: 8.00 - 11.45 Uhr / Fr: 8.00 - 11.45, 14.00 - 17.00 Uhr",
+            "responsible": "Einwohnergemeinde Allschwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 127,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5554573",
+            "longitude": "7.5553098",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Muesmattweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hallenbad beim Bademeister",
+            "notes": "nur w\u00e4hrend \u00d6ffnungszeiten Hallenbad zug\u00e4nglich",
+            "responsible": "Einwohnergemeinde Allschwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 128,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5504864",
+            "longitude": "7.5449795",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Lettenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangshalle beim Saal",
+            "notes": "nur w\u00e4hrend \u00d6ffnungszeiten Schulhauses zug\u00e4nglich",
+            "responsible": "Einwohnergemeinde Allschwil",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 129,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1800,
+            "latitude": "47.5052601",
+            "longitude": "7.5160883",
+            "pc": 4105,
+            "location": "Biel-Benken",
+            "address": "M\u00fchlegasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich des Schl\u00f6ssli",
+            "notes": "so lange die T\u00fcre ge\u00f6ffnet ist",
+            "responsible": "Gemeinde Biel-Benken",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 130,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1870,
+            "latitude": "47.5027885",
+            "longitude": "7.7191242",
+            "pc": 4402,
+            "location": "Frenkendorf",
+            "address": "Bahnweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Zur\u00fcckversetzter Neubau. Beim Empfang am Eingang melden.",
+            "notes": "Montag-Freitag 06:00-23:30\nWochenende und Feiertage 07:00-23:30",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 131,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5140979",
+            "longitude": "7.6226453",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Pfarrgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "EG , Mitarbeiterb\u00fcro",
+            "notes": "",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie , Wohnhaus Vulpun",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 132,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1800,
+            "latitude": "47.510784",
+            "longitude": "7.5256634",
+            "pc": 4105,
+            "location": "Biel-Benken",
+            "address": "In den Kleematten",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Privathaus",
+            "notes": "je nach Anwesenheit",
+            "responsible": "Edwin L\u00fc\u00f6nd",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 133,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1800,
+            "latitude": "47.508307",
+            "longitude": "7.5217664",
+            "pc": 4105,
+            "location": "Biel-Benken",
+            "address": "Friedrich-Oser Strasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Feuerwehrmagazin - FW-Auto Saturn",
+            "notes": "Alarmierung \u00fcber 118",
+            "responsible": "Gemeinde - Feuerwehr Biel-Benken",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 134,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1826,
+            "latitude": "47.4523291",
+            "longitude": "7.6062945",
+            "pc": 4202,
+            "location": "Duggingen",
+            "address": "Kirchstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "Gemeinde Duggingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 135,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5231712",
+            "longitude": "7.6487035",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Breitestrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Besammlungsplatz Friedhof",
+            "notes": "",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 136,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5304802",
+            "longitude": "7.6516511",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Bizenenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Fahrzeughalle Werkhof Gemeinde Muttenz",
+            "notes": "Nur w\u00e4hrend der Arbeitszeit",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 137,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5306307",
+            "longitude": "7.6324097",
+            "pc": 4132,
+            "location": "Gemeinde Muttenz",
+            "address": "Sandgrubenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangsbereich Garderoben Sportplatz Margelacker",
+            "notes": "Nur bei Aktivit\u00e4ten auf dem Sportplatz",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 138,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5306307",
+            "longitude": "7.6324097",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Sandgrubenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingangsbereich Garderoben Sportplatz Margelacker",
+            "notes": "Nur bei Aktivit\u00e4ten auf dem Sportplatz",
+            "responsible": "Gemeinde Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 139,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1880,
+            "latitude": "47.4462047",
+            "longitude": "7.6951697",
+            "pc": 4419,
+            "location": "Lupsingen",
+            "address": "Liestalerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Rechts neben dem Eingang der Gemeindeverwaltung an der nord\u00f6stlichen Fassadenecke.",
+            "notes": "frei zug\u00e4nglich",
+            "responsible": "Einwohnergemeinde Lupsingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 140,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1833,
+            "latitude": "47.4504879",
+            "longitude": "7.5187716",
+            "pc": 4223,
+            "location": "Blauen",
+            "address": "Dorfstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der Aussenwand vom Gemeindehaus (beim ehemaligen FW-Magazin)",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Blauen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 141,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4773637",
+            "longitude": "7.7401904",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Gitterlistrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Foyer (Eingangsbereich) Sporthalle Frenke, vor Treppenabgang rechts in 1.Untergeschoss.",
+            "notes": "Montag-Freitag 05.00 Uhr - 22.00 Uhr\n(Ausgenommen Schulferien und Feiertage)\nAm Wochenende nur w\u00e4hrend Veranstaltungen ge\u00f6ffnet",
+            "responsible": "Stadt Liestal\nAbteilung Sicherheit \nRathausstrasse 36\n4410 Liestal",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 142,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1910,
+            "latitude": "47.4129908",
+            "longitude": "7.8118551",
+            "pc": 4457,
+            "location": "Diegten",
+            "address": "K\u00e4nerkinderstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang Turnhalle, in den ersten OG. gehen, Wand rechts",
+            "notes": "keine bekannte",
+            "responsible": "Gemeinde Diegten",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 143,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1870,
+            "latitude": "47.4987448",
+            "longitude": "7.7181882",
+            "pc": 4402,
+            "location": "Frenkendorf",
+            "address": "B\u00e4chliackerweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "1 im B\u00fcro\n1 in Logistik",
+            "notes": "07.00 - 17.00",
+            "responsible": "Debrunner Acifer AG\nB\u00e4chliackerweg 4\n4402 Frenkendorf",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 144,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1812,
+            "latitude": "47.5364769",
+            "longitude": "7.5014142",
+            "pc": 4124,
+            "location": "Sch\u00f6nenbuch",
+            "address": "Zollstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Mehrzweckhalle",
+            "notes": "Keine",
+            "responsible": "Gemeinde Sch\u00f6nenbuch, Marcel Friederich",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 145,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1847,
+            "latitude": "47.4013784",
+            "longitude": "7.5159352",
+            "pc": 4246,
+            "location": "Wahlen",
+            "address": "Laufenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "Einwohnergemeinde Wahlen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 146,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1847,
+            "latitude": "47.394982",
+            "longitude": "7.506458",
+            "pc": 4246,
+            "location": "Wahlen",
+            "address": "Turnplatzweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "In der Turnhalle",
+            "notes": "Nur zug\u00e4nglich w\u00e4hrend dem Turnbetrieb!",
+            "responsible": "Einwohnergemeinde Wahlen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 147,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.482039",
+            "longitude": "7.7442501",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Milit\u00e4rstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Zwei AED's sind im Sanit\u00e4tsraum des Hallen- und Gartenbad stationiert. \nHaupteingang des Hallenbades benutzen und Kassafrau kontaktieren.",
+            "notes": "nur bei \u00d6ffnung des Hallenbades \nMo-Fr von 06.00-21.00h\nSa+So von 08.00-17.00h",
+            "responsible": "Sport- und Volksbad Gitterli AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 148,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.482039",
+            "longitude": "7.7442501",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Milit\u00e4rstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang Hallenbad. Zwei AED's sind im Sanit\u00e4tsraum des Hallen- und Gartenbades stationiert. Kontaktieren Sie direkt die Kassafrau.",
+            "notes": "\u00d6ffnungszeiten Hallenbad:\nMo-Fr: 06.00-21.00h\nSa+So: 08.00-17.00h",
+            "responsible": "Sport- und Volksbad Gitterli AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 149,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1896,
+            "latitude": "47.4549205",
+            "longitude": "7.8312839",
+            "pc": 4441,
+            "location": "Th\u00fcrnen",
+            "address": "Rebgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "APH Jakobushaus \nHaupteingang, im Heimcaf\u00e9 links",
+            "notes": "21.00 - 07.00h Haupteingang geschlossen, Glocke bet\u00e4tigen.",
+            "responsible": "APH Jakobushaus",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 150,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1811,
+            "latitude": "47.5596971",
+            "longitude": "7.5515722",
+            "pc": 4123,
+            "location": "Allschwil",
+            "address": "Hegenheimermattweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage Bachgraben, Garderobengeb\u00e4ude",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet. Zug\u00e4nglich bei Anwesenheit Platzwart",
+            "responsible": "Sportanlage Bachgraben",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 151,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1797,
+            "latitude": "47.5422015",
+            "longitude": "7.5841153",
+            "pc": 4102,
+            "location": "Binningen",
+            "address": "Margarethenpark",
+            "canton": "Basel-Landschaft",
+            "location_descr": "KEB Margarethen, Kunsteisbahn St. Margarethen Sanit\u00e4t",
+            "notes": "Saisonal verf\u00fcgbar wenn Betrieb ge\u00f6ffnet.Betriebspersonal alarmieren. Ger\u00e4t befindet sich im internen Rettungsrucksack.",
+            "responsible": "KEB Margarethen, Kunsteisbahn St. Margarethen Sanit\u00e4t",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 152,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5351166",
+            "longitude": "7.6096718",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Wien-Strasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Erdgeschoss beim Empfang Magazin",
+            "notes": "06:00 - 16:30 (Mo-Fr)",
+            "responsible": "ETAVIS Kriegel+Schaffner AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 153,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5388161",
+            "longitude": "7.619423",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Grosse Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gartenbad St.Jakob, Gartenbad St. Jakob / Trib\u00fcne\nBetriebspersonal alarmieren. Ger\u00e4t befindet sich im internen Rettungsrucksack.",
+            "notes": "Saisonal verf\u00fcgbar wenn Betrieb ge\u00f6ffnet",
+            "responsible": "Gartenbad St.Jakob, Gartenbad St. Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 154,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5388161",
+            "longitude": "7.619423",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Grosse Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gartenbad St.Jakob, Gartenbad St. Jakob / Fundb\u00fcro.\nBetriebspersonal alarmieren. Ger\u00e4t befindet sich im internen Rettungsrucksack.",
+            "notes": "Saisonal verf\u00fcgbar wenn Betrieb ge\u00f6ffnet",
+            "responsible": "Gartenbad St.Jakob, Gartenbad St. Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 155,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5388161",
+            "longitude": "7.619423",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Grosse Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gartenbad St.Jakob, Gartenbad St. Jakob Schiebetorraum / K\u00e4stli-Geb\u00e4ude.\nBetriebspersonal alarmieren. Ger\u00e4t befindet sich im internen Rettungsrucksack.",
+            "notes": "Saisonal verf\u00fcgbar wenn Betrieb ge\u00f6ffnet",
+            "responsible": "Gartenbad St.Jakob, Gartenbad St. Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 156,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5301898",
+            "longitude": "7.6096073",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Genuastrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Atelier 6 (Einlass \u00fcber Klingel)",
+            "notes": "08:00 - 17:00 (Mo-Fr)",
+            "responsible": "Historisches Museum Basel",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 157,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1794,
+            "latitude": "47.5484185",
+            "longitude": "7.6101654",
+            "pc": 4052,
+            "location": "Basel",
+            "address": "Kleine Allee",
+            "canton": "Basel-Stadt",
+            "location_descr": "Sportanlage St.Jakob, Betriebsgeb\u00e4ude",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet. Zug\u00e4nglich bei Anwesenheit Platzwart",
+            "responsible": "Sportanlage St.Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 158,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5368325",
+            "longitude": "7.6198384",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Grosse Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage St.Jakob, Garderobengeb\u00e4ude A+B",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet. Zug\u00e4nglich bei Anwesenheit Platzwart",
+            "responsible": "Sportanlage St.Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 159,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5181311",
+            "longitude": "7.6200423",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Kleine Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage St.Jakob, Trib\u00fcnengeb\u00e4ude im Leichtathletikstadion EG",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet. Zug\u00e4nglich bei Anwesenheit Platzwart",
+            "responsible": "Sportanlage St.Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 160,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5181311",
+            "longitude": "7.6200423",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Kleine Allee",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage St.Jakob, Trib\u00fcnengeb\u00e4ude im Leichtathletikstadion UG",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet. Zug\u00e4nglich bei Anwesenheit Platzwart",
+            "responsible": "Sportanlage St.Jakob",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 161,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5304886",
+            "longitude": "7.6821125",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Niderfeldstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "2. Etage gegen\u00fcber Caf\u00e9teria",
+            "notes": "07:00-18.00 (Mo.-Fr.)",
+            "responsible": "DHL Freight Terminal Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 162,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4897257",
+            "longitude": "7.5960999",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Sternenhofstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "AMETEK CTS GmbH",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 163,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1797,
+            "latitude": "47.5422015",
+            "longitude": "7.5841153",
+            "pc": 4102,
+            "location": "Binningen",
+            "address": "Margarethenpark",
+            "canton": "Basel-Landschaft",
+            "location_descr": "KEB Margarethen, Kunsteisbahn St. Margarethen, Speakerh\u00e4uschen",
+            "notes": "Saisonal verf\u00fcgbar wenn Betrieb ge\u00f6ffnet.Betriebspersonal alarmieren. Ger\u00e4t befindet sich im internen Rettungsrucksack.",
+            "responsible": "KEB Margarethen, Kunsteisbahn St. Margarethen Sanit\u00e4t",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 164,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1794,
+            "latitude": "47.5384197",
+            "longitude": "7.6189269",
+            "pc": 4052,
+            "location": "Basel",
+            "address": "Mittlere Allee",
+            "canton": "Basel-Stadt",
+            "location_descr": "Eishalle St. Jakob-Arena. Einfahrt Eismaschine zwischen Garage und Eisfeld",
+            "notes": "Ganzj\u00e4hrig verf\u00fcgbar wenn Betrieb ge\u00f6ffnet",
+            "responsible": "Roger Soland",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 165,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1916,
+            "latitude": "47.5252617",
+            "longitude": "7.8472587",
+            "pc": 4464,
+            "location": "Maisprach",
+            "address": "Zeiningerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich des Gemeindezentrums an der linken Wand",
+            "notes": "",
+            "responsible": "Gemeindeverwaltung Maisprach",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 166,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.522261",
+            "longitude": "7.6131403",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "L\u00e4rchenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Mo -Fr 8.00 Uhr - 17.00 Uhr",
+            "notes": "Mo -Fr 8.00 Uhr - 17.00 Uhr",
+            "responsible": "HPZ M\u00fcnchenstein",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 167,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1870,
+            "latitude": "47.5017611",
+            "longitude": "7.7152065",
+            "pc": 4402,
+            "location": "Frenkendorf",
+            "address": "Liesdtalerstrase",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Teamb\u00fcro",
+            "notes": "",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie, R\u00fctihus",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 168,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.498007",
+            "longitude": "7.7251645",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Hammerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Besprechungszimmer 1.OG",
+            "notes": "B\u00fcrozeiten",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie BL, Kunstwerkstatt",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 169,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4871592",
+            "longitude": "7.7327888",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "M\u00fchlemattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "B\u00fcrozeiten",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie BL, Gesch\u00e4ftsstelle",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 170,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4903528",
+            "longitude": "7.7289317",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Eichenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "B\u00fcrozeiten",
+            "responsible": "Verein f\u00fcr Sozialpsychiatrie, Werkplatz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 171,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.463158",
+            "longitude": "7.8153762",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Hauptstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "3. Stock, Praxis Bischofstein",
+            "notes": "W\u00e4hrend der Praxis\u00f6ffnungszeiten",
+            "responsible": "Dr. med. P. Meier",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 172,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4822691",
+            "longitude": "7.731727",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Oristalstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich Schrank",
+            "notes": "w\u00e4hrend Praxis\u00f6ffnungszeiten",
+            "responsible": "Hausarztpraxis Dr. med. F. Friedli und M Richert",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 173,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1843,
+            "latitude": "47.4199253",
+            "longitude": "7.4990525",
+            "pc": 4242,
+            "location": "Laufen",
+            "address": "Hinterfeldstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "jeweils von Montag - Freitag von 07.30-11.30 und 13.00-16.30 Uhr (Praxis\u00f6ffnungszeiten)",
+            "responsible": "Corinne K\u00fcng",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 174,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1894,
+            "latitude": "47.3855604",
+            "longitude": "7.7519701",
+            "pc": 4437,
+            "location": "Waldenburg",
+            "address": "Talweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "In der Arztpraxis Waldenburg (im Schrank des EKG-Zimmers, im Notfallrucksack)",
+            "notes": "Nur w\u00e4hrend \u00d6ffnungszeiten der Praxis",
+            "responsible": "Praxis Waldenburg Dr. A. Fr\u00fch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 175,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5082842",
+            "longitude": "7.6161795",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Tramstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Walzwerkareal Geb\u00e4ude C,  Eingang Empfang / Sekretariat des VSP benutzen.",
+            "notes": "nur w\u00e4hrend den B\u00fcrozeiten",
+            "responsible": "VSP Verein f\u00fcr Sozialpsychiatrie",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 176,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5140979",
+            "longitude": "7.6226453",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Pfarrgasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Teamb\u00fcro EG, bei Betreuung melden.",
+            "notes": "",
+            "responsible": "VSP Verein f\u00fcr Sozialpsychiatrie BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 177,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4898349",
+            "longitude": "7.5999673",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Bruggstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Durch Haupteingang 2 T\u00fcren, vor Eingang Speiseraum links.",
+            "notes": "ab 20.00Uhr via Pikettdienst vor Ort",
+            "responsible": "VSP Verein f\u00fcr Sozialpsychiatrie BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 178,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4998067",
+            "longitude": "7.5955205",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Sch\u00f6nenbachstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang 2 T\u00fcren, rechts an der Wand",
+            "notes": "ab 20.00 Uhr via Pikettdienst ist vor Ort",
+            "responsible": "VSP Verein f\u00fcr Sozialpsychiatrie BL",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 179,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1919,
+            "latitude": "47.4611373",
+            "longitude": "7.9147497",
+            "pc": 4467,
+            "location": "Rothenfluh",
+            "address": "Hirschengasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Gemeindeverwaltung\nEhemalige Telefonkabine\nbeim Haupteingang links",
+            "notes": "",
+            "responsible": "Einwohergemeinde Rothenfluh",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 180,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1927,
+            "latitude": "47.4333567",
+            "longitude": "7.8836958",
+            "pc": 4497,
+            "location": "R\u00fcnenberg",
+            "address": "Schulstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der Hauptstrassen Seite",
+            "notes": "",
+            "responsible": "Gemeinde R\u00fcnenberg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 181,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4871764",
+            "longitude": "7.7259289",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Wiedenhubstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "in der Praxis positioniert.",
+            "notes": "AED ist nur w\u00e4hrend den Praxis\u00f6ffnungszeiten zug\u00e4nglich (Mo-Fr 8-12 und 14-18h).",
+            "responsible": "Dr.med. Renate Fischer",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 182,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4800131",
+            "longitude": "7.7416647",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Kasernenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage/Stadion Gitterli\nNeben Eingang Garderobengeb\u00e4ude Seite Milit\u00e4rstrasse",
+            "notes": "",
+            "responsible": "Stadt Liestal",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 183,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4913588",
+            "longitude": "7.7270673",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Eichenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang Geb\u00e4ude 1a 08-00-17:00 besetzt",
+            "notes": "06:00 -22:00 Mo-Fr  Geb\u00e4ude 1",
+            "responsible": "Cordenpharma, Betriebssanit\u00e4t",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 184,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1871,
+            "latitude": "47.4913588",
+            "longitude": "7.7270673",
+            "pc": 4410,
+            "location": "Liestal",
+            "address": "Eichenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang Geb\u00e4ude 1a 08-00-17:00 besetzt",
+            "notes": "06:00 -22:00 Mo-Fr  Geb\u00e4ude 1",
+            "responsible": "Cordenpharma, Betriebssanit\u00e4t",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 185,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5317132",
+            "longitude": "7.6352577",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "St. Jakob-Strasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Bei Empfang Autohaus Wederich, Don\u00e0 AG melden, Defi in Direktannahme-Raum hinter Empfang",
+            "notes": "Nur w\u00e4hrend \u00d6ffnungszeiten",
+            "responsible": "Autohaus Wederich, Don\u00e0 AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 186,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4867075",
+            "longitude": "7.5972922",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "K\u00e4genstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hinter Haupteingangst\u00fcre\nvon aussen Sichtbar",
+            "notes": "Gewerbliche Betriebszeiten",
+            "responsible": "Bacher AG\nChristoph Janz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 187,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1893,
+            "latitude": "47.3942199",
+            "longitude": "7.7487735",
+            "pc": 4436,
+            "location": "Oberdorf",
+            "address": "Ueli Schadweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "w\u00e4hrend \u00d6ffnungszeiten",
+            "responsible": "Movimento Physio-und Trainingstherapie GmbH",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 187,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1892,
+            "latitude": "47.3942199",
+            "longitude": "7.7487735",
+            "pc": 4436,
+            "location": "Oberdorf",
+            "address": "Ueli Schadweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "w\u00e4hrend \u00d6ffnungszeiten",
+            "responsible": "Movimento Physio-und Trainingstherapie GmbH",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 188,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1818,
+            "latitude": "47.5278111",
+            "longitude": "7.6186951",
+            "pc": 4142,
+            "location": "M\u00fcnchenstein",
+            "address": "Teichweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang, im Windfang links an der Wand",
+            "notes": "Freier Zugang zwischen 07:30Uhr bis 17:00Uhr. Ausserhalb dieser Zeiten hat das anwesende Personal einen Schl\u00fcssel.",
+            "responsible": "Besch\u00e4ftiguns und Wohnheim Dychrain",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 189,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1906,
+            "latitude": "47.4663867",
+            "longitude": "7.7866701",
+            "pc": 4452,
+            "location": "Itingen",
+            "address": "Schulstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "beim Haupteingang zur Mehrzweckhalle",
+            "notes": "keine",
+            "responsible": "Gemeinde Itingen",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 190,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1906,
+            "latitude": "47.467986",
+            "longitude": "7.7764747",
+            "pc": 4452,
+            "location": "Itingen",
+            "address": "Dellenbodenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Aussen beim Haupteingang",
+            "notes": "keine",
+            "responsible": "Schaer Pharma",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 191,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1835,
+            "latitude": "47.4181671",
+            "longitude": "7.5434693",
+            "pc": 4225,
+            "location": "Brislach",
+            "address": "Breitenbachstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Am Geb\u00e4ude der Gemeindeverwaltung, von Aussen erreichbar (ebenso Rollstuhlg\u00e4ngig)",
+            "notes": "keine",
+            "responsible": "Gemeindeverwaltung Brislach",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 192,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.5262197",
+            "longitude": "7.703811",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Giebenacherstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sportanlage Stadion Sandgruben, aussen am Garderobengeb\u00e4ude SO-Ecke, nach Tor im Stadion",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 193,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1817,
+            "latitude": "47.515977",
+            "longitude": "7.7023602",
+            "pc": 4133,
+            "location": "Pratteln",
+            "address": "Erliweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Schulhaus Erlimatt I, Aussentreppe eine Ebene hoch (Niveau 3), links, am ersten Pfosten gedeckter Pausenplatz",
+            "notes": "keine",
+            "responsible": "Einwohnergemeinde Pratteln, Schlossstrasse 34, 4133 Pratteln",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 194,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4881598",
+            "longitude": "7.5947203",
+            "pc": 4153,
+            "location": "Reinach",
+            "address": "Pfeffingerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "\u00dcber die Rampe rechts neben dem B\u00fcrogeb\u00e4ude",
+            "notes": "07.00 - 16.30 Uhr\nMontag - Freitag",
+            "responsible": "Neoperl AG",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 195,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1820,
+            "latitude": "47.4949555",
+            "longitude": "7.6200499",
+            "pc": 4144,
+            "location": "Arlesheim",
+            "address": "Ermitagestrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Neben dem Eingang zum Laden des Werkstar \n24h Zug\u00e4nglicher Kasten",
+            "notes": "",
+            "responsible": "Almas Industries\n0216370230",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 196,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1816,
+            "latitude": "47.5257997",
+            "longitude": "7.6369218",
+            "pc": 4132,
+            "location": "Muttenz",
+            "address": "Baselstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Hallenbad Muttenz beim Bademesieter",
+            "notes": "Nur w\u00e4hrend der \u00d6ffnungszeiten",
+            "responsible": "Hallenbad Muttenz",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 197,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1899,
+            "latitude": "47.424998",
+            "longitude": "7.8491278",
+            "pc": 4444,
+            "location": "R\u00fcmlingen",
+            "address": "hohrainweg 93",
+            "canton": "Basel-Landschaft",
+            "location_descr": "",
+            "notes": "",
+            "responsible": "Gemeinde\nTurnhalle  AED  vor eingangst\u00fcre",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 198,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1925,
+            "latitude": "47.4100421",
+            "longitude": "7.9013421",
+            "pc": 4495,
+            "location": "Zeglingrn",
+            "address": "Wisenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Bei der Mehrzweckhalle",
+            "notes": "",
+            "responsible": "",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 199,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1912,
+            "latitude": "47.4627744",
+            "longitude": "7.8532164",
+            "pc": 4460,
+            "location": "Gelterkinden",
+            "address": "Turnhallenstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Aussenbereich vor dem Haupteingang zur oberen Mehrzweckhalle",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Gelterkinden",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 200,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1912,
+            "latitude": "47.4590147",
+            "longitude": "7.8663251",
+            "pc": 4460,
+            "location": "Gelterkinden",
+            "address": "Lachmattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Hallenbad, bei der Badmeisteraufsicht",
+            "notes": "Zu den \u00d6ffnungszeiten HFG:\nhttps://gelterkinden.ch/de/kultur-und-freizeit/hallen-freibad-gelterkinden/oeffnungszeiten-preise.php",
+            "responsible": "Einwohnergemeinde Gelterkinden",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 201,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1912,
+            "latitude": "47.4599679",
+            "longitude": "7.8595619",
+            "pc": 4460,
+            "location": "Gelterkinden",
+            "address": "Kippweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Fussballplatz Wolfstiege\nEG, im Gang zwischen Clubbeiz und WC-Anlagen",
+            "notes": "W\u00e4hrend dem Spiel- und Trainingsbetrieb des Fc Gelterkinden",
+            "responsible": "Fussballclub Gelterkinden",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 202,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1904,
+            "latitude": "47.4641169",
+            "longitude": "7.8108446",
+            "pc": 4450,
+            "location": "Sissach",
+            "address": "Bahnhofstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "An der rechten Wand beim Hintereingang, Zugang vom Gemeindeparkplatz her.",
+            "notes": "",
+            "responsible": "Gemeindeverwaltung Sissach",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 203,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1851,
+            "latitude": "47.4039216",
+            "longitude": "7.4300017",
+            "pc": 4254,
+            "location": "Liesberg Dorf",
+            "address": "Dorfstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Standort: Neben dem Schulhaus\nfrei zug\u00e4nglich, in beheiztem Aussenkasten",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Liesberg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 204,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1851,
+            "latitude": "47.4024184",
+            "longitude": "7.4253772",
+            "pc": 4254,
+            "location": "Liesberg Dorf",
+            "address": "Seem\u00e4ttliweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Beim Haupteingang zur Seem\u00e4ttlihalle\nfrei zug\u00e4nglich, in beheiztem Aussenkasten",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Liesberg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 205,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1850,
+            "latitude": "47.3954403",
+            "longitude": "7.4215156",
+            "pc": 4253,
+            "location": "Liesberg",
+            "address": "Riederwaldstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Nord-Fassade am Feuerwehrmagazin\nfrei zug\u00e4nglich, in beheiztem Aussenkasten",
+            "notes": "Keine",
+            "responsible": "Einwohnergemeinde Liesberg",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 206,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1913,
+            "latitude": "47.4634087",
+            "longitude": "7.8347069",
+            "pc": 4461,
+            "location": "B\u00f6ckten",
+            "address": "Weiermattstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Sichtbar von Weiermattstrasse, links von Nebeneingang an Fassade montiert",
+            "notes": "keine",
+            "responsible": "Gemeinde B\u00f6ckten",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 207,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1912,
+            "latitude": "47.4614196",
+            "longitude": "7.8504959",
+            "pc": 4460,
+            "location": "Gelterkinden",
+            "address": "Balkenweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Das Ger\u00e4t befindet sich im Parterre, nach Treppe Haupteingang 1. T\u00fcre, links, Pausenzimmer. Hinweis am Schrank.",
+            "notes": "\u00d6ffnungszeiten w\u00e4hrend B\u00fcrostunden. Feuerwehr Gelterkinden hat mit Schl\u00fcssel jederzeit Zugang.",
+            "responsible": "Evelyne Bauer Richter\nInstitutionsleiterin",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 208,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4735592",
+            "longitude": "7.5869681",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Landskronstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Eingang K\u00fcche",
+            "notes": "Bei ge\u00f6ffneter Anlage",
+            "responsible": "Einwohnergemeinde Aesch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 209,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4742892",
+            "longitude": "7.6004604",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Dornacherstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Schulhaus Sch\u00fctzenmatt, \nSockelgeschoss,Trakt D\nZugang Hallenbad/Technik",
+            "notes": "Mo - Fr 07:00 - 21:45 Uhr",
+            "responsible": "Einwohnergemeinde Aesch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 210,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1823,
+            "latitude": "47.4707652",
+            "longitude": "7.5937616",
+            "pc": 4147,
+            "location": "Aesch",
+            "address": "Ettingerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Haupteingang aussen",
+            "notes": "T\u00e4glich 24 h",
+            "responsible": "Einwohnergemeinde Aesch",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 211,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4901286",
+            "longitude": "7.5945946",
+            "pc": 4153,
+            "location": "Reinach BL",
+            "address": "Pfeffingerstrasse",
+            "canton": "Basel-Landschaft",
+            "location_descr": "In der Fahrzeughalle an der hinteren Wand",
+            "notes": "meistens ohne Einschr\u00e4nkung",
+            "responsible": "Gemeinde Reinach Feuerwehr",
+            "user_id": 1
+        }
+    },
+    {
+        "pk": 212,
+        "model": "mainApp.items",
+        "fields": {
+            "type_id": 1,
+            "community_id": 1825,
+            "latitude": "47.4946718",
+            "longitude": "7.6020123",
+            "pc": 4153,
+            "location": "Reinach BL",
+            "address": "M\u00fchlemattweg",
+            "canton": "Basel-Landschaft",
+            "location_descr": "Im Eingangsbereich der Schwimmbades (Kasse)",
+            "notes": "W\u00e4hrend den \u00d6ffnungszeiten des Schwimmbades",
+            "responsible": "Gemeinde Reinach Schwimmbad",
+            "user_id": 1
+        }
+    }
+]
