@@ -35,6 +35,14 @@ class mainView(View):
         return render(request, 'mainApp/index.html', output)
 
 
+@api_view(['GET'])
+def api_root(request, format=None):
+    return Response({
+        'users': reverse('mainApp:user-list'),
+        'items': reverse('mainApp:item-list')
+    })
+
+
 # Handling multiple items
 class ItemList(APIView):
     permission_classes = [permissions.IsAuthenticatedOrReadOnly]
