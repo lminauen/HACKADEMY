@@ -1,0 +1,5 @@
+id,name,modelNr,automatic,guided,compression
+1,basic,1,0,0,0
+2,default,2,1,0,0
+3,zsDefib,3,1,1,0
+4,sanDefib,4,1,1,1

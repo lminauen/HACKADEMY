@@ -1,0 +1,46 @@
+[
+    {
+        "pk": 1,
+        "model": "mainApp.defibModels",
+        "fields": {
+            "name": "basic",
+            "modelNr": 1,
+            "automatic": 0,
+            "guided": 0,
+            "compression": 0
+        }
+    },
+    {
+        "pk": 2,
+        "model": "mainApp.defibModels",
+        "fields": {
+            "name": "default",
+            "modelNr": 2,
+            "automatic": 1,
+            "guided": 0,
+            "compression": 0
+        }
+    },
+    {
+        "pk": 3,
+        "model": "mainApp.defibModels",
+        "fields": {
+            "name": "zsDefib",
+            "modelNr": 3,
+            "automatic": 1,
+            "guided": 1,
+            "compression": 0
+        }
+    },
+    {
+        "pk": 4,
+        "model": "mainApp.defibModels",
+        "fields": {
+            "name": "sanDefib",
+            "modelNr": 4,
+            "automatic": 1,
+            "guided": 1,
+            "compression": 1
+        }
+    }
+]

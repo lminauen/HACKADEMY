@@ -73,9 +73,11 @@ def convert(input, output, modelName):
     f.close()
     fo.close()
 
-convert(input="dummyDefib.csv", output="mainApp/fixtures/items", modelName="mainApp.items")
-convert(input="community_ids.csv", output="mainApp/fixtures/communities", modelName="mainApp.communities")
-convert(input="types.csv", output="mainApp/fixtures/type", modelName="mainApp.type")
-convert(input="data/user.csv", output="mainApp/fixtures/user", modelName="auth.user")
-convert(input="data/userprofileinfo.csv", output="mainApp/fixtures/userprofileinfo", modelName="mainApp.UserProfileInfo")
-#python file
+#convert(input="dummyDefib.csv", output="mainApp/fixtures/items", modelName="mainApp.items")
+#convert(input="community_ids.csv", output="mainApp/fixtures/communities", modelName="mainApp.communities")
+#convert(input="types.csv", output="mainApp/fixtures/type", modelName="mainApp.type")
+#convert(input="data/user.csv", output="mainApp/fixtures/user", modelName="auth.user")
+#convert(input="data/userprofileinfo.csv", output="mainApp/fixtures/userprofileinfo", modelName="mainApp.UserProfileInfo")
+#convert(input="data/attributesdefib.csv", output="mainApp/fixtures/attributesdefib", modelName="mainApp.attributesDefib")
+#convert(input="data/defibmodels.csv", output="mainApp/fixtures/defibmodels", modelName="mainApp.defibModels")
+convert(input="data/communityinfo.csv", output="mainApp/fixtures/communityinfo", modelName="mainApp.communityinfo")
