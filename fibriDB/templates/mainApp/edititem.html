@@ -6,6 +6,11 @@
       <h1>Add Defibrillator-Location</h1>
       {% if user.is_authenticated %}
           <h2>Welcome {{ user.username }}!</h2>
+          <form method="POST" enctype="multipart/form-data">
+          {% csrf_token %}
+          {{ item_form.as_p }}
+          <input type="submit" name="" value="Submit">
+          </form>
       {% else %}
           <h2>Please register to add locations!</h2>
       {% endif %}

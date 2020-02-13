@@ -26,6 +26,8 @@ class communities(models.Model):
     name = models.CharField(max_length=100)
     canton = models.CharField(max_length=100)
 
+    def __str__(self):
+        return self.name
 
 class communityinfo(models.Model):
     postalCode = models.IntegerField()
@@ -37,6 +39,9 @@ class type(models.Model):
                                      ('sos', 'SOS Telephone')),
                             default='defib',
                             max_length=100)
+
+    def __str__(self):
+        return self.name
 
 
 class items(models.Model):

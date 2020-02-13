@@ -194,18 +194,14 @@ def edit_profile(request):
 @login_required
 def edit_item(request):
     if request.method == 'POST':
-        form = forms.UserForm(request.POST, instance=request.user)
-        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+        form = forms.ItemForm(request.POST, instance=request.items)
 
-        if form.is_valid() and profile_form.is_valid():
-            user_form = form.save()
-            custom_form = profile_form.save(False)
-            custom_form.user = user_form
-            custom_form.save()
+        if form.is_valid():
+            item_form = form.save()
             return redirect('mainApp:editprofile')
     else:
         form = forms.ItemForm(instance=request.user)
         args = {}
         # args.update(csrf(request))
         args['form'] = form
-        return render(request, '../templates/mainApp/edititem.html', args)
+        return render(request, '../templates/mainApp/edititem.html', {'item_form': items, 'item_form': form})

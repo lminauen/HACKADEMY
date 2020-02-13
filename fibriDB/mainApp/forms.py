@@ -28,8 +28,7 @@ class EditProfileForm(forms.ModelForm):
             )
 
 class ItemForm(forms.ModelForm):
-    class Meta:
+    class Meta():
         model = items
-        fields = (
-                'id',
-        )
+        fields = ('__all__')
+        exclude = ['user']
