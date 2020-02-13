@@ -12,6 +12,13 @@ class ItemsSerializer(serializers.ModelSerializer):
         fields = ['id', 'user', 'type', 'community', 'pc', 'longitude', 'latitude']
 
 
+class NearestItemSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = items
+        fields = ['id', 'type', 'longitude', 'latitude']
+
+
 class UserSerializer(serializers.ModelSerializer):
     items = serializers.PrimaryKeyRelatedField(many=True, queryset=items.objects.all())
 

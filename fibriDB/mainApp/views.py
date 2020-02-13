@@ -1,9 +1,15 @@
+# Extra Imports for the Login and Logout Capabilities
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
-from django.shortcuts import render
+from django.http import HttpResponse
+from django.shortcuts import render, render_to_response
+from django.template import RequestContext
+from django.urls import reverse
+from django.views.decorators.csrf import csrf_exempt
 from django.views.generic import View
 from rest_framework import permissions
-from rest_framework import renderers
 from rest_framework import status, generics
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
@@ -13,14 +19,8 @@ from rest_framework.views import APIView
 from mainApp import forms
 from mainApp.models import items
 from mainApp.permissions import IsCreatorOrReadOnly
-from mainApp.serializers import ItemsSerializer, UserSerializer
+from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
 
-# Extra Imports for the Login and Logout Capabilities
-from django.contrib.auth import authenticate, login, logout
-from django.http import HttpResponseRedirect, HttpResponse
-from django.urls import reverse
-from django.contrib.auth.decorators import login_required
-from django.views.decorators.csrf import csrf_exempt
 
 # Create your views here.
 def index(request):
@@ -87,6 +87,21 @@ class ItemDetail(APIView):
         item = self.get_object(pk)
         item.delete()  # Delete the item from the DB
         return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+def nearest_items(request):
+    type = request.GET.get('type')
+    number = request.GET.get('number')
+    lat = request.GET.get('lat')
+    long = request.GET.get('long')
+
+    context = {
+        'type': type,
+        'number': number,
+        'lat': lat,
+        'long': long,
+    }
+    return render_to_response('mainApp/callback.html', context)
 
 
 class UserList(generics.ListAPIView):
