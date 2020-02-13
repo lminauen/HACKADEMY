@@ -47,12 +47,9 @@ class ItemList(APIView):
     def post(self, request, format=None):
         serializer = ItemsSerializer(data=request.data)  # Serialize the received items with the defined attributes
         if serializer.is_valid():
-            serializer.save()  # Save the received items to DB
+            serializer.save(user=self.request.user)  # Save the received items to DB
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
-    def perform_create(self, serializer):
-        serializer.save(user=self.request.user)
 
 
 # Handling a single item

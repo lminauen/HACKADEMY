@@ -5,7 +5,7 @@ from mainApp.models import items
 
 
 class ItemsSerializer(serializers.ModelSerializer):
-    user = serializers.ReadOnlyField(source='user.username')
+    user = serializers.ReadOnlyField(source='user.id')
 
     class Meta:
         model = items
