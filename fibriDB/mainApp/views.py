@@ -91,23 +91,6 @@ class UserDetail(generics.RetrieveAPIView):
     serializer_class = UserSerializer
 
 
-@api_view(['GET'])
-def api_root(request, format=None):
-    return Response({
-        'users': reverse('user-list', request=request, format=format),
-        'items': reverse('item-list', request=request, format=format)
-    })
-
-
-class ItemHighlight(generics.GenericAPIView):
-    queryset = items.objects.all()
-    renderer_classes = [renderers.StaticHTMLRenderer]
-
-    def get(self, request, *args, **kwargs):
-        item = self.get_object()
-        return Response(item.type)
-
-
 @login_required
 def user_logout(request):
     logout(request)
