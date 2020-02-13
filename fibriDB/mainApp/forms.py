@@ -25,7 +25,7 @@ class EditProfileForm(forms.ModelForm):
                 'first_name',
                 'last_name'
             )
-# 
-# class ItemForm(forms.ModelForm):
-#     longitude = forms.IntegerField(widget=forms.MapIn)
-#
+
+class ItemForm(forms.ModelForm):
+    longitude = forms.IntegerField(widget=forms.MapIn())
+

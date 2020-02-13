@@ -8,7 +8,7 @@ from rest_framework import status, generics
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.reverse import reverse
-from rest_framework.views import APIView
+from rest_framework.views import APIViews
 
 from mainApp import forms
 from mainApp.models import items
@@ -183,21 +183,21 @@ def edit_profile(request):
         return render(request, 'accounts/editprofile.html', args)
 
 
-# @login_required
-# def edit_item(request):
-#     if request.method == 'POST':
-#         form = forms.UserForm(request.POST, instance=request.user)
-#         profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
-#
-#         if form.is_valid() and profile_form.is_valid():
-#             user_form = form.save()
-#             custom_form = profile_form.save(False)
-#             custom_form.user = user_form
-#             custom_form.save()
-#             return redirect('mainApp:editprofile')
-#     else:
-#         form = forms.ItemForm(instance=request.user)
-#         args = {}
-#         # args.update(csrf(request))
-#         args['form'] = form
-#         return render(request, 'accounts/edititem.html', args)
+@login_required
+def edit_item(request):
+    if request.method == 'POST':
+        form = forms.UserForm(request.POST, instance=request.user)
+        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+
+        if form.is_valid() and profile_form.is_valid():
+            user_form = form.save()
+            custom_form = profile_form.save(False)
+            custom_form.user = user_form
+            custom_form.save()
+            return redirect('mainApp:editprofile')
+    else:
+        form = forms.ItemForm(instance=request.user)
+        args = {}
+        # args.update(csrf(request))
+        args['form'] = form
+        return render(request, 'accounts/edititem.html', args)

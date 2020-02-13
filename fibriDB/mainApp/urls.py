@@ -15,7 +15,7 @@ urlpatterns = [
     path('api/users/', views.UserList.as_view()),
     path('api/users/<int:pk>/', views.UserDetail.as_view()),
     url('user', views.userAccount.as_view(), name='user'),
-    # url('item', views.edit_item, name='item'),
+    url('item', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),
     url(r'^register/$', views.register, name='register'),
     url(r'^editprofile/$', views.edit_profile, name='editprofile'),
