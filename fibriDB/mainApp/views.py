@@ -17,7 +17,7 @@ from rest_framework.reverse import reverse
 from rest_framework.views import APIView
 
 from mainApp import forms
-from mainApp.models import items
+from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
 
@@ -186,6 +186,38 @@ def user_login(request):
 
 @login_required
 def edit_profile(request):
+    print("I am running")
+    # print(UserProfileInfo.objects.get(pk=request.user.id))
+    # profile = UserProfileInfo.objects.get(pk=request.user.id)
+    # form = forms.UserProfileInfoForm(instance=profile)
+    UserForm = forms.UserForm(instance=request.user)
+    args = {}
+    if request.method == 'POST':
+        print("I AM RETURNING")
+        form = forms.UserForm(request.POST, instance=request.user)
+        if form.is_valid():
+            print("I AM RETURNING")
+            form.save()
+            # profile = UserProfileInfo.objects.get(pk=request.user.id)
+            # form = forms.UserProfileInfoForm(instance=profile)
+            UserForm = forms.UserForm(instance=request.user)
+            # args['form'] = form
+            args['UserForm'] = UserForm
+            print("I AM RETURNING")
+            return render(request, 'mainApp/editprofile.html', args)
+        else:
+
+            return render(request, 'mainApp/editprofile.html')
+    else:
+        # args.update(csrf(request))
+        # args['form'] = form
+        args['UserForm'] = UserForm
+        # args['profile_form'] = profile_form
+        return render(request, 'mainApp/editprofile.html', args)
+
+
+@login_required
+def edit_item(request):
     if request.method == 'POST':
         form = forms.UserForm(request.POST, instance=request.user)
         profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
@@ -197,8 +229,7 @@ def edit_profile(request):
             custom_form.save()
             return redirect('mainApp:editprofile')
     else:
-        form = forms.UserForm(instance=request.user)
-        profile_form = forms.UserProfileInfoForm(instance=request.user.userprofileinfo)
+        form = forms.ItemForm(instance=request.user)
         args = {}
         # args.update(csrf(request))
         args['form'] = form
