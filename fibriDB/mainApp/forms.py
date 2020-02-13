@@ -1,6 +1,8 @@
 from django import forms
 from django.contrib.auth.models import User
 from mainApp.models import UserProfileInfo
+from mainApp.models import items
+from mapwidgets.widgets import GooglePointFieldInlineWidget
 
 
 class UserForm(forms.ModelForm):
@@ -19,7 +21,7 @@ class UserProfileInfoForm(forms.ModelForm):
 
 
 class EditProfileForm(forms.ModelForm):
-    class Meta:
+    class Meta():
         model = User
         fields = (
                 'email',
@@ -28,6 +30,8 @@ class EditProfileForm(forms.ModelForm):
                 'password'
             )
 
-# class ItemForm(forms.ModelForm):
-#     longitude = forms.IntegerField(widget=forms.MapIn())
-
+class ItemForm(forms.ModelForm):
+    class Meta():
+        model = items
+        fields = ('__all__')
+        exclude = ['user']
