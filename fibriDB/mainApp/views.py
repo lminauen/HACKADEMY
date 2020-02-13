@@ -122,9 +122,7 @@ class userAccount(View):
 
 
 def register(request):
-
     registered = False
-
     if request.method == "POST":
         user_form = forms.UserForm(data=request.POST)
         profile_form = forms.UserProfileInfoForm(data=request.POST)
