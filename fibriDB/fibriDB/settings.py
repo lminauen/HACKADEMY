@@ -80,6 +80,18 @@ TEMPLATES = [
 WSGI_APPLICATION = 'fibriDB.wsgi.application'
 
 
+#Google Maps Widget
+MAP_WIDGETS = {
+    "GooglePointFieldWidget": (
+        ("zoom", 15),
+        ("mapCenterLocationName", "bern"),
+        ("GooglePlaceAutocompleteOptions", {'componentRestrictions': {'country': 'uk'}}),
+        ("markerFitZoom", 12),
+    ),
+    "GOOGLE_MAP_API_KEY": "AIzaSyDaUkLIbv6u2BMqxvPwgh1-CfETMHDzDmo"
+}
+
+
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
