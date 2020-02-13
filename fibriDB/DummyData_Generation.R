@@ -48,8 +48,15 @@ users <- users %>% mutate(username = paste(str_replace(id_list$Ort, " ", "_"), s
   mutate(language = language, street = streetlist, PLZ = pc)
 rm(pc, language, streetlist, streetnames, i)
 
-write_csv(users, "userData.csv")
 
+userData <- data.frame(users$ID, rep("12345", nrow(users)), users$username, users$mail)
+colnames(userData) <- c("id", "password", "username", "email")
+
+write_csv(userData, "user.csv")
+
+userProfileInfo <- data.frame(users$ID, users$PLZ, users$street, users$language, users$ID)
+colnames(userProfileInfo) <- c("id", "postalCode", "street", "language", "user_id")
+write_csv(userProfileInfo, "userprofileinfo.csv")
 
 #Defibrillator Data
 
