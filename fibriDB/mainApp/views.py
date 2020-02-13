@@ -91,23 +91,6 @@ class UserDetail(generics.RetrieveAPIView):
     serializer_class = UserSerializer
 
 
-@api_view(['GET'])
-def api_root(request, format=None):
-    return Response({
-        'users': reverse('user-list', request=request, format=format),
-        'items': reverse('item-list', request=request, format=format)
-    })
-
-
-class ItemHighlight(generics.GenericAPIView):
-    queryset = items.objects.all()
-    renderer_classes = [renderers.StaticHTMLRenderer]
-
-    def get(self, request, *args, **kwargs):
-        item = self.get_object()
-        return Response(item.type)
-
-
 @login_required
 def user_logout(request):
     logout(request)
@@ -122,9 +105,7 @@ class userAccount(View):
 
 
 def register(request):
-
     registered = False
-
     if request.method == "POST":
         user_form = forms.UserForm(data=request.POST)
         profile_form = forms.UserProfileInfoForm(data=request.POST)
@@ -178,3 +159,45 @@ def user_login(request):
             return HttpResponse('Invalid login details supplied')
     else:
         return render(request, 'fibriDB/login.html', {})
+
+
+@login_required
+def edit_profile(request):
+    if request.method == 'POST':
+        form = forms.UserForm(request.POST, instance=request.user)
+        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+
+        if form.is_valid() and profile_form.is_valid():
+            user_form = form.save()
+            custom_form = profile_form.save(False)
+            custom_form.user = user_form
+            custom_form.save()
+            return redirect('mainApp:editprofile')
+    else:
+        form = forms.UserForm(instance=request.user)
+        profile_form = forms.UserProfileInfoForm(instance=request.user.userprofileinfo)
+        args = {}
+        # args.update(csrf(request))
+        args['form'] = form
+        args['profile_form'] = profile_form
+        return render(request, 'accounts/editprofile.html', args)
+
+
+# @login_required
+# def edit_item(request):
+#     if request.method == 'POST':
+#         form = forms.UserForm(request.POST, instance=request.user)
+#         profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+#
+#         if form.is_valid() and profile_form.is_valid():
+#             user_form = form.save()
+#             custom_form = profile_form.save(False)
+#             custom_form.user = user_form
+#             custom_form.save()
+#             return redirect('mainApp:editprofile')
+#     else:
+#         form = forms.ItemForm(instance=request.user)
+#         args = {}
+#         # args.update(csrf(request))
+#         args['form'] = form
+#         return render(request, 'accounts/edititem.html', args)
