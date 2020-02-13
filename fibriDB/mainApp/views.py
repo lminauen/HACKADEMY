@@ -8,10 +8,10 @@ from rest_framework import status, generics
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.reverse import reverse
-from rest_framework.views import APIViews
+from rest_framework.views import APIView
 
 from mainApp import forms
-from mainApp.models import items
+from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer
 
@@ -171,24 +171,34 @@ def user_login(request):
 
 @login_required
 def edit_profile(request):
+    print("I am running")
+    # print(UserProfileInfo.objects.get(pk=request.user.id))
+    # profile = UserProfileInfo.objects.get(pk=request.user.id)
+    # form = forms.UserProfileInfoForm(instance=profile)
+    UserForm = forms.UserForm(instance=request.user)
+    args = {}
     if request.method == 'POST':
+        print("I AM RETURNING")
         form = forms.UserForm(request.POST, instance=request.user)
-        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES, instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
+        if form.is_valid():
+            print("I AM RETURNING")
+            form.save()
+            # profile = UserProfileInfo.objects.get(pk=request.user.id)
+            # form = forms.UserProfileInfoForm(instance=profile)
+            UserForm = forms.UserForm(instance=request.user)
+            # args['form'] = form
+            args['UserForm'] = UserForm
+            print("I AM RETURNING")
+            return render(request, 'mainApp/editprofile.html', args)
+        else:
 
-        if form.is_valid() and profile_form.is_valid():
-            user_form = form.save()
-            custom_form = profile_form.save(False)
-            custom_form.user = user_form
-            custom_form.save()
-            return redirect('mainApp:editprofile')
+            return render(request, 'mainApp/editprofile.html')
     else:
-        form = forms.UserForm(instance=request.user)
-        profile_form = forms.UserProfileInfoForm(instance=request.user.userprofileinfo)
-        args = {}
         # args.update(csrf(request))
-        args['form'] = form
-        args['profile_form'] = profile_form
-        return render(request, 'accounts/editprofile.html', args)
+        # args['form'] = form
+        args['UserForm'] = UserForm
+        # args['profile_form'] = profile_form
+        return render(request, 'mainApp/editprofile.html', args)
 
 
 @login_required

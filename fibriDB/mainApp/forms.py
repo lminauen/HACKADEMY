@@ -14,7 +14,8 @@ class UserForm(forms.ModelForm):
 class UserProfileInfoForm(forms.ModelForm):
     class Meta():
         model = UserProfileInfo
-        fields = ('postalCode', 'street', 'language')
+        fields = ('__all__')
+        exclude = ('user',)
 
 
 class EditProfileForm(forms.ModelForm):
@@ -23,9 +24,10 @@ class EditProfileForm(forms.ModelForm):
         fields = (
                 'email',
                 'first_name',
-                'last_name'
+                'last_name',
+                'password'
             )
 
-class ItemForm(forms.ModelForm):
-    longitude = forms.IntegerField(widget=forms.MapIn())
+# class ItemForm(forms.ModelForm):
+#     longitude = forms.IntegerField(widget=forms.MapIn())
 
