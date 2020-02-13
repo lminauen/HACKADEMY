@@ -20,10 +20,12 @@ from django.contrib.auth import authenticate, login, logout
 from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib.auth.decorators import login_required
+from django.views.decorators.csrf import csrf_exempt
 
 # Create your views here.
 def index(request):
-    return render(request,'mainApp/index.html')
+    return render(request, 'mainApp/index.html', )
+
 
 class mainView(View):
     output = {}
@@ -109,6 +111,12 @@ class ItemHighlight(generics.GenericAPIView):
         return Response(item.type)
 
 
+@login_required
+def user_logout(request):
+    logout(request)
+    return render(request, 'mainApp/index.html', {})
+
+
 class userAccount(View):
     def get(self, request):
         user = forms.UserForm
@@ -116,35 +124,60 @@ class userAccount(View):
         return render(request, 'mainApp/useraccount.html', {'user_form': user, 'profile_form': form})
 
 
-def user_login(request):
+def register(request):
 
-    if request.method == 'POST':
-        # First get the username and password supplied
-        username = request.POST.get('username')
-        password = request.POST.get('password')
-        print(username)
-        print(password)
+    registered = False
 
-        # Django's built-in authentication function:
-        user = authenticate(username=username, password=password)
+    if request.method == "POST":
+        user_form = forms.UserForm(data=request.POST)
+        profile_form = forms.UserProfileInfoForm(data=request.POST)
 
-        # If we have a user
-        if user:
-            #Check it the account is active
-            if user.is_active:
-                # Log the user in.
-                login(request, user)
-                # Send the user back to some page.
-                # In this case their homepage.
-                return HttpResponseRedirect(reverse('mainView'))
-            else:
-                # If account is not active:
-                return HttpResponse("Your account is not active.")
+        if user_form.is_valid and profile_form.is_valid:
+
+            user = user_form.save()
+            user.set_password(user.password)
+            user.save()
+
+            profile = profile_form.save(commit=False)
+            profile.user = user
+
+            if 'profile_pic' in request.FILES:
+                profile.profile_pic = request.FILES['profile_pic']
+
+            profile.save()
+            registered = True
         else:
-            print("Someone tried to login and failed.")
-            print("They used username: {} and password: {}".format(username, password))
-            return HttpResponse("Invalid login details supplied.")
+            print(user_form.errors, profile_form.errors)
 
     else:
-        #Nothing has been provided for username or password.
+        user_form = forms.UserForm()
+        profile_form = forms.UserProfileInfoForm()
+
+    return render(request,'mainApp/registration.html',
+                          {'user_form':user_form,
+                           'profile_form':profile_form,
+                           'registered':registered})
+
+
+
+@csrf_exempt
+def user_login(request):
+
+    if request.method == "POST":
+        username = request.POST.get('username')
+        password = request.POST.get('password')
+
+        user = authenticate(username=username, password=password)
+
+        if user:
+            if user.is_active:
+                login(request, user)
+                return render(request, 'mainApp/index.html', {})
+            else:
+                return HttpResponse('Account not active')
+        else:
+            print('Someone tried to login, but failed miserably')
+            print('Username: {} and password {}'.format(username, password))
+            return HttpResponse('Invalid login details supplied')
+    else:
         return render(request, 'fibriDB/login.html', {})

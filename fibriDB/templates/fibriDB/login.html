@@ -5,12 +5,12 @@
 
       <h1>Please login!</h1>
       <form method="post" action="{% url 'mainApp:login' %}">
+        {% csrf_token %}
         <label for="username">Username:</label>
         <input type="text" name="username" placeholder="Username">
 
         <label for="password"></label>
         <input type="password" name="password">
-        {% csrf_token %}
         <input type="submit" name="" value="Login">
 
       </form>
