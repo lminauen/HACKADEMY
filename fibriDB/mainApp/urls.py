@@ -10,10 +10,12 @@ app_name = 'mainApp'
 
 # URL PATTERNS
 urlpatterns = [
-    path('api/items/', views.ItemList.as_view(), name='api'),
-    path('api/items/<int:pk>/', views.ItemDetail.as_view()),
-    path('api/users/', views.UserList.as_view()),
+    path('api/users/', views.UserList.as_view(), name='user-list'),
     path('api/users/<int:pk>/', views.UserDetail.as_view()),
+    path('api/items/', views.ItemList.as_view(), name='item-list'),
+    path('api/items/<int:pk>/', views.ItemDetail.as_view()),
+    path('api/', views.api_root, name='api'),
+
     url('user', views.userAccount.as_view(), name='user'),
     url('item', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),
