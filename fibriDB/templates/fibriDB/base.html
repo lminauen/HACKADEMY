@@ -15,6 +15,9 @@
 <body>
 
   <div class="main-container">
+    <div class="inner-container">
+      <div class="header">
+        <img src="{% static 'logo-01.svg' %}">
     <div class="menu">
       {# Django Home Link / Admin Link / Register Link #}
       <li><a href="{% url 'mainApp:main' %}">Home</a></li>
@@ -30,10 +33,13 @@
         <li><a href="{% url 'mainApp:register' %}">REGISTER</a></li>
       {% endif %}
     </div>
-    <div class="inner-container">
+    </div>
+    <div class="content">
+
       {% block body_block %}
       <!-- Anything outside of this will be inherited of you extend! -->
       {% endblock %}
+      </div>
     </div>
   </div>
 

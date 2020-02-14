@@ -10,11 +10,30 @@ body {
   overflow: auto;
 }
 
+.header {
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #dbdbdb;
+  display: flex;
+  height: calc(40px + 5vw);
+}
+
+.header img {
+  max-width:100px;
+  float:left;
+  padding:2vw;
+  display:flex;
+}
+
+.content {
+  padding:calc(40px + 2vw);
+  float:left;
+  width:100%;
+}
 .inner-container {
   border-radius:3px;
-  border:1px solid #cdcdcd;
+  border:1px solid #dbdbdb;
   box-shadow:2px 2px 30px rgba(0,0,0,0.1);
-  padding:calc(40px + 2vw);
   float:left;
   width:100%;
   background-color:#FFFFFF;
@@ -26,16 +45,37 @@ body {
   float:left;
   width:100%;
   overflow: auto;
+  display: flex;
+  justify-content: right;
 }
 
 .menu li {
   list-style-type:none;
   display:inline-block;
   overflow: auto;
+  display:flex;
+  align-self:center;
+  transition:all 0.2s ease-out;
+  margin-right:10px;
+  border-radius:3px;
 }
 
+
 .menu li a {
-  padding:20px;
+  padding:1vw;
   font-size:18px;
-  color:rgb(128, 128, 128);
+  color:rgb(166, 166, 166);
+  text-decoration:none;
+}
+
+.menu li:hover {
+  transition:all 0.1s ease-out;
+  box-shadow:5px 5px 20px rgba(0,0,0,0.1);
+  background-color:#00a651;
+  transform:scale(1.01);
+}
+
+.menu li:hover a{
+  transition:all 0.1s ease-out;
+  color:#FFFFFF;
 }

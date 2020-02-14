@@ -1694,21 +1694,5 @@
             "item_id": 212,
             "model_id": 3
         }
-    },
-    {
-        "pk": 213,
-        "model": "mainApp.attributesDefib",
-        "fields": {
-            "item_id": 213,
-            "model_id": 3
-        }
-    },
-    {
-        "pk": 214,
-        "model": "mainApp.attributesDefib",
-        "fields": {
-            "item_id": 214,
-            "model_id": 3
-        }
     }
 ]

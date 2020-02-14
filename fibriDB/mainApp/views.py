@@ -4,7 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
 from django.http import HttpResponse
-from django.shortcuts import render, render_to_response
+from django.shortcuts import render
 from django.template import RequestContext
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
@@ -141,10 +141,6 @@ def register(request):
 
             profile = profile_form.save(commit=False)
             profile.user = user
-
-            if 'profile_pic' in request.FILES:
-                profile.profile_pic = request.FILES['profile_pic']
-
             profile.save()
             registered = True
         else:
@@ -154,10 +150,10 @@ def register(request):
         user_form = forms.UserForm()
         profile_form = forms.UserProfileInfoForm()
 
-    return render(request,'mainApp/registration.html',
-                          {'user_form':user_form,
-                           'profile_form':profile_form,
-                           'registered':registered})
+    return render(request, 'mainApp/registration.html',
+                          {'user_form': user_form,
+                           'profile_form': profile_form,
+                           'registered': registered})
 
 
 
@@ -187,32 +183,47 @@ def user_login(request):
 @login_required
 def edit_profile(request):
     print("I am running")
-    # print(UserProfileInfo.objects.get(pk=request.user.id))
-    # profile = UserProfileInfo.objects.get(pk=request.user.id)
-    # form = forms.UserProfileInfoForm(instance=profile)
+    print(request.user.id)
+    profile = UserProfileInfo.objects.get(pk=request.user.id)
+    form = forms.UserProfileInfoForm(instance=profile)
     UserForm = forms.UserForm(instance=request.user)
     args = {}
     if request.method == 'POST':
         print("I AM RETURNING")
         form = forms.UserForm(request.POST, instance=request.user)
+        profileForm = forms.UserProfileInfoForm(instance=UserProfileInfo.objects.get(pk=request.user.id))
+        print(form.is_valid())
+        print(profileForm.is_valid())
+        print(profileForm.errors)
         if form.is_valid():
             print("I AM RETURNING")
-            form.save()
-            # profile = UserProfileInfo.objects.get(pk=request.user.id)
-            # form = forms.UserProfileInfoForm(instance=profile)
+            user = form.save()
+            user.set_password(user.password)
+            user.save()
+            
+            profile = profileForm.save(commit=False)
+            profile.user = user
+
+            profile.save()
+                        
+            profile = UserProfileInfo.objects.get(pk=request.user.id)
+            form = forms.UserProfileInfoForm(instance=profile)
             UserForm = forms.UserForm(instance=request.user)
-            # args['form'] = form
+            args['profile_form'] = form
             args['UserForm'] = UserForm
             print("I AM RETURNING")
             return render(request, 'mainApp/editprofile.html', args)
         else:
-
+            print(form.errors)
+            print(profileForm.errors)
+            print(profileForm.non_field_errors)
+            print("ERROR")
             return render(request, 'mainApp/editprofile.html')
     else:
         # args.update(csrf(request))
         # args['form'] = form
         args['UserForm'] = UserForm
-        # args['profile_form'] = profile_form
+        args['profile_form'] = form
         return render(request, 'mainApp/editprofile.html', args)
 
 
