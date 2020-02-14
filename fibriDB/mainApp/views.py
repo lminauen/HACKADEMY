@@ -20,6 +20,7 @@ from mainApp import forms
 from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
+import requests
 
 import math
 from decimal import *
