@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+{% extends 'fibriDB/base.html' %}
+{% load static %}
+  {% block body_block %}
+
+      <h1>My items</h1>
+      {% for item in items %}
+      <p>{{ item }}</p>
+      {% endfor %}
+
+  {% endblock body_block %}
+

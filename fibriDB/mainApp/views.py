@@ -281,3 +281,10 @@ def edit_item(request):
         # args.update(csrf(request))
         args['form'] = form
         return render(request, '../templates/mainApp/edititem.html', {'item_form': items, 'item_form': form})
+
+@login_required
+class myItems(View):
+    def get(self, request):
+        myitems = items.objects.all()
+        return render(request, 'accounts/myitems.html', {'items': myitems})
+    

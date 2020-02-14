@@ -46,7 +46,7 @@ body {
   width:100%;
   overflow: auto;
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
 }
 
 .menu li {
@@ -78,4 +78,39 @@ body {
 .menu li:hover a{
   transition:all 0.1s ease-out;
   color:#FFFFFF;
+}
+
+form.login input {
+  padding:10px;
+  margin-right:10px;
+  border-radius:5px;
+  border:1px solid #dbdbdb;
+}
+
+
+form.registration label,
+form.registration input,
+form.registration select {
+  display:block;
+  padding:10px;
+}
+
+form.registration input,
+form.registration select {
+width:100%;
+max-width:400px;
+border-radius:5px;
+border:1px solid #dbdbdb;
+}
+
+form.registration input[type="submit"] {
+  margin-top:30px;
+}
+
+form.registration label {
+  padding-left:0px;
+}
+
+form.registration .helptext {
+  display:none;
 }
