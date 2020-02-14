@@ -21,7 +21,7 @@ urlpatterns = [
     url('user', views.userAccount.as_view(), name='user'),
     url('item', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),
-    path('myitems', views.myItems.as_view(), name='myitems'),
+    # path('myitems', views.myItems.as_view(), name='myitems'),
     url(r'^register/$', views.register, name='register'),
     url('', views.mainView.as_view(), name='main'),
 ]

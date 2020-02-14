@@ -249,7 +249,7 @@ def edit_profile(request):
 @login_required
 def edit_item(request):
     if request.method == 'POST':
-        form = forms.UserForm(request.POST, instance=request.user)
+        form = forms.UserForm(request.POST)
         profile_form = forms.UserProfileInfoForm(request.POST, request.FILES,
                                                  instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
 
@@ -271,10 +271,12 @@ def edit_item(request):
 @login_required
 def edit_item(request):
     if request.method == 'POST':
-        form = forms.ItemForm(request.POST, instance=request.items)
-
+        form = forms.ItemForm(request.POST)
+        print(form)
+        print(request.POST.location)
+        
         if form.is_valid():
-            item_form = form.save()
+            # item_form = form.save()
             return redirect('mainApp:editprofile')
     else:
         form = forms.ItemForm(instance=request.user)

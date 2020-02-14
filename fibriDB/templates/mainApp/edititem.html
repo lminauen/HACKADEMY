@@ -5,7 +5,7 @@
 <h1>Add Defibrillator-Location</h1>
 {% if user.is_authenticated %}
 <h2>Welcome {{ user.username }}!</h2>
-<form method="POST" enctype="multipart/form-data">
+<form class="registration" method="POST" enctype="multipart/form-data">
   {% csrf_token %}
   {{ item_form.as_p }}
   <input id="location" name="location" type="hidden" value="" />
@@ -20,33 +20,31 @@
         center: {lat: 47, lng: 10},
         zoom: 8
       });
+      
+      var marker;
+      function placeMarker(location) {
+        if ( marker ) {
+          marker.setPosition(location);
+        } else {
+          marker = new google.maps.Marker({
+            position: location,
+            map: map
+          });
+        }
 
-      marker = new google.maps.Marker({
-        position: location,
-        map: map
+        $("#location").val(location);
+      }
+      google.maps.event.addListener(map, 'click', function(event) {
+        placeMarker(event.latLng);
       });
+
     }
   </script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkWSWnpxsBOeCI1OxJYzNCUISihFGKCL8&callback=initMap"
   async defer> </script>
 
   <script>
-  var marker;
-  function placeMarker(location) {
-    if (marker) {
-      marker.setPosition(location);
-    } else {
-      marker = new google.maps.Marker({
-        position: location,
-        map: map
-      });
-    }
-    $("#location").val(location);
-  }
-  google.maps.event.addListener(map, 'click', function(event) {
-    console.log(event.latLng);
-    placeMarker(event.latLng);
-  });
+
 </script>
 {% else %}
 <h2>Please register to add locations!</h2>
