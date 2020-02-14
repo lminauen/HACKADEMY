@@ -15,6 +15,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.reverse import reverse
 from rest_framework.views import APIView
+import requests
 
 from mainApp import forms
 from mainApp.models import items, UserProfileInfo
@@ -34,9 +35,22 @@ class mainView(View):
     output = {}
 
     def get(self, request, output=output):
-        output.update({'message': "HEYO"})
-        return render(request, 'mainApp/index.html', output)
-
+        
+        URL = "http://ec2-3-122-240-56.eu-central-1.compute.amazonaws.com:8000/api/items/nearestitems?type=1&number=100&lat=12.0023&lng=12.0303"
+        
+        r = requests.get(url=URL)
+        data = r.json()
+        
+        items = []
+        
+        for i in data:
+            item = [float(i['latitude']), float(i['longitude'])]
+            items.append(item)
+        print(items)
+        print("ITEMS")
+        
+        return render(request, 'mainApp/index.html', {'items': items})
+        
 
 @api_view(['GET'])
 def api_root(request, format=None):
@@ -287,9 +301,9 @@ def edit_item(request):
         args['form'] = form
         return render(request, '../templates/mainApp/edititem.html', {'item_form': form})
 
-@login_required
+
 class myItems(View):
     def get(self, request):
         myitems = items.objects.all()
         return render(request, 'accounts/myitems.html', {'items': myitems})
-    
+        

@@ -3,7 +3,7 @@ body {
 }
 
 .main-container {
-  max-width:1200px;
+  max-width:100%;
   width:100%;
   padding:calc(40px + 2vw);
   margin:0 auto;
@@ -21,7 +21,7 @@ body {
 .header img {
   max-width:100px;
   float:left;
-  padding:2vw;
+  padding:15px;
   display:flex;
 }
 
@@ -98,13 +98,14 @@ form.registration select {
 form.registration input,
 form.registration select {
 width:100%;
-max-width:400px;
 border-radius:5px;
 border:1px solid #dbdbdb;
 }
 
 form.registration input[type="submit"] {
   margin-top:30px;
+  background-color:#00a651;
+  color:#FFFFFF;
 }
 
 form.registration label {
