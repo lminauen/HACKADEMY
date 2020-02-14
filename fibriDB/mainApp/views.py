@@ -4,11 +4,11 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
 from django.http import HttpResponse
-<<<<<<< HEAD
+#<<<<<<< HEAD
 from django.shortcuts import render
-=======
-from django.shortcuts import render, render_to_response, redirect
->>>>>>> 9b1433e6d48b77fdb14677812f085fa7040fa2ce
+#=======
+from django.shortcuts import render, redirect #render_to_response
+#>>>>>>> 9b1433e6d48b77fdb14677812f085fa7040fa2ce
 from django.template import RequestContext
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
@@ -222,12 +222,12 @@ def edit_profile(request):
             user = form.save()
             user.set_password(user.password)
             user.save()
-            
+
             profile = profileForm.save(commit=False)
             profile.user = user
 
             profile.save()
-                        
+
             profile = UserProfileInfo.objects.get(pk=request.user.id)
             form = forms.UserProfileInfoForm(instance=profile)
             UserForm = forms.UserForm(instance=request.user)
