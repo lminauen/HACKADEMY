@@ -4,11 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
 from django.http import HttpResponse
-<<<<<<< HEAD
-from django.shortcuts import render
-=======
-from django.shortcuts import render, render_to_response, redirect
->>>>>>> 9b1433e6d48b77fdb14677812f085fa7040fa2ce
+from django.shortcuts import render, redirect
 from django.template import RequestContext
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
