@@ -4,15 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import Http404
 from django.http import HttpResponse
-<<<<<<< HEAD
-#<<<<<<< HEAD
-from django.shortcuts import render
-#=======
-from django.shortcuts import render, redirect #render_to_response
-#>>>>>>> 9b1433e6d48b77fdb14677812f085fa7040fa2ce
-=======
 from django.shortcuts import render, redirect
->>>>>>> c0fc13df255f44714dd66257fd9ebadab258ddd4
 from django.template import RequestContext
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
@@ -28,6 +20,7 @@ from mainApp import forms
 from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
+
 import math
 from decimal import *
 
