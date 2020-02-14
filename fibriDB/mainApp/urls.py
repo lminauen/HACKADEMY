@@ -5,7 +5,6 @@ from rest_framework.urlpatterns import format_suffix_patterns
 from mainApp import views
 
 # TEMPLATE TAGGING
-from mainApp.views import nearest_items
 
 app_name = 'mainApp'
 
@@ -18,7 +17,7 @@ urlpatterns = [
     path('api/items/<int:pk>/', views.ItemDetail.as_view()),
     path('api/', views.api_root, name='api'),
     path('editprofile', views.edit_profile, name='editprofile'),
-    url(r'^api/items/nearestitems$', view=nearest_items, name='callback'),
+    url(r'^api/items/nearestitems$', views.NearestItems.as_view()),
     url('user', views.userAccount.as_view(), name='user'),
     url('item', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),

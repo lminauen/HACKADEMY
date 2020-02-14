@@ -2,7 +2,7 @@ from django import forms
 from django.contrib.auth.models import User
 from mainApp.models import UserProfileInfo
 from mainApp.models import items
-# from mapwidgets.widgets import GooglePointFieldInlineWidget
+#from mapwidgets.widgets import GooglePointFieldInlineWidget
 
 
 class UserForm(forms.ModelForm):
