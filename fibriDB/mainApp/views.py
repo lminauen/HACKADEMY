@@ -36,7 +36,7 @@ class mainView(View):
 
     def get(self, request, output=output):
         
-        URL = "http://ec2-3-122-240-56.eu-central-1.compute.amazonaws.com:8000/api/items/nearestitems?type=1&number=100&lat=12.0023&lng=12.0303"
+        URL = "http://127.0.0.1:8000/api/items/nearestitems?type=1&number=100&lat=12.0023&lng=12.0303"
         
         r = requests.get(url=URL)
         data = r.json()
@@ -233,12 +233,12 @@ def edit_profile(request):
             user = form.save()
             user.set_password(user.password)
             user.save()
-
+            
             profile = profileForm.save(commit=False)
             profile.user = user
 
             profile.save()
-
+                        
             profile = UserProfileInfo.objects.get(pk=request.user.id)
             form = forms.UserProfileInfoForm(instance=profile)
             UserForm = forms.UserForm(instance=request.user)
@@ -258,28 +258,6 @@ def edit_profile(request):
         args['UserForm'] = UserForm
         args['profile_form'] = form
         return render(request, 'mainApp/editprofile.html', args)
-
-
-@login_required
-def edit_item(request):
-    if request.method == 'POST':
-        form = forms.UserForm(request.POST)
-        profile_form = forms.UserProfileInfoForm(request.POST, request.FILES,
-                                                 instance=request.user.userprofileinfo)  # request.FILES is show the selected image or file
-
-        if form.is_valid() and profile_form.is_valid():
-            user_form = form.save()
-            custom_form = profile_form.save(False)
-            custom_form.user = user_form
-            custom_form.save()
-            return redirect('mainApp:editprofile')
-    else:
-        form = forms.ItemForm(instance=request.user)
-        args = {}
-        # args.update(csrf(request))
-        args['form'] = form
-        args['profile_form'] = profile_form
-        return render(request, 'accounts/editprofile.html', args)
 
 
 @login_required
