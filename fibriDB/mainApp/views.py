@@ -20,6 +20,7 @@ from mainApp import forms
 from mainApp.models import items, UserProfileInfo
 from mainApp.permissions import IsCreatorOrReadOnly
 from mainApp.serializers import ItemsSerializer, UserSerializer, NearestItemSerializer
+
 import math
 from decimal import *
 
@@ -218,12 +219,12 @@ def edit_profile(request):
             user = form.save()
             user.set_password(user.password)
             user.save()
-            
+
             profile = profileForm.save(commit=False)
             profile.user = user
 
             profile.save()
-                        
+
             profile = UserProfileInfo.objects.get(pk=request.user.id)
             form = forms.UserProfileInfoForm(instance=profile)
             UserForm = forms.UserForm(instance=request.user)

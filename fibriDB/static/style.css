@@ -113,4 +113,8 @@ form.registration label {
 
 form.registration .helptext {
   display:none;
-}
+  
+#map {
+    height: 300px;
+    width: 100%;
+  }

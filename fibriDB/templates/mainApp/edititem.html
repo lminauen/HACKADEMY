@@ -1,18 +1,55 @@
 <!DOCTYPE html>
 {% extends 'fibriDB/base.html' %}
 {% load static %}
-  {% block body_block %}
+{% block body_block %}
+<h1>Add Defibrillator-Location</h1>
+{% if user.is_authenticated %}
+<h2>Welcome {{ user.username }}!</h2>
+<form method="POST" enctype="multipart/form-data">
+  {% csrf_token %}
+  {{ item_form.as_p }}
+  <input id="location" name="location" type="hidden" value="" />
+  <input type="submit" name="" value="Submit">
+</form>
+<div id="map"></div>
 
-      <h1>Add Defibrillator-Location</h1>
-      {% if user.is_authenticated %}
-          <h2>Welcome {{ user.username }}!</h2>
-          <form method="POST" enctype="multipart/form-data">
-          {% csrf_token %}
-          {{ item_form.as_p }}
-          <input type="submit" name="" value="Submit">
-          </form>
-      {% else %}
-          <h2>Please register to add locations!</h2>
-      {% endif %}
+<script>
+    var map;
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map'), {
+        center: {lat: 47, lng: 10},
+        zoom: 8
+      });
 
-  {% endblock body_block %}
+      marker = new google.maps.Marker({
+        position: location,
+        map: map
+      });
+    }
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkWSWnpxsBOeCI1OxJYzNCUISihFGKCL8&callback=initMap"
+  async defer> </script>
+
+  <script>
+  var marker;
+  function placeMarker(location) {
+    if (marker) {
+      marker.setPosition(location);
+    } else {
+      marker = new google.maps.Marker({
+        position: location,
+        map: map
+      });
+    }
+    $("#location").val(location);
+  }
+  google.maps.event.addListener(map, 'click', function(event) {
+    console.log(event.latLng);
+    placeMarker(event.latLng);
+  });
+</script>
+{% else %}
+<h2>Please register to add locations!</h2>
+{% endif %}
+
+{% endblock body_block %}
