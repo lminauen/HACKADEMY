@@ -63,7 +63,7 @@ class items(models.Model):
         field_values = []
         for field in self._meta.get_fields():
             field_values.append(str(getattr(self, field.name, '')))
-        return ", ".join(field_values)
+        return ",".join(field_values)
 
 class defibModels(models.Model):
     name = models.CharField(max_length=100)
