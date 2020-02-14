@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- items -->
 {% extends 'fibriDB/base.html' %}
 {% load static %}
 {% block body_block %}
@@ -19,7 +20,7 @@
         center: {lat: 47, lng: 10},
         zoom: 8
       });
-      
+
       var marker;
       function placeMarker(lat, long) {
         if ( marker ) {

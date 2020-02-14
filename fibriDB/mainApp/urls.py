@@ -18,10 +18,9 @@ urlpatterns = [
     path('api/', views.api_root, name='api'),
     path('editprofile', views.edit_profile, name='editprofile'),
     url(r'^api/items/nearestitems$', views.NearestItems.as_view()),
-    url('user', views.userAccount.as_view(), name='user'),
-    url('item', views.edit_item, name='item'),
+    url('items', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),
-    # path('myitems', views.myItems.as_view(), name='myitems'),
+    path('myItems', views.myItems.as_view(), name='myItems'),
     url(r'^register/$', views.register, name='register'),
     url('', views.mainView.as_view(), name='main'),
 ]
