@@ -25,11 +25,8 @@
 
       {# Some logic on what to display for last item#}
       {% if user.is_authenticated %}
-<<<<<<< HEAD
       <li><a href="{% url 'mainApp:item' %}">Add Item</a></li>
       <li><a href="{% url 'mainApp:myItems' %}">My Items</a></li>
-=======
->>>>>>> 846340d61b06725040bd186fed2eaa3ed9b87e95
       <li><a href="{% url 'logout' %}">Logout</a></li>
       <li><a href="{% url 'mainApp:editprofile' %}">Edit Profile</a></li>
       {% else %}

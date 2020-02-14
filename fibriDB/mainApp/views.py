@@ -35,22 +35,22 @@ class mainView(View):
     output = {}
 
     def get(self, request, output=output):
-        
+
         URL = "http://ec2-3-122-240-56.eu-central-1.compute.amazonaws.com:8000/api/items/nearestitems?type=1&number=100&lat=12.0023&lng=12.0303"
-        
+
         r = requests.get(url=URL)
         data = r.json()
-        
+
         items = []
-        
+
         for i in data:
             item = [float(i['latitude']), float(i['longitude'])]
             items.append(item)
         print(items)
         print("ITEMS")
-        
+
         return render(request, 'mainApp/index.html', {'items': items})
-        
+
 
 @api_view(['GET'])
 def api_root(request, format=None):
@@ -279,17 +279,9 @@ def edit_item(request):
         args['form'] = form
         return render(request, 'mainApp/edititem.html', {'item_form': form})
 
-<<<<<<< HEAD
-class myItems(View):
-    def get(self, request):
-        myitems = items.objects.all()
-        return render(request, 'mainApp/myitems.html', {'myItems': myitems})
-
-=======
 
 class myItems(View):
     def get(self, request):
         myitems = items.objects.all()
         return render(request, 'accounts/myitems.html', {'items': myitems})
-        
->>>>>>> 846340d61b06725040bd186fed2eaa3ed9b87e95
+
