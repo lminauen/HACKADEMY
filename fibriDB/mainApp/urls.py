@@ -20,7 +20,7 @@ urlpatterns = [
     url(r'^api/items/nearestitems$', views.NearestItems.as_view()),
     url('item', views.edit_item, name='item'),
     url('login', views.user_login, name='login'),
-    path('myitems', views.myItems.as_view(), name='myitems'),
+    path('myItems', views.myItems.as_view(), name='myItems'),
     url(r'^register/$', views.register, name='register'),
     url('', views.mainView.as_view(), name='main'),
 ]

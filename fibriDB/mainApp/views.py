@@ -15,7 +15,6 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.reverse import reverse
 from rest_framework.views import APIView
-import requests
 
 from mainApp import forms
 from mainApp.models import items, UserProfileInfo
@@ -265,7 +264,7 @@ def edit_item(request):
     if request.method == 'POST':
         form = forms.ItemForm(request.POST)
         print(form)
-        
+
         if form.is_valid():
             # item_form = form.save()
             form.save()
@@ -277,11 +276,10 @@ def edit_item(request):
         args = {}
         # args.update(csrf(request))
         args['form'] = form
-        return render(request, '../templates/mainApp/edititem.html', {'item_form': form})
-
+        return render(request, 'mainApp/edititem.html', {'item_form': form})
 
 class myItems(View):
     def get(self, request):
         myitems = items.objects.all()
-        return render(request, 'accounts/myitems.html', {'items': myitems})
-        
+        return render(request, 'mainApp/myitems.html', {'myItems': myitems})
+
