@@ -273,17 +273,19 @@ def edit_item(request):
     if request.method == 'POST':
         form = forms.ItemForm(request.POST)
         print(form)
-        print(request.POST.location)
         
         if form.is_valid():
             # item_form = form.save()
-            return redirect('mainApp:editprofile')
+            form.save()
+            return render(request, 'mainApp/edititem.html', {'item_form': forms.ItemForm()})
+        else:
+            print(form.errors)
     else:
         form = forms.ItemForm(instance=request.user)
         args = {}
         # args.update(csrf(request))
         args['form'] = form
-        return render(request, '../templates/mainApp/edititem.html', {'item_form': items, 'item_form': form})
+        return render(request, '../templates/mainApp/edititem.html', {'item_form': form})
 
 @login_required
 class myItems(View):

@@ -8,7 +8,6 @@
 <form class="registration" method="POST" enctype="multipart/form-data">
   {% csrf_token %}
   {{ item_form.as_p }}
-  <input id="location" name="location" type="hidden" value="" />
   <input type="submit" name="" value="Submit">
 </form>
 <div id="map"></div>
@@ -22,7 +21,7 @@
       });
       
       var marker;
-      function placeMarker(location) {
+      function placeMarker(lat, long) {
         if ( marker ) {
           marker.setPosition(location);
         } else {
@@ -32,10 +31,14 @@
           });
         }
 
-        $("#location").val(location);
+
       }
       google.maps.event.addListener(map, 'click', function(event) {
-        placeMarker(event.latLng);
+        placeMarker(lat=event.latLng.lat(), long=event.latLng.lng());
+        var sublong = parseFloat(long).toFixed(10);
+        var sublat = parseFloat(lat).toFixed(10);
+        $("#id_longitude").val(sublong);
+        $("#id_latitude").val(sublat);
       });
 
     }
